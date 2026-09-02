@@ -1,0 +1,32 @@
+{
+  "index.qmd": {
+    "index.html": "062f0db2"
+  },
+  "Lectures/Lecture2_Measurements.qmd": {
+    "Lecture2_Measurements.html": "66198d2a"
+  },
+  "Lectures/Lecture4_Applications.qmd": {
+    "Lecture4_Applications.html": "bb55bdec"
+  },
+  "Lectures/Lecture6_SimDiffs.qmd": {
+    "Lecture6_SimDiffs.html": "ffdf5421"
+  },
+  "Lectures/Lecture5_R.qmd": {
+    "Lecture5_R.html": "b8a77438"
+  },
+  "Lectures/Lecture9_NumExploration.qmd": {
+    "Lecture9_NumExploration.html": "1218f5e6"
+  },
+  "Lectures/Lecture1_Preliminaries.qmd": {
+    "Lecture1_Preliminaries.html": "a09a3d03"
+  },
+  "Lectures/Lecture8_ChemStructure.qmd": {
+    "Lecture8_ChemStructure.html": "aa0c81f8"
+  },
+  "Lectures/Lecture3_Techniques.qmd": {
+    "Lecture3_Techniques.html": "099f7b44"
+  },
+  "Lectures/Lecture7_Projections.qmd": {
+    "Lecture7_Projections.html": "9475cd5b"
+  }
+}
