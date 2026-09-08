@@ -254,4 +254,4 @@ Raman spectroscopyXRD: x-ray diffraction crystallography
 ## Coming up
 - Seminars are running on Thursday September 17th (F01 and F02)<br>
 <br>
-- Lecture next week: On measurements
+- Lecture next week: What is a measurement?
