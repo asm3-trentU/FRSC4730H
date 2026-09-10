@@ -89,17 +89,17 @@ document.addEventListener("DOMContentLoaded", function() {
 
 ## Reading Assignments (5)
 - **GOAL**: Improve capacity in critical reading
-- Each test has 19 questions evaluating your attention to detail, ability to think critically, *ability to think broadly*, and ability to communicate effectively
-- Give yourself 1-2 hours per assignment (e.g., work on the assignment during seminar time)
-- Discussion of these assignments leads directly to your Critical Review Article assignment
-- Discussion of these assignments may help with constructing a research proposal
+    - Each test has 19 questions evaluating your attention to detail, ability to think critically, *ability to think broadly*, and ability to communicate effectively
+    - Give yourself 1-2 hours per assignment (e.g., work on the assignment during seminar time)
+    - Discussion of these assignments leads directly to your Critical Review Article assignment
+    - Discussion of these assignments may help with constructing a research proposal
 
 ## Programming Assignments (2)
 - **GOAL**: Improve your comfort/capabilities solving problems using the R programming language
-- Each test has 10 questions chosen randomly from designed pools 
-- You can try each assignment three times; we'll take your average score across all attempts as your grade
-- Give yourself 2-3 hours per assignment (e.g., work on the assignments during a few seminar)
-- These assignments may help with constructing a research proposal
+    - Each test has 10 questions chosen randomly from designed pools 
+    - You can try each assignment three times; we'll take your average score across all attempts as your grade
+    - Give yourself 2-3 hours per assignment (e.g., work on the assignments during a few seminar)
+    - These assignments may help with constructing a research proposal
 
 
 ## Methods Presentation
@@ -112,10 +112,10 @@ document.addEventListener("DOMContentLoaded", function() {
 
 ## Research Proposal Presentation
 - **GOAL**:  Demonstrate your ability **to pitch** a potential research project through a short presentationl a very common task for working forensic chemists
-- You may work alone or in groups of at most 4 students (can be same or different group from methods presentation)
-- Start as soon as possible and give yourself 12-16 hours
-- Submit a link to your recorded presentation via Blackboard by November 6th, 2026 at 11:59 PM.
-- Feedback from this presentation may help with written research proposal
+    - You may work alone or in groups of at most 4 students (can be same or different group from methods presentation)
+    - Start as soon as possible and give yourself 12-16 hours
+    - Submit a link to your recorded presentation via Blackboard by November 6th, 2026 at 11:59 PM.
+    - Feedback from this presentation may help with written research proposal
 
 ## Written Research Proposal 
 - **GOAL**: Demonstrate your ability to create a formal research proposal; very common task for public sector scientist 
@@ -126,15 +126,15 @@ document.addEventListener("DOMContentLoaded", function() {
 
 ## Critical Review Article
 - **GOAL**: Demonstrate your ability to critically evaluate a research article within context AND communicate your opinions to an audience
-- **You must work independently**
-- Give yourself an additional 6-10 hours (assuming you gave yourself 1-2 hours to read the article during the reading assignments)
-- Submit your critical review article via Blackboard by December 3rd, 2026 at 11:59 PM
-- May be a useful writing sample when apply to jobs
+    - **You must work independently**
+    - Give yourself an additional 6-10 hours (assuming you gave yourself 1-2 hours to read the article during the reading assignments)
+    - Submit your critical review article via Blackboard by December 3rd, 2026 at 11:59 PM
+    - May be a useful writing sample when apply to jobs
 
 
 ## Course Policy (1/3)
 - **Attendance**: You are encouraged to attend lecture and seminar
-  - you DO NOT need to contact us if you cannot attend
+  - you DO NOT need to contact me if you cannot attend<br><br>
 
 - **Due Dates**: All assignments are due as outlined in the syllabus.Assignments submitted after the due date will be penalized at a rate of 5% per 30 minutes that the assignment is late.
 
@@ -218,7 +218,9 @@ ATR-FTIR : Attenuated Total Reflection Fourier Transform Infrared Spectroscopy
 
 LC-MS: liquid chromatography mass spectrometry
 
-Raman spectroscopyXRD: x-ray diffraction crystallography 
+Raman spectroscopy
+
+XRD: x-ray diffraction crystallography 
 
 :::
 
