@@ -243,12 +243,12 @@ Raman spectroscopyXRD: x-ray diffraction crystallography
 ![](../figures/CFS_ForensicChemistry.svg){width="90%" fig-align="center"}
 :::
 ::::
-[https://www.ontario.ca/page/chemistry-unit-centre-forensic-sciences](https://www.ontario.ca/page/chemistry-unit-centre-forensic-sciences){style="font-size: 0.3em;"}
+[https://www.ontario.ca/page/chemistry-unit-centre-forensic-sciences](https://www.ontario.ca/page/chemistry-unit-centre-forensic-sciences){target="_blank" style="font-size: 0.3em;"}
 
 
 ## An excellent review of the field
 ![](../figures/Evans-Nguyen.svg){width="80%" fig-align="center"}
-[https://pubs.acs.org/doi/book/10.1021/acsinfocus.7e5009](https://pubs.acs.org/doi/book/10.1021/acsinfocus.7e5009){style="font-size:0.3em;"}
+[https://pubs.acs.org/doi/book/10.1021/acsinfocus.7e5009](https://pubs.acs.org/doi/book/10.1021/acsinfocus.7e5009){target="_blank" style="font-size:0.3em;"}
 
 
 ## Coming up
