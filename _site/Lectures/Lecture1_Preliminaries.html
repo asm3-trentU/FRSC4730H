@@ -1126,7 +1126,7 @@ document.addEventListener("DOMContentLoaded", function() {
 <li class="fragment">Each test has 19 questions evaluating your attention to detail, ability to think critically, <em>ability to think broadly</em>, and ability to communicate effectively</li>
 <li class="fragment">Give yourself 1-2 hours per assignment (e.g., work on the assignment during seminar time)</li>
 <li class="fragment">Discussion of these assignments leads directly to your Critical Review Article assignment</li>
-<li class="fragment">Discussion of these assignments may help with constructing a research proposal</li>
+<li class="fragment">Discussion of these assignments may help with constructing a Research Proposal</li>
 </ul></li>
 </ul>
 </section>
@@ -1146,7 +1146,7 @@ document.addEventListener("DOMContentLoaded", function() {
 <h2>Methods Presentation</h2>
 <ul>
 <li class="fragment"><strong>GOAL</strong>: Demonstrate your ability to explain an analytical method; very common task for working forensic chemists</li>
-<li class="fragment">You make work alone or in groups of at most 3 students</li>
+<li class="fragment">You may work alone or in groups of at most 3 students</li>
 <li class="fragment">Start as soon as possible and give yourself 8-12 hours to complete this assignment</li>
 <li class="fragment">Submit a link to your recorded presentation via Blackboard by October 16th, 2026 at 11:59 PM.</li>
 <li class="fragment">Feedback from this presentation may help with constructing a research proposal</li>
@@ -1155,7 +1155,7 @@ document.addEventListener("DOMContentLoaded", function() {
 <section id="research-proposal-presentation" class="slide level2">
 <h2>Research Proposal Presentation</h2>
 <ul>
-<li class="fragment"><strong>GOAL</strong>: Demonstrate your ability <strong>to pitch</strong> a potential research project through a short presentationl a very common task for working forensic chemists
+<li class="fragment"><strong>GOAL</strong>: Demonstrate your ability <strong>to pitch</strong> a potential research project through a short presentation; a very common task for working forensic chemists
 <ul>
 <li class="fragment">You may work alone or in groups of at most 4 students (can be same or different group from methods presentation)</li>
 <li class="fragment">Start as soon as possible and give yourself 12-16 hours</li>
@@ -1167,11 +1167,13 @@ document.addEventListener("DOMContentLoaded", function() {
 <section id="written-research-proposal" class="slide level2">
 <h2>Written Research Proposal</h2>
 <ul>
-<li class="fragment"><strong>GOAL</strong>: Demonstrate your ability to create a formal research proposal; very common task for public sector scientist</li>
+<li class="fragment"><strong>GOAL</strong>: Demonstrate your ability to create a formal research proposal; very common task for public sector scientist
+<ul>
 <li class="fragment">You should work with the same group you’ve committed to with your proposal presentation</li>
 <li class="fragment">Start as soon as possible and give yourself an additional 8-10 hours</li>
 <li class="fragment">Submit your written proposal via Blackboard by November 27th, 2026 at 11:59 PM</li>
 <li class="fragment">May help with graduate school applications</li>
+</ul></li>
 </ul>
 </section>
 <section id="critical-review-article" class="slide level2">
@@ -1193,7 +1195,7 @@ document.addEventListener("DOMContentLoaded", function() {
 <ul>
 <li class="fragment">you DO NOT need to contact me if you cannot attend<br><br></li>
 </ul></li>
-<li class="fragment"><strong>Due Dates</strong>: All assignments are due as outlined in the syllabus.Assignments submitted after the due date will be penalized at a rate of 5% per 30 minutes that the assignment is late.</li>
+<li class="fragment"><strong>Due Dates</strong>: All assignments are due as outlined in the syllabus. Assignments submitted after the due date will be penalized at a rate of 5% per 30 minutes that the assignment is late.</li>
 </ul>
 </section>
 <section id="course-policy-23" class="slide level2">
@@ -1210,11 +1212,11 @@ document.addEventListener("DOMContentLoaded", function() {
 <h2>Course Policy (3/3)</h2>
 <ul>
 <li class="fragment"><p><strong>Use of generative AI and other software tools</strong>: In general, you may use generative AI tools (e.g., Microsoft Co-pilot) and other software tools to help you brainstorm ideas and learn concepts for assignments in this class. However, we have some specific requirements that you should adhere to:</p>
-<ol type="1">
-<li class="fragment">All submitted work must be your own. I.e., Do not plagiarize.</li>
-<li class="fragment">Any mistakes in your work due to use of generative AI or other software tools are YOUR responsibility and will be penalized accordingly.</li>
-<li class="fragment">DO NOT upload other peoples’ work to a generative AI services; this is a breach of copyright.</li>
-</ol></li>
+<pre><code> 1. All submitted work must be your own. I.e., Do not plagiarize.
+
+ 2. Any mistakes in your work due to use of generative AI or other software tools are YOUR responsibility and will be penalized accordingly. 
+
+ 3. DO NOT upload other peoples&#39; work to a generative AI services; this is a breach of copyright. </code></pre></li>
 </ul>
 </section>
 <section id="section" class="slide level2 center">
@@ -2579,7 +2581,7 @@ window.QuartoSupport = function () {
         }
           var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
           var mailtoRegex = new RegExp(/^mailto:/);
-            var filterRegex = new RegExp("https:\/\/asm3-trentU\.github\.io\/FRSC4730H\/");
+            var filterRegex = new RegExp('/' + window.location.host + '/');
           var isInternal = (href) => {
               return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
           }
