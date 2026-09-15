@@ -104,10 +104,10 @@ document.addEventListener("DOMContentLoaded", function() {
 
 ## Methods Presentation
 - **GOAL**: Demonstrate your ability to explain an analytical method; very common task for working forensic chemists
-- You may work alone or in groups of at most 3 students
-- Start as soon as possible and give yourself 8-12 hours to complete this assignment
-- Submit a link to your recorded presentation via Blackboard by October 16th, 2026 at 11:59 PM. 
-- Feedback from this presentation may help with constructing a research proposal
+    - You may work alone or in groups of at most 3 students
+    - Start as soon as possible and give yourself 8-12 hours to complete this assignment
+    - Submit a link to your recorded presentation via Blackboard by October 16th, 2026 at 11:59 PM. 
+    - Feedback from this presentation may help with constructing a research proposal
 
 
 ## Research Proposal Presentation
