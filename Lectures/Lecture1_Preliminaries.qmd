@@ -64,6 +64,13 @@ document.addEventListener("DOMContentLoaded", function() {
 - **Office hours:** Tuesday 9 to 11 am
 - **Email:** arunmoorthy@trentu.ca (usual respond within 48 hours)
 
+## Peer Note-taking Support
+
+::: {.nonincremental}
+- **Request:** Share your notes with Student Accessibility Services, who will redirect them to your classmates that need accessibility support. 
+- **Benefit to you:** You'll receive a certificate at the end of the course, and the service will appear on your co-curricular record. 
+- **How to volunteer:** sign up online through the SAS Portal on MyTrent $\rightarrow$ Academic Support $\rightarrow$ Support $\rightarrow$ SAS Portal $\rightarrow$ Volunteer Note-taker sign-up: log in & upload.
+:::
 
 ## Course Structure
 
