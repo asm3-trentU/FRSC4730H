@@ -179,7 +179,7 @@ A quick tour of blackboard
 
 ::: {.column width="60%" .nonincremental}
 - Forensic chemistry is a phrase used to describe the application of chemistry to analyze evidence involved with suspected/potential criminal activity<br><br>
-- The branch of chemistry *predominantly* associated with traditional forensic chmistry is analytical chemistry
+- The branch of chemistry *predominantly* associated with traditional forensic chemistry is analytical chemistry
 :::
 ::: {.column width="10%"}
 :::
