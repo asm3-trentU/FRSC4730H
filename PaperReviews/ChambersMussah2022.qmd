@@ -20,7 +20,7 @@ execute:
   message: false
 ---
 
-## Reading Assignment 1 Answers 
+## Answers to objective questions
 
 1. Citation: 
 [Chambers MI, Musah RA. DART-HRMS as a triage approach for the rapid analysis of cannabinoid-infused edible matrices, personal-care products and Cannabis sativa hemp plant material. Forensic Chem. 2022;27:100382.](https://doi.org/10.1016/j.forc.2021.100382){target="_blank"}<br><br>
@@ -92,7 +92,7 @@ document.addEventListener("DOMContentLoaded", function() {
     - Background on the overall problems of backlog was substantial
       - maybe too substantial?
     - "... readily detected regardless of matrix type."
-
+    - always have fun thinking about the lab experience
 
 
 
