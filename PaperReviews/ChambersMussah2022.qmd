@@ -75,7 +75,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 12. \# of intro paragraphs: 6<br><br>
 
-## Answers to objective questions
+## Answers to objective questions (September 20, 2026)
 
 17. According to google scholar, how many citations: 30<br><br>
 
