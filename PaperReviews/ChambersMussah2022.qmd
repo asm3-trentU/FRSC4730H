@@ -1,0 +1,98 @@
+---
+title: "DART-HRMS as a triage approach for the rapid analysis of cannabinoid-infused edible matrices, personal-care products and Cannabis sativa hemp plant material."
+date: ""
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    transition: fade
+    incremental: true
+    chalkboard: false
+    width: 1280
+    height: 720
+    margin: 0.08
+    css: ../styles.css
+    embed-resources: true
+
+execute:
+  echo: true
+  warning: false
+  message: false
+---
+
+## Reading Assignment 1 Answers 
+
+1. Citation: 
+[Chambers MI, Musah RA. DART-HRMS as a triage approach for the rapid analysis of cannabinoid-infused edible matrices, personal-care products and Cannabis sativa hemp plant material. Forensic Chem. 2022;27:100382.](https://doi.org/10.1016/j.forc.2021.100382){target="_blank"}<br><br>
+
+2. Journal: Forensic Chemistry<br><br>
+
+3. \# printed pages: 9 printed pages<br><br>
+
+4. Lead Author: Megan Chambers
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const button = document.createElement("button");
+
+  button.innerHTML = "☾";
+  button.title = "Toggle night mode";
+
+  button.style.position = "fixed";
+  button.style.top = "15px";
+  button.style.right = "15px";
+  button.style.zIndex = "1000";
+  button.style.fontSize = "1.2em";
+  button.style.padding = "5px 10px";
+
+  button.onclick = function() {
+    document.querySelector(".reveal").classList.toggle("night-mode");
+  };
+
+  document.body.appendChild(button);
+});
+</script>
+
+
+## Answers to objective questions
+
+5. Corresponding Author: Rabi Musah<br><br>
+
+6. Affiliation: SUNY Albany (LSU)<br><br>
+
+7. Contact Info: rmusah@albany.edu <br><br>
+
+8. \# institutions involved with **writing** the article: 1<br><br>
+
+## Answers to objective questions
+
+9. Main Headings/Sections: 
+*Title/Author information*, Abstract, Introduction, Materials and Methods, Results and Discussion, Conclusion, *Declaration of Competing Interests*, *Acknowledgements*, *Supplementary Data*, and References<br><br>
+
+10. \# of figures/tables: 6<br><br>
+
+11. \# of references: 36<br><br>
+
+12. \# of intro paragraphs: 6<br><br>
+
+## Answers to objective questions
+
+17. According to google scholar, how many citations: 30<br><br>
+
+18. Most recent article: 
+[Nichols NA, Dane AJ & Musah RA. Detection and identification of small-molecule cracking products formed on pyrolysis of cannabidiol part 1: C3 – C10 compounds. J Cannabis Res 8, 90 (2026).](https://doi.org/10.1186/s42238-026-00442-8){target="_blank"}
+
+## Reflections
+
+- Arun's quick reflection:
+    - "Demonstration" study; the starting point for a validation
+    - Not much in the way of data analysis 
+      - which itself is not a problem, but always something I look forward to reading
+    - Sample creation methods were **incredibly detailed**
+    - Background on the overall problems of backlog was substantial
+      - maybe too substantial?
+    - "... readily detected regardless of matrix type."
+
+
+
+

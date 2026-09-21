@@ -1,5 +1,5 @@
 ---
-title: "Course Preliminaries"
+title: "What is a measurement?"
 date: ""
 format:
   revealjs:
@@ -11,151 +11,40 @@ format:
     width: 1280
     height: 720
     margin: 0.08
+    css: ../styles.css
     embed-resources: true
-  # beamer:
-  #   theme: metropolis
-  #   aspectratio: 169
-  #   incremental: true
-  #   embed-resources: true
-  # pptx:
-  #   slide-level: 2
+
 execute:
   echo: true
   warning: false
   message: false
 ---
 
-## Course Background
+## Consider the following scenario
 
 
-::: {.notes}
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const button = document.createElement("button");
 
-:::
+  button.innerHTML = "☾";
+  button.title = "Toggle night mode";
 
-## Course Facilitators
+  button.style.position = "fixed";
+  button.style.top = "15px";
+  button.style.right = "15px";
+  button.style.zIndex = "1000";
+  button.style.fontSize = "1.2em";
+  button.style.padding = "5px 10px";
 
-::: {.notes}
+  button.onclick = function() {
+    document.querySelector(".reveal").classList.toggle("night-mode");
+  };
 
-:::
+  document.body.appendChild(button);
+});
+</script>
 
 
 
-## Peer Notetaking Support
-
-::: {.notes}
-
-
-:::
-
-## Course Structure
-
-::: {.notes}
-
-
-:::
-
-
-## Delverables
-
-::: {.notes}
-
-
-:::
-
-
-## Introduction Quiz
-
-
-::: {.notes}
-
-
-:::
-
-## Content Quizzes (x 10)
-
-::: {.notes}
-
-
-:::
-
-## Lab Tests
-
-::: {.notes}
-
-:::
-
-## Annotated Bibliography 
-
-
-::: {.notes}
-
-:::
-
-## Research Proposal
-
-::: {.notes}
-
-:::
-
-## Data Presentation
-
-
-::: {.notes}
-
-:::
-
-
-## Article Critique
-
-::: {.notes}
-
-:::
-
-## Final Exam
-
-::: {.notes}
-
-:::
-
-
-## Grades
-
-::: {.notes}
-
-:::
-
-
-
-## Course Policy
-
-::: {.notes}
-
-:::
-
-
-
-###
-::: {.center}
-A quick tour of blackboard
-:::
-
-::: {.notes}
-
-:::
-
-
-## How to get the most out of this course
-
-
-## On Epistemology
-
-## History of scientific development
-
-## The scientific  method
-
-## What's so unique about forensic science
-
-##
-::: {.center}
-Good luck with content quiz 1!<br>(Due September 17 at 11:59 PM)
-:::
+## Slide 2
