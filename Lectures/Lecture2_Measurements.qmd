@@ -20,8 +20,9 @@ execute:
   message: false
 ---
 
-## Consider the following scenario
+## Consider the following sample
 
+![](../figures/White-Powder.png){fig-align="center"}
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {
@@ -47,4 +48,8 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 
-## Slide 2
+## What can we measure?
+
+Assuming that we received it in a baggie, we can meaure:
+
+1. The

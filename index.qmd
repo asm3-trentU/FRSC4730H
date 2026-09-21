@@ -16,5 +16,3 @@ Welcome to the FRSC 4730H course backend webpage. These are the presentations I 
 - [8: Representing chemical structure](Lectures/Lecture8_ChemStructure.html)
 - [9: A numerical exploration of molecular space](Lectures/Lecture9_NumExploration.html)
 
-## Paper Reviews
-- [1: Chambers & Musah](PaperReviews/ChambersMussah2022.html)
