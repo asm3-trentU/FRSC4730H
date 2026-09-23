@@ -658,13 +658,6 @@
     "text": "Lectures\n\n1: Course admin + Review of forensic chemistry\n2: What is a measurement\n3: Emerging analytical technicques in forensic chemistry\n4: Emerging Applications of chemistry in forensic science\n5: An introduction to (or refresher on) programming in R\n6: Similarities and differences\n7: Projections and dimensionality reduction\n8: Representing chemical structure\n9: A numerical exploration of molecular space"
   },
   {
-    "objectID": "index.html#paper-reviews",
-    "href": "index.html#paper-reviews",
-    "title": "FRSC 4730H - Advanced Topics in Forensic Chemistry",
-    "section": "Paper Reviews",
-    "text": "Paper Reviews\n\n1: Chambers & Musah"
-  },
-  {
     "objectID": "Lectures/Lecture4_Applications.html#course-background",
     "href": "Lectures/Lecture4_Applications.html#course-background",
     "title": "Course Preliminaries",
@@ -1265,5 +1258,152 @@
     "title": "Course Preliminaries",
     "section": "",
     "text": "Good luck with content quiz 1!(Due September 17 at 11:59 PM)"
+  },
+  {
+    "objectID": "Lectures/Lecture2_Measurements.html#what-is-a-sample",
+    "href": "Lectures/Lecture2_Measurements.html#what-is-a-sample",
+    "title": "What is a measurement?",
+    "section": "What is a sample?",
+    "text": "What is a sample?\n\n\n A sample is a physical material we are trying to identify (or classify or safely dispose of or otherwise deal with)\n\nUsually a subset of a larger population\nInsights from the sample may allow us to infer something about the population"
+  },
+  {
+    "objectID": "Lectures/Lecture2_Measurements.html#what-is-a-structure",
+    "href": "Lectures/Lecture2_Measurements.html#what-is-a-structure",
+    "title": "What is a measurement?",
+    "section": "What is a structure?",
+    "text": "What is a structure?\n\n\n A structure is a human-defined representation of the relationship between the atoms that constitute a compound\n\nNames [common vs IUPAC]\nEncodings [SMILES vs InChI vs InChIKey]\n\nDiagrams [Line drawings]\n\nHow materials are described; How materials are scheduled"
+  },
+  {
+    "objectID": "Lectures/Lecture2_Measurements.html#examples-of-measurements",
+    "href": "Lectures/Lecture2_Measurements.html#examples-of-measurements",
+    "title": "What is a measurement?",
+    "section": "Examples of measurements",
+    "text": "Examples of measurements\n\n\nConsider the shape to the right.\nWe can measure its height: 5 a.u."
+  },
+  {
+    "objectID": "Lectures/Lecture2_Measurements.html#what-is-a-measurement",
+    "href": "Lectures/Lecture2_Measurements.html#what-is-a-measurement",
+    "title": "What is a measurement?",
+    "section": "What is a measurement?",
+    "text": "What is a measurement?\n\nA measurement is a quantity that characterizes some physical or phenomenological property of a sample \nIn analytical (forensic) chemistry, a measurement is a feature that can be used to infer structure from a sample"
+  },
+  {
+    "objectID": "Lectures/Lecture2_Measurements.html#example-measurements",
+    "href": "Lectures/Lecture2_Measurements.html#example-measurements",
+    "title": "What is a measurement?",
+    "section": "Example measurements",
+    "text": "Example measurements\n\n\nConsider the shape to the right."
+  },
+  {
+    "objectID": "Lectures/Lecture2_Measurements.html#example-measurements-1",
+    "href": "Lectures/Lecture2_Measurements.html#example-measurements-1",
+    "title": "What is a measurement?",
+    "section": "Example measurements",
+    "text": "Example measurements\n\n\nConsider the shape to the right.\nWe can measure its height: 5 a.u."
+  },
+  {
+    "objectID": "Lectures/Lecture2_Measurements.html#example-measurements-2",
+    "href": "Lectures/Lecture2_Measurements.html#example-measurements-2",
+    "title": "What is a measurement?",
+    "section": "Example measurements",
+    "text": "Example measurements\n\n\nConsider the shape to the right.\nWe can measure its height: 5 a.u.\nConsider these other two shapes.\nWe can measure their heights: 2 a.u. and 7 a.u."
+  },
+  {
+    "objectID": "Lectures/Lecture2_Measurements.html#example-measurements-3",
+    "href": "Lectures/Lecture2_Measurements.html#example-measurements-3",
+    "title": "What is a measurement?",
+    "section": "Example measurements",
+    "text": "Example measurements\n\n\nConsider the shape to the right.\nWe can measure its height: 5 a.u.\nConsider these other two shapes.\nWe can measure their heights: 2 a.u. and 7 a.u.\nThese would be considered scalar measurements."
+  },
+  {
+    "objectID": "Lectures/Lecture2_Measurements.html#example-measurements-4",
+    "href": "Lectures/Lecture2_Measurements.html#example-measurements-4",
+    "title": "What is a measurement?",
+    "section": "Example measurements",
+    "text": "Example measurements\n\n\nWe can also measure their widths."
+  },
+  {
+    "objectID": "Lectures/Lecture2_Measurements.html#example-measurements-5",
+    "href": "Lectures/Lecture2_Measurements.html#example-measurements-5",
+    "title": "What is a measurement?",
+    "section": "Example measurements",
+    "text": "Example measurements\n\n\nWe can also measure their widths.  These also would be considered scalar measurements."
+  },
+  {
+    "objectID": "Lectures/Lecture2_Measurements.html#example-measurements-6",
+    "href": "Lectures/Lecture2_Measurements.html#example-measurements-6",
+    "title": "What is a measurement?",
+    "section": "Example measurements",
+    "text": "Example measurements\n\n\nWe can also measure their widths.  These also would be considered scalar measurements. We can also think of these as “1-Dimensional” measurements"
+  },
+  {
+    "objectID": "Lectures/Lecture2_Measurements.html#example-measurements-7",
+    "href": "Lectures/Lecture2_Measurements.html#example-measurements-7",
+    "title": "What is a measurement?",
+    "section": "Example measurements",
+    "text": "Example measurements\n\n\nWe can also look at two measurements simultaneously.  These are individual measurements of two properties."
+  },
+  {
+    "objectID": "Lectures/Lecture2_Measurements.html#example-measurements-8",
+    "href": "Lectures/Lecture2_Measurements.html#example-measurements-8",
+    "title": "What is a measurement?",
+    "section": "Example measurements",
+    "text": "Example measurements\n\n\nTogether, we can think of these as a “2-Dimensional” measurement; in some circles these might be called “signatures”"
+  },
+  {
+    "objectID": "Lectures/Lecture2_Measurements.html#scenario",
+    "href": "Lectures/Lecture2_Measurements.html#scenario",
+    "title": "What is a measurement?",
+    "section": "Scenario",
+    "text": "Scenario\n\n\nImagine there was a crime committed, and we know two properties of the shape that committed the crime (shown as a question mark). What can we say?"
+  },
+  {
+    "objectID": "Lectures/Lecture2_Measurements.html#scenario-1",
+    "href": "Lectures/Lecture2_Measurements.html#scenario-1",
+    "title": "What is a measurement?",
+    "section": "Scenario 1",
+    "text": "Scenario 1\n\n\nImagine there was a crime committed, and we know two properties of the shape that committed the crime (shown as a question mark). What can we say?"
+  },
+  {
+    "objectID": "Lectures/Lecture2_Measurements.html#scenario-2",
+    "href": "Lectures/Lecture2_Measurements.html#scenario-2",
+    "title": "What is a measurement?",
+    "section": "Scenario 2",
+    "text": "Scenario 2\n\n\nWhat if we acknowledge the uncertainy (blue) that comes with measurements? What can we say?"
+  },
+  {
+    "objectID": "Lectures/Lecture2_Measurements.html#scenario-3",
+    "href": "Lectures/Lecture2_Measurements.html#scenario-3",
+    "title": "What is a measurement?",
+    "section": "Scenario 3",
+    "text": "Scenario 3\n\n\nWhat if the the measurements of the unknown are even more uncertain (green)? What can we say?"
+  },
+  {
+    "objectID": "Lectures/Lecture2_Measurements.html#scenario-4",
+    "href": "Lectures/Lecture2_Measurements.html#scenario-4",
+    "title": "What is a measurement?",
+    "section": "Scenario 4",
+    "text": "Scenario 4\n\n\nWhat if we acknowledge that there might be other shapes in the world for which we don’t have measurements? What can we say?"
+  },
+  {
+    "objectID": "Lectures/Lecture2_Measurements.html#analytical-measurements",
+    "href": "Lectures/Lecture2_Measurements.html#analytical-measurements",
+    "title": "What is a measurement?",
+    "section": "Analytical Measurements",
+    "text": "Analytical Measurements\n\nMost analytical measurements look like (\\(x\\),\\(y\\))-data and can be thought of as \\(n\\)-dimensional; \\(x\\) is the property, and \\(y\\) is the measurement\n\nMass Spectrometry (abundance of ions with mass-to-charge ratio)\nIR (percent transmittance at wave number)\n\nWe want to use analytical chemistry measurements to make decisions"
+  },
+  {
+    "objectID": "Lectures/Lecture2_Measurements.html#analytical-measurements-1",
+    "href": "Lectures/Lecture2_Measurements.html#analytical-measurements-1",
+    "title": "What is a measurement?",
+    "section": "Analytical Measurements",
+    "text": "Analytical Measurements\n\nAnalytical measurements in forensic chemistry are subject to same issues as all measurements\n\nuncertainty in the reference measurements\npoor quality of the analyte\n“unknowability” in the search space\n\nAnd other specific issues\n\nphenomenological measurements\nchemistry"
+  },
+  {
+    "objectID": "Lectures/Lecture2_Measurements.html#what-is-chemometrics",
+    "href": "Lectures/Lecture2_Measurements.html#what-is-chemometrics",
+    "title": "What is a measurement?",
+    "section": "What is chemometrics",
+    "text": "What is chemometrics\n\nChemometrics is the application of principles from applied mathematics and statistics to chemical measurements\n\nWeek 6: Introduction/Refresher on programming with R\nWeek 9: Calculating similarities and differences\nWeek 10: Projections and dimensionality reductions\nWeek 12: A numerical exploration of chemical space\n\nCheminformatics (applied math and stats to chemical information) on week 11 and 13"
   }
 ]
