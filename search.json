@@ -714,11 +714,11 @@
     "text": "Analytical Measurements\n\nAnalytical measurements in forensic chemistry are subject to same issues as all measurements\n\nuncertainty in the reference measurements\npoor quality of the analyte\n“unknowability” in the search space\n\nAnd other specific issues\n\nphenomenological measurements\nchemistry"
   },
   {
-    "objectID": "Lectures/Lecture2_Measurements.html#what-is-chemometrics",
-    "href": "Lectures/Lecture2_Measurements.html#what-is-chemometrics",
+    "objectID": "Lectures/Lecture2_Measurements.html#on-chemometrics",
+    "href": "Lectures/Lecture2_Measurements.html#on-chemometrics",
     "title": "What is a measurement?",
-    "section": "What is chemometrics",
-    "text": "What is chemometrics\n\nChemometrics is the application of mathematics and statistics (and computing) to chemical measurements\n\nWeek 6: Introduction/Refresher on programming with R\nWeek 9: Calculating similarities and differences\nWeek 10: Projections and dimensionality reductions\nWeek 12: A numerical exploration of chemical space \n\nCheminformatics is the application of mathetics and statistics (and computing) to chemical information on week 11 and 13"
+    "section": "On chemometrics",
+    "text": "On chemometrics\n\nChemometrics is the application of mathematics and statistics (and computing) to chemical measurements\n\nWeek 6: Introduction/Refresher on programming with R\nWeek 9: Calculating similarities and differences\nWeek 10: Projections and dimensionality reductions\nWeek 12: A numerical exploration of chemical space \n\nCheminformatics is the application of mathetics and statistics (and computing) to chemical information on week 11 and 13"
   },
   {
     "objectID": "Lectures/Lecture2_Measurements.html#coming-up",
