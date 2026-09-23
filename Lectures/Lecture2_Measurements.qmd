@@ -340,7 +340,7 @@ What can we say?
     - phenomenological measurements
     - chemistry
     
-## What is chemometrics
+## On chemometrics
 
 - Chemometrics is the application of mathematics and statistics (and computing) to chemical measurements
     - Week 6: Introduction/Refresher on programming with R
