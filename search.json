@@ -1376,14 +1376,14 @@
     "href": "Lectures/Lecture3_Techniques.html#gc-infrared-spectroscopy",
     "title": "Emerging analytical techniques in forensic chemistry",
     "section": "GC Infrared Spectroscopy",
-    "text": "GC Infrared Spectroscopy\nHISTORY\n\nTechnique first described in the literature in 1964 \nDeveloped as an alternative to GC-MS which can better discriminate structural isomers \nSeveral iterations and modifications on the original GC-IR design over the last 50 years; most prominent system now is GC-FTIR"
+    "text": "GC Infrared Spectroscopy\n HISTORY\n\nTechnique first described in the literature in 1964 \nDeveloped as an alternative to GC-MS which can better discriminate structural isomers \nSeveral iterations and modifications on the original GC-IR design over the last 50 years; most prominent system now is GC-FTIR"
   },
   {
     "objectID": "Lectures/Lecture3_Techniques.html#gc-infrared-spectroscopy-1",
     "href": "Lectures/Lecture3_Techniques.html#gc-infrared-spectroscopy-1",
     "title": "Emerging analytical techniques in forensic chemistry",
     "section": "GC Infrared Spectroscopy",
-    "text": "GC Infrared Spectroscopy\n\n\nMECHANISMS\n\nGC is used to separate the sample components\nIR Spectroscopy is used to characterize components based on absorption properties\n\nAbsorption properties tell us about presence/absence of “functional groups”; can be used to infer structure"
+    "text": "GC Infrared Spectroscopy\n MECHANISMS\n\nGC is used to separate the sample components\nIR Spectroscopy is used to characterize components based on absorption properties\n\nAbsorption properties tell us about presence/absence of “functional groups”; can be used to infer structure"
   },
   {
     "objectID": "Lectures/Lecture3_Techniques.html#gc-infrared-spectroscopy-2",
@@ -1411,7 +1411,7 @@
     "href": "Lectures/Lecture3_Techniques.html#gc-infrared-spectroscopy-5",
     "title": "Emerging analytical techniques in forensic chemistry",
     "section": "GC Infrared Spectroscopy",
-    "text": "GC Infrared Spectroscopy\n\nSome useful references include:\n\nGriffiths et al. (2008)\nA description of GC-IR by BOC Sciences solutions\nA description of GC-IR by Chromatoraphy Today (trade magazine)\n\nA great public lecture on GC-IR\nA great resource (LibreText) for learning about infrared spectroscopy and mass spectrometry\n\n\n\ngriffiths covers a lot of the history and future of GC-IR"
+    "text": "GC Infrared Spectroscopy\n\nSome useful references include:\n\nGriffiths et al. (2008)\nA description of GC-IR by BOC Sciences solutions\nA description of GC-IR by Chromatoraphy Today (trade magazine)\n\nA great public lecture on GC-IR \nA great resource (LibreText) for learning about infrared spectroscopy and mass spectrometry\n\n\n\ngriffiths covers a lot of the history and future of GC-IR"
   },
   {
     "objectID": "Lectures/Lecture3_Techniques.html#gc-infrared-spectroscopy-6",
