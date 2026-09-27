@@ -256,7 +256,7 @@ RF: from [Fieder et al. (2019)](https://doi.org/10.1021/acs.analchem.9b00807){ta
 
 
 ## GC Infrared Spectroscopy
-
+<br>
 [**HISTORY**]{.fragment}
 
 - Technique first described in the literature in 1964 <br><br>
@@ -267,11 +267,7 @@ RF: from [Fieder et al. (2019)](https://doi.org/10.1021/acs.analchem.9b00807){ta
 
 
 ## GC Infrared Spectroscopy
-
-:::: {.columns}
-
-:::{.column width="50%}
-
+<br>
 [**MECHANISMS**]{.fragment}
 
   - GC is used to separate the sample components 
@@ -279,15 +275,6 @@ RF: from [Fieder et al. (2019)](https://doi.org/10.1021/acs.analchem.9b00807){ta
 
     - Absorption properties tell us about presence/absence of “functional groups”; can be used to infer structure
 
-:::
-
-:::{.column widht="50%"}
-![](../figures/GCIR_mechanism.png){fig-align="center"}
-:::
-
-
-
-::::
 
 ## GC Infrared Spectroscopy
 
@@ -327,9 +314,9 @@ RF: from [Fieder et al. (2019)](https://doi.org/10.1021/acs.analchem.9b00807){ta
 - Some useful references include:
   - [Griffiths et al. (2008)](https://journals.sagepub.com/doi/pdf/10.1366/000370208786049213){target="_blank"}
   - [A description of GC-IR by BOC Sciences solutions](https://www.solutions.bocsci.com/resources/gas-chromatography-infrared-spectroscopy-gc-ir.html){target="_blank"}
-  - [A description of GC-IR by Chromatoraphy Today (trade magazine)](https://www.chromatographytoday.com/news/gc-mdgc/32/breaking-news/how-is-gc-ir-used/57181){target="_blank"}
+  - [A description of GC-IR by Chromatoraphy Today (trade magazine)](https://www.chromatographytoday.com/news/gc-mdgc/32/breaking-news/how-is-gc-ir-used/57181){target="_blank"}<br><br>
 
-- [A great public lecture on GC-IR](https://www.youtube.com/watch?v=gBJccqXDh4g){target="_blank"} 
+- [A great public lecture on GC-IR](https://www.youtube.com/watch?v=gBJccqXDh4g){target="_blank"} <br><br>
 
 - [A great resource (LibreText) for learning about infrared spectroscopy and mass spectrometry](https://chem.libretexts.org/Bookshelves/Organic_Chemistry/Map%3A_Organic_Chemistry_(Wade)_Complete_and_Semesters_I_and_II/Map%3A_Organic_Chemistry_(Wade)/11%3A_Infrared_Spectroscopy_and_Mass_Spectrometry){target="_blank"}
 
