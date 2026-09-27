@@ -1,0 +1,103 @@
+---
+title: "On-site illicit-drug detection with an integrated near-infrared spectral sensor: A proof of concept"
+date: ""
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    transition: fade
+    incremental: true
+    chalkboard: false
+    width: 1280
+    height: 720
+    margin: 0.08
+    css: ../styles.css
+    embed-resources: true
+
+execute:
+  echo: true
+  warning: false
+  message: false
+---
+
+## Answers to objective questions
+
+1. Citation: 
+[Kranenburg RF, Ou F, Sevo P, Petruzzella M, De Riddier R, Van Klinken A, et al. On-site illicit-drug detection with an integrated near-infrared spectral sensor: A proof of concent. Talanta. 2022;245:123441.](https://doi.org/10.1016/j.forc.2021.100382){target="_blank"}<br><br>
+
+2. Journal: Talanta<br><br>
+
+3. \# printed pages: 8 printed pages<br><br>
+
+4. Lead Author: Ruben Kranenburg
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const button = document.createElement("button");
+
+  button.innerHTML = "☾";
+  button.title = "Toggle night mode";
+
+  button.style.position = "fixed";
+  button.style.top = "15px";
+  button.style.right = "15px";
+  button.style.zIndex = "1000";
+  button.style.fontSize = "1.2em";
+  button.style.padding = "5px 10px";
+
+  button.onclick = function() {
+    document.querySelector(".reveal").classList.toggle("night-mode");
+  };
+
+  document.body.appendChild(button);
+});
+</script>
+
+
+## Answers to objective questions
+
+5. Corresponding Author: Ruben Kranenburg<br><br>
+
+6. Affiliation: Dutch National Police and University of Amsterdam<br><br>
+
+7. Contact Info: ruben.kranenburg@politie.nl<br><br>
+
+8. \# institutions involved with **writing** the article: 5<br><br>
+
+## Answers to objective questions
+
+9. Main Headings/Sections: 
+*Title/Author information*, Abstract, Introduction, Materials and Methods, Results and Discussion, Conclusion, *Author contributions*, *Declaration of Competing Interests*, *Acknowledgements*, *Supplementary Data*, and References<br><br>
+
+10. \# of figures/tables: 6<br><br>
+
+11. \# of references: 55<br><br>
+
+12. \# of intro paragraphs: 6<br><br>
+
+## Answers to objective questions (September 26, 2026)
+
+17. According to google scholar, how many citations: 68<br><br>
+
+18. Most recent article: 
+[Verhoeven MCM, Huls RC, van der Stelt N, de Koning JC, van Grol M, et al.Effect of reaction time and termperature on the impurity profile of amphetamine in the Leuckart Method. Drug Testing and Analysis 18, 6 (2026).](https://doi.org/10.1002/dta.70063){target="_blank"}
+
+## 
+
+:::: {.columns}
+::: {.column width="60%" }
+**Arun's quick reflection**:
+  
+  - The technology appears impressive 
+  - The conclusions are ... Bold?
+  - Some experimental design choices limit the applicability of the findings
+  - Clear methods, transparent interpretation; good for a **proof-of-concept study**
+  - Cool to see collaboration between research institute and law enforcement
+:::
+
+::: {.column width="40%"}
+<br>
+![](../figures/PennyWithSensor.png){fig-align="center"}
+:::
+
+::::

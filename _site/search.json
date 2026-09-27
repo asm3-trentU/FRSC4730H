@@ -714,11 +714,11 @@
     "text": "Analytical Measurements\n\nAnalytical measurements in forensic chemistry are subject to same issues as all measurements\n\nuncertainty in the reference measurements\npoor quality of the analyte\n“unknowability” in the search space\n\nAnd other specific issues\n\nphenomenological measurements\nchemistry"
   },
   {
-    "objectID": "Lectures/Lecture2_Measurements.html#what-is-chemometrics",
-    "href": "Lectures/Lecture2_Measurements.html#what-is-chemometrics",
+    "objectID": "Lectures/Lecture2_Measurements.html#on-chemometrics",
+    "href": "Lectures/Lecture2_Measurements.html#on-chemometrics",
     "title": "What is a measurement?",
-    "section": "What is chemometrics",
-    "text": "What is chemometrics\n\nChemometrics is the application of mathematics and statistics (and computing) to chemical measurements\n\nWeek 6: Introduction/Refresher on programming with R\nWeek 9: Calculating similarities and differences\nWeek 10: Projections and dimensionality reductions\nWeek 12: A numerical exploration of chemical space \n\nCheminformatics is the application of mathetics and statistics (and computing) to chemical information on week 11 and 13"
+    "section": "On chemometrics",
+    "text": "On chemometrics\n\nChemometrics is the application of mathematics and statistics (and computing) to chemical measurements\n\nWeek 6: Introduction/Refresher on programming with R\nWeek 9: Calculating similarities and differences\nWeek 10: Projections and dimensionality reductions\nWeek 12: A numerical exploration of chemical space \n\nCheminformatics is the application of mathetics and statistics (and computing) to chemical information on week 11 and 13"
   },
   {
     "objectID": "Lectures/Lecture2_Measurements.html#coming-up",
@@ -1241,148 +1241,197 @@
   {
     "objectID": "Lectures/Lecture3_Techniques.html#course-background",
     "href": "Lectures/Lecture3_Techniques.html#course-background",
-    "title": "Course Preliminaries",
+    "title": "Emerging analytical techniques in forensic chemistry",
     "section": "Course Background",
     "text": "Course Background"
   },
   {
     "objectID": "Lectures/Lecture3_Techniques.html#course-facilitators",
     "href": "Lectures/Lecture3_Techniques.html#course-facilitators",
-    "title": "Course Preliminaries",
+    "title": "Emerging analytical techniques in forensic chemistry",
     "section": "Course Facilitators",
     "text": "Course Facilitators"
   },
   {
     "objectID": "Lectures/Lecture3_Techniques.html#peer-notetaking-support",
     "href": "Lectures/Lecture3_Techniques.html#peer-notetaking-support",
-    "title": "Course Preliminaries",
+    "title": "Emerging analytical techniques in forensic chemistry",
     "section": "Peer Notetaking Support",
     "text": "Peer Notetaking Support"
   },
   {
     "objectID": "Lectures/Lecture3_Techniques.html#course-structure",
     "href": "Lectures/Lecture3_Techniques.html#course-structure",
-    "title": "Course Preliminaries",
+    "title": "Emerging analytical techniques in forensic chemistry",
     "section": "Course Structure",
     "text": "Course Structure"
   },
   {
     "objectID": "Lectures/Lecture3_Techniques.html#delverables",
     "href": "Lectures/Lecture3_Techniques.html#delverables",
-    "title": "Course Preliminaries",
+    "title": "Emerging analytical techniques in forensic chemistry",
     "section": "Delverables",
     "text": "Delverables"
   },
   {
     "objectID": "Lectures/Lecture3_Techniques.html#introduction-quiz",
     "href": "Lectures/Lecture3_Techniques.html#introduction-quiz",
-    "title": "Course Preliminaries",
+    "title": "Emerging analytical techniques in forensic chemistry",
     "section": "Introduction Quiz",
     "text": "Introduction Quiz"
   },
   {
     "objectID": "Lectures/Lecture3_Techniques.html#content-quizzes-x-10",
     "href": "Lectures/Lecture3_Techniques.html#content-quizzes-x-10",
-    "title": "Course Preliminaries",
+    "title": "Emerging analytical techniques in forensic chemistry",
     "section": "Content Quizzes (x 10)",
     "text": "Content Quizzes (x 10)"
   },
   {
     "objectID": "Lectures/Lecture3_Techniques.html#lab-tests",
     "href": "Lectures/Lecture3_Techniques.html#lab-tests",
-    "title": "Course Preliminaries",
+    "title": "Emerging analytical techniques in forensic chemistry",
     "section": "Lab Tests",
     "text": "Lab Tests"
   },
   {
     "objectID": "Lectures/Lecture3_Techniques.html#annotated-bibliography",
     "href": "Lectures/Lecture3_Techniques.html#annotated-bibliography",
-    "title": "Course Preliminaries",
+    "title": "Emerging analytical techniques in forensic chemistry",
     "section": "Annotated Bibliography",
     "text": "Annotated Bibliography"
   },
   {
     "objectID": "Lectures/Lecture3_Techniques.html#research-proposal",
     "href": "Lectures/Lecture3_Techniques.html#research-proposal",
-    "title": "Course Preliminaries",
+    "title": "Emerging analytical techniques in forensic chemistry",
     "section": "Research Proposal",
     "text": "Research Proposal"
   },
   {
     "objectID": "Lectures/Lecture3_Techniques.html#data-presentation",
     "href": "Lectures/Lecture3_Techniques.html#data-presentation",
-    "title": "Course Preliminaries",
+    "title": "Emerging analytical techniques in forensic chemistry",
     "section": "Data Presentation",
     "text": "Data Presentation"
   },
   {
     "objectID": "Lectures/Lecture3_Techniques.html#article-critique",
     "href": "Lectures/Lecture3_Techniques.html#article-critique",
-    "title": "Course Preliminaries",
+    "title": "Emerging analytical techniques in forensic chemistry",
     "section": "Article Critique",
     "text": "Article Critique"
   },
   {
     "objectID": "Lectures/Lecture3_Techniques.html#final-exam",
     "href": "Lectures/Lecture3_Techniques.html#final-exam",
-    "title": "Course Preliminaries",
+    "title": "Emerging analytical techniques in forensic chemistry",
     "section": "Final Exam",
     "text": "Final Exam"
   },
   {
     "objectID": "Lectures/Lecture3_Techniques.html#grades",
     "href": "Lectures/Lecture3_Techniques.html#grades",
-    "title": "Course Preliminaries",
+    "title": "Emerging analytical techniques in forensic chemistry",
     "section": "Grades",
     "text": "Grades"
   },
   {
     "objectID": "Lectures/Lecture3_Techniques.html#course-policy",
     "href": "Lectures/Lecture3_Techniques.html#course-policy",
-    "title": "Course Preliminaries",
+    "title": "Emerging analytical techniques in forensic chemistry",
     "section": "Course Policy",
     "text": "Course Policy\n\n\n\n\n\nA quick tour of blackboard"
   },
   {
     "objectID": "Lectures/Lecture3_Techniques.html#how-to-get-the-most-out-of-this-course",
     "href": "Lectures/Lecture3_Techniques.html#how-to-get-the-most-out-of-this-course",
-    "title": "Course Preliminaries",
+    "title": "Emerging analytical techniques in forensic chemistry",
     "section": "How to get the most out of this course",
     "text": "How to get the most out of this course"
   },
   {
     "objectID": "Lectures/Lecture3_Techniques.html#on-epistemology",
     "href": "Lectures/Lecture3_Techniques.html#on-epistemology",
-    "title": "Course Preliminaries",
+    "title": "Emerging analytical techniques in forensic chemistry",
     "section": "On Epistemology",
     "text": "On Epistemology"
   },
   {
     "objectID": "Lectures/Lecture3_Techniques.html#history-of-scientific-development",
     "href": "Lectures/Lecture3_Techniques.html#history-of-scientific-development",
-    "title": "Course Preliminaries",
+    "title": "Emerging analytical techniques in forensic chemistry",
     "section": "History of scientific development",
     "text": "History of scientific development"
   },
   {
     "objectID": "Lectures/Lecture3_Techniques.html#the-scientific-method",
     "href": "Lectures/Lecture3_Techniques.html#the-scientific-method",
-    "title": "Course Preliminaries",
+    "title": "Emerging analytical techniques in forensic chemistry",
     "section": "The scientific method",
     "text": "The scientific method"
   },
   {
     "objectID": "Lectures/Lecture3_Techniques.html#whats-so-unique-about-forensic-science",
     "href": "Lectures/Lecture3_Techniques.html#whats-so-unique-about-forensic-science",
-    "title": "Course Preliminaries",
+    "title": "Emerging analytical techniques in forensic chemistry",
     "section": "What’s so unique about forensic science",
     "text": "What’s so unique about forensic science"
   },
   {
     "objectID": "Lectures/Lecture3_Techniques.html#section-1",
     "href": "Lectures/Lecture3_Techniques.html#section-1",
-    "title": "Course Preliminaries",
+    "title": "Emerging analytical techniques in forensic chemistry",
     "section": "",
     "text": "Good luck with content quiz 1!(Due September 17 at 11:59 PM)"
+  },
+  {
+    "objectID": "PaperReviews/KranenburgEtAl2022.html#answers-to-objective-questions",
+    "href": "PaperReviews/KranenburgEtAl2022.html#answers-to-objective-questions",
+    "title": "On-site illicit-drug detection with an integrated near-infrared spectral sensor: A proof of concept",
+    "section": "Answers to objective questions",
+    "text": "Answers to objective questions\n\nCitation: Kranenburg RF, Ou F, Sevo P, Petruzzella M, De Riddier R, Van Klinken A, et al. On-site illicit-drug detection with an integrated near-infrared spectral sensor: A proof of concent. Talanta. 2022;245:123441.\nJournal: Talanta\n# printed pages: 8 printed pages\nLead Author: Ruben Kranenburg"
+  },
+  {
+    "objectID": "PaperReviews/KranenburgEtAl2022.html#answers-to-objective-questions-1",
+    "href": "PaperReviews/KranenburgEtAl2022.html#answers-to-objective-questions-1",
+    "title": "On-site illicit-drug detection with an integrated near-infrared spectral sensor: A proof of concept",
+    "section": "Answers to objective questions",
+    "text": "Answers to objective questions\n\nCorresponding Author: Ruben Kranenburg\nAffiliation: Dutch National Police and University of Amsterdam\nContact Info: ruben.kranenburg@politie.nl\n# institutions involved with writing the article: 5"
+  },
+  {
+    "objectID": "PaperReviews/KranenburgEtAl2022.html#answers-to-objective-questions-2",
+    "href": "PaperReviews/KranenburgEtAl2022.html#answers-to-objective-questions-2",
+    "title": "On-site illicit-drug detection with an integrated near-infrared spectral sensor: A proof of concept",
+    "section": "Answers to objective questions",
+    "text": "Answers to objective questions\n\nMain Headings/Sections: Title/Author information, Abstract, Introduction, Materials and Methods, Results and Discussion, Conclusion, Author contributions, Declaration of Competing Interests, Acknowledgements, Supplementary Data, and References\n# of figures/tables: 6\n# of references: 55\n# of intro paragraphs: 6"
+  },
+  {
+    "objectID": "PaperReviews/KranenburgEtAl2022.html#answers-to-objective-questions-september-20-2026",
+    "href": "PaperReviews/KranenburgEtAl2022.html#answers-to-objective-questions-september-20-2026",
+    "title": "On-site illicit-drug detection with an integrated near-infrared spectral sensor: A proof of concept",
+    "section": "Answers to objective questions (September 20, 2026)",
+    "text": "Answers to objective questions (September 20, 2026)\n\nAccording to google scholar, how many citations: 68\nMost recent article: Verhoeven MCM, Huls RC, van der Stelt N, de Koning JC, van Grol M, et al.Effect of reaction time and termperature on the impurity profile of amphetamine in the Leuckart Method. Drug Testing and Analysis 18, 6 (2026)."
+  },
+  {
+    "objectID": "PaperReviews/KranenburgEtAl2022.html#reflections",
+    "href": "PaperReviews/KranenburgEtAl2022.html#reflections",
+    "title": "On-site illicit-drug detection with an integrated near-infrared spectral sensor: A proof of concept",
+    "section": "Reflections",
+    "text": "Reflections\n\n\nArun’s quick reflection:\n\nThe technoogy appears impressive\nThe conclusions are … Bold?\nSome experimental design choices limit the applicability of the findings\nClear methods, transparent interpretation; good for a proof-of-concept study\nCool to see collaboration between research institute and law enforcement"
+  },
+  {
+    "objectID": "PaperReviews/KranenburgEtAl2022.html#section",
+    "href": "PaperReviews/KranenburgEtAl2022.html#section",
+    "title": "On-site illicit-drug detection with an integrated near-infrared spectral sensor: A proof of concept",
+    "section": "",
+    "text": "Arun’s quick reflection:\n\nThe technology appears impressive\nThe conclusions are … Bold?\nSome experimental design choices limit the applicability of the findings\nClear methods, transparent interpretation; good for a proof-of-concept study\nCool to see collaboration between research institute and law enforcement"
+  },
+  {
+    "objectID": "PaperReviews/KranenburgEtAl2022.html#answers-to-objective-questions-september-26-2026",
+    "href": "PaperReviews/KranenburgEtAl2022.html#answers-to-objective-questions-september-26-2026",
+    "title": "On-site illicit-drug detection with an integrated near-infrared spectral sensor: A proof of concept",
+    "section": "Answers to objective questions (September 26, 2026)",
+    "text": "Answers to objective questions (September 26, 2026)\n\nAccording to google scholar, how many citations: 68\nMost recent article: Verhoeven MCM, Huls RC, van der Stelt N, de Koning JC, van Grol M, et al.Effect of reaction time and termperature on the impurity profile of amphetamine in the Leuckart Method. Drug Testing and Analysis 18, 6 (2026)."
   }
 ]
