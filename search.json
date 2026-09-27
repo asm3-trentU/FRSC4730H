@@ -1274,150 +1274,199 @@
     "text": "Coming up\n\nSeminars are running on Thursday September 17th (F01 and F02) \nLecture next week: What is a measurement?"
   },
   {
-    "objectID": "Lectures/Lecture3_Techniques.html#course-background",
-    "href": "Lectures/Lecture3_Techniques.html#course-background",
+    "objectID": "Lectures/Lecture3_Techniques.html#why-develop-new-techniques",
+    "href": "Lectures/Lecture3_Techniques.html#why-develop-new-techniques",
     "title": "Emerging analytical techniques in forensic chemistry",
-    "section": "Course Background",
-    "text": "Course Background"
+    "section": "Why develop new techniques?",
+    "text": "Why develop new techniques?\n\nimprove sensitivity\n\nextract more information from sample\nextract information from less sample\n\nimprove specificity\n\nextract more useful information from sample \n\nimprove speed\nimprove portability\nimprove costs\n\n\n\nspeed could mean sample prep, acquisition and analysis\nportability could mean taking things on the road, moving things between labs, etc.\ncosts could mean initial investment or operating costs or training costs"
   },
   {
-    "objectID": "Lectures/Lecture3_Techniques.html#course-facilitators",
-    "href": "Lectures/Lecture3_Techniques.html#course-facilitators",
+    "objectID": "Lectures/Lecture3_Techniques.html#ambient-ionization-mass-spectrometry",
+    "href": "Lectures/Lecture3_Techniques.html#ambient-ionization-mass-spectrometry",
     "title": "Emerging analytical techniques in forensic chemistry",
-    "section": "Course Facilitators",
-    "text": "Course Facilitators"
+    "section": "Ambient ionization mass spectrometry",
+    "text": "Ambient ionization mass spectrometry\n HISTORY\n\nTechniques were first reported in the literature in 2004\n\nDesorpition electrospray ionization (DESI)\nDirect Analysis in Real Time (DART) \n\nDeveloped as an alternative to standard mass spectrometry which required (1) ionization take place in a vacuum system, and (2) extensive sample preparation\nSignificantly faster method of generating mass spectra"
   },
   {
-    "objectID": "Lectures/Lecture3_Techniques.html#peer-notetaking-support",
-    "href": "Lectures/Lecture3_Techniques.html#peer-notetaking-support",
+    "objectID": "Lectures/Lecture3_Techniques.html#ambient-ionization-mass-spectrometry-1",
+    "href": "Lectures/Lecture3_Techniques.html#ambient-ionization-mass-spectrometry-1",
     "title": "Emerging analytical techniques in forensic chemistry",
-    "section": "Peer Notetaking Support",
-    "text": "Peer Notetaking Support"
+    "section": "Ambient ionization mass spectrometry",
+    "text": "Ambient ionization mass spectrometry\n\nThree main strategies for ionization at atmospheric pressure:\n\nIon-molecular reaction\nPhotochemical ionization\nCharged droplets\n\nThree main strategies for liberating analytes from sample without extensive sample preparation:\n\nLiquid extractions\nThermal/Chemical Desorption (Plasma)\nSpallation (Laser Ablation)"
   },
   {
-    "objectID": "Lectures/Lecture3_Techniques.html#course-structure",
-    "href": "Lectures/Lecture3_Techniques.html#course-structure",
+    "objectID": "Lectures/Lecture3_Techniques.html#ambient-ionization-mass-spectrometry-2",
+    "href": "Lectures/Lecture3_Techniques.html#ambient-ionization-mass-spectrometry-2",
     "title": "Emerging analytical techniques in forensic chemistry",
-    "section": "Course Structure",
-    "text": "Course Structure"
+    "section": "Ambient ionization mass spectrometry",
+    "text": "Ambient ionization mass spectrometry\n\nOver 30 unique ambient ionization mass spectrometry techniques described in the scientific literature (with over 30 citations each)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n LF: from Venter et al. (2014) RF: from Fieder et al. (2019)"
   },
   {
-    "objectID": "Lectures/Lecture3_Techniques.html#delverables",
-    "href": "Lectures/Lecture3_Techniques.html#delverables",
+    "objectID": "Lectures/Lecture3_Techniques.html#ambient-ionization-mass-spectrometry-3",
+    "href": "Lectures/Lecture3_Techniques.html#ambient-ionization-mass-spectrometry-3",
     "title": "Emerging analytical techniques in forensic chemistry",
-    "section": "Delverables",
-    "text": "Delverables"
+    "section": "Ambient ionization mass spectrometry",
+    "text": "Ambient ionization mass spectrometry\nLIMITATIONS\n\nDesorbed materials can be a complex multi-compound mixture, especially in truly ambient applications\n\nCompetitive ionization / ion suppression\nSensitivity / LOD\nLess control over operating parameters - more research to be done"
   },
   {
-    "objectID": "Lectures/Lecture3_Techniques.html#introduction-quiz",
-    "href": "Lectures/Lecture3_Techniques.html#introduction-quiz",
+    "objectID": "Lectures/Lecture3_Techniques.html#ambient-ionization-mass-spectrometry-4",
+    "href": "Lectures/Lecture3_Techniques.html#ambient-ionization-mass-spectrometry-4",
     "title": "Emerging analytical techniques in forensic chemistry",
-    "section": "Introduction Quiz",
-    "text": "Introduction Quiz"
+    "section": "Ambient ionization mass spectrometry",
+    "text": "Ambient ionization mass spectrometry\nAVAILABILITY\n\nMany users build custom ambient ionization techniques and use with available (LC) mass spectrometry \nMany commercial options available:\n\nBruker (IonSense) DART-MS\nThermofisher VeriSpray\nWaters RADIAN ASAP\nPlasmion SICRIT"
   },
   {
-    "objectID": "Lectures/Lecture3_Techniques.html#content-quizzes-x-10",
-    "href": "Lectures/Lecture3_Techniques.html#content-quizzes-x-10",
+    "objectID": "Lectures/Lecture3_Techniques.html#ambient-ionization-mass-spectrometry-5",
+    "href": "Lectures/Lecture3_Techniques.html#ambient-ionization-mass-spectrometry-5",
     "title": "Emerging analytical techniques in forensic chemistry",
-    "section": "Content Quizzes (x 10)",
-    "text": "Content Quizzes (x 10)"
+    "section": "Ambient ionization mass spectrometry",
+    "text": "Ambient ionization mass spectrometry\nCOSTS\n\nRequires purchasing of ambient ionization front end with a mass spectrometer backend\n\nCan often work with existing (liquid chromatography) mass spectrometry instruments\n\nLess sample preparation means less training, however the data analysis is more complicated"
   },
   {
-    "objectID": "Lectures/Lecture3_Techniques.html#lab-tests",
-    "href": "Lectures/Lecture3_Techniques.html#lab-tests",
+    "objectID": "Lectures/Lecture3_Techniques.html#ambient-ionization-mass-spectrometry-6",
+    "href": "Lectures/Lecture3_Techniques.html#ambient-ionization-mass-spectrometry-6",
     "title": "Emerging analytical techniques in forensic chemistry",
-    "section": "Lab Tests",
-    "text": "Lab Tests"
+    "section": "Ambient ionization mass spectrometry",
+    "text": "Ambient ionization mass spectrometry\n\nSome useful references include:\n\nVenter et al. (2014)\nFieder et al. (2019)\nSisco and Forbes (2021)\nda Silva Ferreira et al. (2014)\n\nA good webinar about DART-MS by the Forensic Technology Center of Excellence (requires creating an account)\n\n\n\nventer - mechanisms of AI-MS\nFieder - review of applications\nsisco - review of forensic applications\nda silva - interesting application to ballpoint pen ink analysis"
   },
   {
-    "objectID": "Lectures/Lecture3_Techniques.html#annotated-bibliography",
-    "href": "Lectures/Lecture3_Techniques.html#annotated-bibliography",
+    "objectID": "Lectures/Lecture3_Techniques.html#gas-chromatography",
+    "href": "Lectures/Lecture3_Techniques.html#gas-chromatography",
     "title": "Emerging analytical techniques in forensic chemistry",
-    "section": "Annotated Bibliography",
-    "text": "Annotated Bibliography"
+    "section": "Gas Chromatography",
+    "text": "Gas Chromatography\n\nGas chromatography (GC) is a popular form of chromatography\n\nVapor Phase Chromatography (VPC)\nGas Liquid Partition Chromatography\n\nLiquid or gas sample is mixed with a non-reactive carrier gas and then passes through a column\nCompounds separate according to chemical and physical properties"
   },
   {
-    "objectID": "Lectures/Lecture3_Techniques.html#research-proposal",
-    "href": "Lectures/Lecture3_Techniques.html#research-proposal",
+    "objectID": "Lectures/Lecture3_Techniques.html#gas-chromatography-1",
+    "href": "Lectures/Lecture3_Techniques.html#gas-chromatography-1",
     "title": "Emerging analytical techniques in forensic chemistry",
-    "section": "Research Proposal",
-    "text": "Research Proposal"
+    "section": "Gas Chromatography",
+    "text": "Gas Chromatography\n\n\n\nCan change parameters of GC system (e.g., carrier gas flow rate, oven temperature), which can change how compounds separate\nCan change column length or lining material, which may change how compounds separate"
   },
   {
-    "objectID": "Lectures/Lecture3_Techniques.html#data-presentation",
-    "href": "Lectures/Lecture3_Techniques.html#data-presentation",
+    "objectID": "Lectures/Lecture3_Techniques.html#gas-chromatography-2",
+    "href": "Lectures/Lecture3_Techniques.html#gas-chromatography-2",
     "title": "Emerging analytical techniques in forensic chemistry",
-    "section": "Data Presentation",
-    "text": "Data Presentation"
+    "section": "Gas Chromatography",
+    "text": "Gas Chromatography\n\nCHALLENGE\n\nCoelution is when two (or more) compounds in the analyte do not “clearly” separate\nCan be a significant issue with complex mixtures with a lot of components at various concentrations"
   },
   {
-    "objectID": "Lectures/Lecture3_Techniques.html#article-critique",
-    "href": "Lectures/Lecture3_Techniques.html#article-critique",
+    "objectID": "Lectures/Lecture3_Techniques.html#gc-x-gc",
+    "href": "Lectures/Lecture3_Techniques.html#gc-x-gc",
     "title": "Emerging analytical techniques in forensic chemistry",
-    "section": "Article Critique",
-    "text": "Article Critique"
+    "section": "GC x GC",
+    "text": "GC x GC\n\nTwo-dimensional gas chromatography (GC x GC) is a technique where two columns with different material linings are used to further increase separation\n\nA modulator is used to concentrate eluent prior to being injected into second column\n\nThis concept can be extended to “higher dimensions”\n\nScales poorly due to cost (and reproducibility)"
   },
   {
-    "objectID": "Lectures/Lecture3_Techniques.html#final-exam",
-    "href": "Lectures/Lecture3_Techniques.html#final-exam",
+    "objectID": "Lectures/Lecture3_Techniques.html#gc-x-gc-1",
+    "href": "Lectures/Lecture3_Techniques.html#gc-x-gc-1",
     "title": "Emerging analytical techniques in forensic chemistry",
-    "section": "Final Exam",
-    "text": "Final Exam"
+    "section": "GC x GC",
+    "text": "GC x GC\n\nAs of 2018, GC x GC has not met the Daubert criteria\nThe first accredited GC x GC method for analysis of persistent organic pollutants was developed by the Canadian Ministry of the Environment and Climate Change"
   },
   {
-    "objectID": "Lectures/Lecture3_Techniques.html#grades",
-    "href": "Lectures/Lecture3_Techniques.html#grades",
+    "objectID": "Lectures/Lecture3_Techniques.html#gc-x-gc-2",
+    "href": "Lectures/Lecture3_Techniques.html#gc-x-gc-2",
     "title": "Emerging analytical techniques in forensic chemistry",
-    "section": "Grades",
-    "text": "Grades"
+    "section": "GC x GC",
+    "text": "GC x GC\n\nNot used in casework, but lots of research use across forensic disciplines\n\nHuman scent / taphonomy\nArson investigation\nDrugs, CW, Explosives\nEnvironment\n\nGruber et al. (2018)"
   },
   {
-    "objectID": "Lectures/Lecture3_Techniques.html#course-policy",
-    "href": "Lectures/Lecture3_Techniques.html#course-policy",
+    "objectID": "Lectures/Lecture3_Techniques.html#gc-infrared-spectroscopy",
+    "href": "Lectures/Lecture3_Techniques.html#gc-infrared-spectroscopy",
     "title": "Emerging analytical techniques in forensic chemistry",
-    "section": "Course Policy",
-    "text": "Course Policy\n\n\n\n\n\nA quick tour of blackboard"
+    "section": "GC Infrared Spectroscopy",
+    "text": "GC Infrared Spectroscopy\nHISTORY\n\nTechnique first described in the literature in 1964 \nDeveloped as an alternative to GC-MS which can better discriminate structural isomers \nSeveral iterations and modifications on the original GC-IR design over the last 50 years; most prominent system now is GC-FTIR"
   },
   {
-    "objectID": "Lectures/Lecture3_Techniques.html#how-to-get-the-most-out-of-this-course",
-    "href": "Lectures/Lecture3_Techniques.html#how-to-get-the-most-out-of-this-course",
+    "objectID": "Lectures/Lecture3_Techniques.html#gc-infrared-spectroscopy-1",
+    "href": "Lectures/Lecture3_Techniques.html#gc-infrared-spectroscopy-1",
     "title": "Emerging analytical techniques in forensic chemistry",
-    "section": "How to get the most out of this course",
-    "text": "How to get the most out of this course"
+    "section": "GC Infrared Spectroscopy",
+    "text": "GC Infrared Spectroscopy\n\n\nMECHANISMS\n\nGC is used to separate the sample components\nIR Spectroscopy is used to characterize components based on absorption properties\n\nAbsorption properties tell us about presence/absence of “functional groups”; can be used to infer structure"
   },
   {
-    "objectID": "Lectures/Lecture3_Techniques.html#on-epistemology",
-    "href": "Lectures/Lecture3_Techniques.html#on-epistemology",
+    "objectID": "Lectures/Lecture3_Techniques.html#gc-infrared-spectroscopy-2",
+    "href": "Lectures/Lecture3_Techniques.html#gc-infrared-spectroscopy-2",
     "title": "Emerging analytical techniques in forensic chemistry",
-    "section": "On Epistemology",
-    "text": "On Epistemology"
+    "section": "GC Infrared Spectroscopy",
+    "text": "GC Infrared Spectroscopy\n\nSimilar application areas as GC-MS\n\nEnvironmental Analysis: detecting pollutants in air/water/soil\nForensic Science: crime scene chemicals, “chemical fingerprint”\nPharmaceutical Analysis: quality control, discovery\nFood and Flavor Analysis: quality control, discovery"
   },
   {
-    "objectID": "Lectures/Lecture3_Techniques.html#history-of-scientific-development",
-    "href": "Lectures/Lecture3_Techniques.html#history-of-scientific-development",
+    "objectID": "Lectures/Lecture3_Techniques.html#gc-infrared-spectroscopy-3",
+    "href": "Lectures/Lecture3_Techniques.html#gc-infrared-spectroscopy-3",
     "title": "Emerging analytical techniques in forensic chemistry",
-    "section": "History of scientific development",
-    "text": "History of scientific development"
+    "section": "GC Infrared Spectroscopy",
+    "text": "GC Infrared Spectroscopy\nLIMITATIONS\n\nSensitivity (need a lot of sample to get a reasonable signal)\nSensitivity improves using FTIR\n\n50 years of research have greatly improved sensitivity\nIsotope analysis\n\nLack of generally accepted databases for searching/identification"
   },
   {
-    "objectID": "Lectures/Lecture3_Techniques.html#the-scientific-method",
-    "href": "Lectures/Lecture3_Techniques.html#the-scientific-method",
+    "objectID": "Lectures/Lecture3_Techniques.html#gc-infrared-spectroscopy-4",
+    "href": "Lectures/Lecture3_Techniques.html#gc-infrared-spectroscopy-4",
     "title": "Emerging analytical techniques in forensic chemistry",
-    "section": "The scientific method",
-    "text": "The scientific method"
+    "section": "GC Infrared Spectroscopy",
+    "text": "GC Infrared Spectroscopy\nVENDORS\n\nThermoFisher\n\nCOSTS\n\nGC and FTIR system must be compatible\nGC sample preparation, more sample needed given lower sensitivity\n\nTraining to interpret IR spectra"
   },
   {
-    "objectID": "Lectures/Lecture3_Techniques.html#whats-so-unique-about-forensic-science",
-    "href": "Lectures/Lecture3_Techniques.html#whats-so-unique-about-forensic-science",
+    "objectID": "Lectures/Lecture3_Techniques.html#gc-infrared-spectroscopy-5",
+    "href": "Lectures/Lecture3_Techniques.html#gc-infrared-spectroscopy-5",
     "title": "Emerging analytical techniques in forensic chemistry",
-    "section": "What’s so unique about forensic science",
-    "text": "What’s so unique about forensic science"
+    "section": "GC Infrared Spectroscopy",
+    "text": "GC Infrared Spectroscopy\n\nSome useful references include:\n\nGriffiths et al. (2008)\nA description of GC-IR by BOC Sciences solutions\nA description of GC-IR by Chromatoraphy Today (trade magazine)\n\nA great public lecture on GC-IR\nA great resource (LibreText) for learning about infrared spectroscopy and mass spectrometry\n\n\n\ngriffiths covers a lot of the history and future of GC-IR"
   },
   {
-    "objectID": "Lectures/Lecture3_Techniques.html#section-1",
-    "href": "Lectures/Lecture3_Techniques.html#section-1",
+    "objectID": "Lectures/Lecture3_Techniques.html#gc-infrared-spectroscopy-6",
+    "href": "Lectures/Lecture3_Techniques.html#gc-infrared-spectroscopy-6",
     "title": "Emerging analytical techniques in forensic chemistry",
-    "section": "",
-    "text": "Good luck with content quiz 1!(Due September 17 at 11:59 PM)"
+    "section": "GC Infrared Spectroscopy",
+    "text": "GC Infrared Spectroscopy\nRecent Research\n\nKranenburg et al. (2021), Forensic Chemistry\nSalerno et al.(2020), Frontiers in Chemistry\nFerguson et al. (2023), Journal of Forensic Science\n\n\n-kranenburg - trends in commercial mixtures\n\nsalerno - proof of concept study\nferguson - interlaboratory study"
+  },
+  {
+    "objectID": "Lectures/Lecture3_Techniques.html#miniaturization-and-portable-techniques",
+    "href": "Lectures/Lecture3_Techniques.html#miniaturization-and-portable-techniques",
+    "title": "Emerging analytical techniques in forensic chemistry",
+    "section": "Miniaturization and Portable Techniques",
+    "text": "Miniaturization and Portable Techniques\n\n\n\nSpectrometers have decreased in size over the past 20 years\n\noptical spectrometers\nmass spectrometers\nnuclear magnetic resonance (NMR) spectrometers\n\nTrending towards smaller and more rugged instrumentation, enabling portable analysis"
+  },
+  {
+    "objectID": "Lectures/Lecture3_Techniques.html#miniaturization-and-portable-techniques-1",
+    "href": "Lectures/Lecture3_Techniques.html#miniaturization-and-portable-techniques-1",
+    "title": "Emerging analytical techniques in forensic chemistry",
+    "section": "Miniaturization and Portable Techniques",
+    "text": "Miniaturization and Portable Techniques"
+  },
+  {
+    "objectID": "Lectures/Lecture3_Techniques.html#miniaturization-and-portable-techniques-2",
+    "href": "Lectures/Lecture3_Techniques.html#miniaturization-and-portable-techniques-2",
+    "title": "Emerging analytical techniques in forensic chemistry",
+    "section": "Miniaturization and Portable Techniques",
+    "text": "Miniaturization and Portable Techniques\n\nIon Mobility Spectroscopy (IMS)\n\nIllicit drugs; explosives\nPros: low LOD; simple to operate; no sample preparation\nCons: presumptive ID (high FPR); destructive; potential to overload detector; long start-up time \n\nFourier Transform Inferred Spectroscopy (FT-IR)\n\nBreath alcohol; illicit drugs; counterfeit drugs; explosives\nPros: non-destructive; highly selective; simple to operate; no consumables\nCons: high LOD; mixtures"
+  },
+  {
+    "objectID": "Lectures/Lecture3_Techniques.html#miniaturization-and-portable-techniques-3",
+    "href": "Lectures/Lecture3_Techniques.html#miniaturization-and-portable-techniques-3",
+    "title": "Emerging analytical techniques in forensic chemistry",
+    "section": "Miniaturization and Portable Techniques",
+    "text": "Miniaturization and Portable Techniques\n\nRaman Spectroscopy \n\nIllicit drugs; explosives; counterfeit drugs\nPros: non-destructive, highly selective; no contact required; simple to use\nCons: high LOD; mixtures; fluorescence (interference) \n\nGas Chromatography Mass Spectrometry (GC-MS)\n\nIllicit drugs; counterfeit drugs; explosives; ignitable liquids\nPros: high selectivity; low LOD; mixtures; standards/libraries\nCons: destructive; high cost; isomers"
+  },
+  {
+    "objectID": "Lectures/Lecture3_Techniques.html#miniaturization-and-portable-techniques-4",
+    "href": "Lectures/Lecture3_Techniques.html#miniaturization-and-portable-techniques-4",
+    "title": "Emerging analytical techniques in forensic chemistry",
+    "section": "Miniaturization and Portable Techniques",
+    "text": "Miniaturization and Portable Techniques\n\nMass Spectrometry (MS)\n\nIllicit drugs; explosives\nPros: high selectivity; low LOD\nCons: destructive; high cost; mixtures; isomers\n\nHigh Pressure Mass Spectrometry (HP-MS)\n\nIllicit drugs; explosives\nPros: low LOD; size\nCons: presumptive ID (high FPR); incomparable to traditional mass spectral data"
+  },
+  {
+    "objectID": "Lectures/Lecture3_Techniques.html#miniaturization-and-portable-techniques-5",
+    "href": "Lectures/Lecture3_Techniques.html#miniaturization-and-portable-techniques-5",
+    "title": "Emerging analytical techniques in forensic chemistry",
+    "section": "Miniaturization and Portable Techniques",
+    "text": "Miniaturization and Portable Techniques\n\nAs of 2021, most portable techniques have not been generally adopted in crime investigation\n\nPerceived costs and complexity\nLack of training / hesitancy to learn new techniques / too big a change\n\nCrocombe et al. (eds) Portable Spectroscopy and Spectrometry Volumes 1 and 2, 2021.\n\nCan review (and download) entire book with your Trent University log in"
+  },
+  {
+    "objectID": "Lectures/Lecture3_Techniques.html#coming-up",
+    "href": "Lectures/Lecture3_Techniques.html#coming-up",
+    "title": "Emerging analytical techniques in forensic chemistry",
+    "section": "Coming up",
+    "text": "Coming up\n\nSeminars are running in-person on Thursday October 1st (F01 and F02) \nLecture next week: Emerging applications of chemistry in forensic science"
   }
 ]
