@@ -251,7 +251,7 @@ RF: from [Fieder et al. (2019)](https://doi.org/10.1021/acs.analchem.9b00807){ta
   - Drugs, CW, Explosives
   - Environment<br><br>
 
-- [Gruber et al. (2018)](https://doi.org/10.1016/j.trac.2018.05.017)
+- [Gruber et al. (2018)](https://doi.org/10.1016/j.trac.2018.05.017){target="_blank"}
 
 
 
