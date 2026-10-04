@@ -1,5 +1,5 @@
 ---
-title: "Course Preliminaries"
+title: "Application areas in forensic chemistry"
 date: ""
 format:
   revealjs:
@@ -11,151 +11,312 @@ format:
     width: 1280
     height: 720
     margin: 0.08
+    css: ../styles.css
     embed-resources: true
-  # beamer:
-  #   theme: metropolis
-  #   aspectratio: 169
-  #   incremental: true
-  #   embed-resources: true
-  # pptx:
-  #   slide-level: 2
 execute:
   echo: true
   warning: false
   message: false
 ---
 
-## Course Background
+## Drug Identification
 
+- Discussion of drug prohibition in Canada started in the early 1900s as a response to opium
+    - HIST-3790: Opium and the making of the modern world<br><br>
+- Opium and Narcotics Drug Act passed in 1920; [Controlled Drugs and Substances Act (last ammended July 2026)](https://laws-lois.justice.gc.ca/eng/acts/c-38.8/){target="_blank"}<br><br>
+- Resources to learn more about the [history of drug policy and other social considerations with drugs in Canada](https://drugpolicy.ca){target="_blank"}
 
-::: {.notes}
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const button = document.createElement("button");
 
-:::
+  button.innerHTML = "☾";
+  button.title = "Toggle night mode";
 
-## Course Facilitators
+  button.style.position = "fixed";
+  button.style.top = "15px";
+  button.style.right = "15px";
+  button.style.zIndex = "1000";
+  button.style.fontSize = "1.2em";
+  button.style.padding = "5px 10px";
 
-::: {.notes}
+  button.onclick = function() {
+    document.querySelector(".reveal").classList.toggle("night-mode");
+  };
 
-:::
+  document.body.appendChild(button);
+});
+</script>
 
+## Drug Identification
 
+- Several major challenges (that can be addressed with new developments in science and technology)
+    - Backlogs
+        - Personnel turn around / training / lack of funding, *emerging drugs*
+    - Novel Psychoactive Substances (Designer Drugs)
+        - [Making $3 million dollars of fentanyl using $3,600 and a web browser](https://www.reuters.com/investigates/special-report/drugs-fentanyl-supplychain/){target="_blank"}
+        - Lack of reference data, isomers, may need new SOPs, reporting criteria, for each new drug
+    - Sample complexity
+        - Highly toxic drugs means that street samples actually have minor amounts of controlled material
+    
+## Drug Identification
 
-## Peer Notetaking Support
+- Some analytical solutions currently being researched include
+    - Fast GC-MS; GC coupled with Cold EI-MS
+    - Ambient Ionization Mass Spectrometry
+    - GC-VUV / GC-IR
+    - Benchtop NMR<br><br>
+    
+- [Better data sharing and collaboration](https://www.nist.gov/publications/towards-increased-data-sharing-and-standardization-illicit-drug-analysis-and-monitoring){target="_blank"} between forensic labs and cognate research areas (e.g., public health, intelligence)
 
-::: {.notes}
-
-
-:::
-
-## Course Structure
-
-::: {.notes}
-
-
-:::
-
-
-## Delverables
-
-::: {.notes}
-
-
-:::
-
-
-## Introduction Quiz
-
-
-::: {.notes}
-
-
-:::
-
-## Content Quizzes (x 10)
-
-::: {.notes}
-
-
-:::
-
-## Lab Tests
+- [Article: Forensic seized drug analysis: Current challenges and emerging analytical techniques](https://doi.org/10.1002%2Fwfs2.1486){target="_blank"}
 
 ::: {.notes}
-
-:::
-
-## Annotated Bibliography 
-
-
-::: {.notes}
-
-:::
-
-## Research Proposal
-
-::: {.notes}
-
-:::
-
-## Data Presentation
-
-
-::: {.notes}
-
-:::
-
-
-## Article Critique
-
-::: {.notes}
-
-:::
-
-## Final Exam
-
-::: {.notes}
-
-:::
-
-
-## Grades
-
-::: {.notes}
-
+VUV - vacuum ultra violet spectroscopy
 :::
 
 
 
-## Course Policy
+## Chemical Weapons
 
-::: {.notes}
+- The **convention on the prohibition of the development, production, stockpiling, and use of chemical weapons and of their destruction (the CWC)** was signed in 1993 and put into force in 1997<br><br>
+
+- *Chemical weapons* includes:
+  - Munitions, devices, equipment specifically designed for employing munitions
+  - [Toxic chemicals and their precursors](https://onlinelibrary.wiley.com/doi/book/10.1002/0470012285#page=141){target="blank"}
+      - 57 line items: 42 individual compounds and 15 families of compounds (e.g., VX)
+      
+      
+## Chemical Weapons
+
+::: {.columns}
+
+::: {.column width=50%}
+Organization for the prohibition of chemical weapons (OPCW) was established by countries to enforce the CWC
+    
+  - verification studies
+  - retrospective and incidence response type investigations
+:::
+
+::: {.column widht=50%}
+![](../figures/OPCW.jpg){fig-aligned=center}
+:::
 
 :::
 
 
+## Fire Investigations
 
-###
-::: {.center}
-A quick tour of blackboard
+- Fires can be accidental or deliberate (arson). Potential motivations for deliberate fires include:
+  - intent to cover up other crimes (theft, murder)
+  - insurance fraud
+  - civil disorder (e.g., vandalism)
+  - malicious intent / terrorism<br><br>
+  
+- Fire investigations begin **without certainty as to whether a crime has been committed**
+  - Step 1 is to determine the merit of the assertion that the event is suspicious
+  
+## Fire Investigations
+
+- Traditionally broken into two different stages:
+  - scene investigation to determine cause, origin and development/spread of fire
+  - lab analysis of samples (when arson is suspected)<br><br>
+  
+- Scene investigators need to know necessary conditions for fire to be initiated and maintained, how fires develop and spread (dynamics), different types of fuel, among other investigation skills<br><br>
+
+- Lab Analysts need to have skills with analytical instrumentation and an understanding of the nature of flammable materials and their pyrolysis and combustion products to analyze fire residue/debris
+
+## Fire Investigations
+
+- Some relevant material properties include:
+
+::: {.columns}
+::: {.column width=10%}
+:::
+::: {.column width=90%}
+::: {style="font-size:0.6em;"}
+
+  - **Flammability (explosive) limits/ranges:** outside of these limits, the fuel-vapor to air concentration will be too lean or too rich to ignite (e.g., the lower FL for 100 octane petrol is 1.4%, the upper FL is 7.6%)
+  - **Vapor density:** density of the fuel vapor relative to the density of air (density less than 1 will spread out at the ceiling, density greater than 1 will spread out at the floor)
+  - **Flash point:** lowest temperature at which a liquid fuel produces a flammable vapor
+  - **Flame point:** the lowest temperature at which a liquid fuel produces enough flammable vapor that it can be ignited
+  - **Auto-ignition temperature (AIT):** temperature at which a fuel will ignite without any additional source of ignition
+
+::: 
+:::
 :::
 
-::: {.notes}
+- Knowing a material's properties only helpful if you know what the material is
 
+## Fire Investigations
+- Significant research in fire investigation: [(Interpol Review)](https://www.sciencedirect.com/science/article/pii/S2589871X26000422){target="_blank"}<br><br>
+- Fire scenes are hard: sample quality is poor (post fire extinguishing, a lot of components in a fuel, and weathering)
+
+  - On-site chemical analysis
+  - Models
+    - Laboratory reconstructions (e.g., weathering studies)
+    - Computer models
+
+
+## Fire Investigations
+
+- [The Fire Behaviour of Fabrics Containing Dried Emollient Residues](https://www.mdpi.com/2571-6255/8/4/133){target="_blank"}
+  - Proof-of-concept study
+  - **Objective:** Investigate the flammability of fabrics containing dried emollient on fabrics
+  - **Results:** Fabrics that have dried emollients are very flammable
+
+
+## Fire Investigations
+
+- [Artificial intelligence and thermodynamics help solving arson cases](https://www.nature.com/articles/s41598-020-77516-x){target="_blank"}
+  - Proof-of-concept study
+  - **Objective:** demonstrate how combining machine learning, thermodynamic modeling and quantum mechanics can predict the composition of unweathererd gasoline samples starting from weathered ones
+  - **Results:** Built and an NN model assuming an *ideal case*, where all composition change in gasoline is due exclusively to evaporation (and not adsorption, pyrolysis, degradation, extinguishing material)
+  
+## Death Investigation
+
+- Post-mortem examinations are carried out by pathologists to try and determine cause of death<br><br>
+
+- Post-mortem examinations begin **without certainty as to whether a crime has been committed** <br><br>
+
+- Time since death is an important factor when trying to determine the cause of death
+    - post-mortem interval (PMI) estimatition techniques are methods for approximating time since death
+
+## Death Investigation
+
+- Several established techniques for PMI estimation:
+    - Pathology (looking at post-mortom changes to the body)
+    - Entomology (insect activity)<br><br>
+    
+- Newer techniques being researched:
+  - DNA quantification (e.g., methylation)
+  - Biomarker discovery
+    - "OMICS" (metabolomics, lipidomics, and proteomics)
+    - Looking at body (skin, hair, bones), environment (soil, water, air), microbes
+    
+## Death Investigation
+
+- [The ‘ForensOMICS’ approach for postmortem interval estimation from human bone by integrating metabolomics, lipidomics, and proteomics](https://elifesciences.org/articles/83658){target="_blank"}
+  - Proof-of-Concept study
+  - **Objective:** To evaluate the utility of combining metabolomic, lipidomic, and proteomic analysis of human bone samples to estiamte PMI--"ForensOMICS"
+  - **Results:** Showed that *fingerprints* of samples collected at different time points were best separated using metabolite information; infer that "ForensOMICS" can be used to estimate PMI
+
+
+## Environmental Forensic Chemistry
+
+- A field that has developed over the past 70 years
+  - A successor to drinking water quality studies<br><br>
+  
+- Involves scientific investigation to: 
+  - Decipher the source(s) and fate(s) of environmental contaminants
+  - Identify culprit<br><br>
+  
+- Enforcement and protections of acts and regulations: [Environment and Climate Change Canada Acts & Regulations](https://www.canada.ca/en/environment-climate-change/corporate/transparency.html){target="_blank"}
+
+## Environmental Forensic Chemistry
+
+- Environmental Protection Acts
+  - The Department of the Environment Act
+  - The Canada Water Act
+  - International Rivers Improvement Act (IRIA)
+  - Lake of the Woods Control Board Act
+  - Weather Modification Act<br><br>
+  
+- Pollution Prevention Acts
+  - Canadian Environmental Protections Act
+  - Fisheries Act
+  - Antarctic Environmental Protections Act
+  - Artic Waters Pollution Prevention Act
+  
+## Environmental Forensic Chemistry
+
+- Biodiversity and Conservation
+  - Species at Risk Act
+  - Migratory Birds Convention Act
+  - Wild Animals and Plant Protection and Regulation of International and Interprovincial Trade Act
+  - Canada Wildlife Act<br><br>
+  
+- Sustainable Development
+  - Federal Sustainable Development Act
+  - Canada Foundation of Sustainable Development Technology Act
+  
+## Environmental Forensic Chemistry
+
+- The credibility of environmental forensic chemistry results is directly related to the quality of measurements and interpretations<br><br>
+
+- Some well-known challenges in measurement quality include:
+  - Sensitivity / Specificity
+  - Changing targets (laws and regulations)
+  - *Sampling (environmental systems are complex)*
+
+
+## Environmental Forensic Chemistry
+
+- **Case Study:** Characterizing Per- and Polyfluoroalkyl substances (PFAS)<br><br>
+
+- **PFAS:** group of thousands of synthetic chemicals that are used in consumer products and industrial processes
+  - Non-stick cookware, cosmetics, cleaning products, food packaging
+  - fire-fightig foam, *lab equipment*<br><br>
+  
+- Discovered in the 1930s; commonly used since the 1950s; started noticing environmental persistence and health effects in humans in the 1970s; subject of *some* environmental protection since 2000s<br><br>
+
+## Environmental Forensic Chemistry
+
+- Known health effects in animals:
+  - liver damage, immune system malfunction, reproductive and developmental issues, tumors<br><br>
+  
+- Suspected health effects (correlations) in humans:
+  - liver damage, increased serum cholesterol, decreased vaccination response, decreased birth weight, increased chance of thyroid disease, cardiovascular issues, cancer<br><br>
+  
+- Several governing bodies have created standards for allowable levels of specific PFAS in consumer products and the environment
+
+## Environmental Forensic Chemistry
+
+- [Source attribution of Poly- and Perfluoralkyl Substances (PFASs) in surface waters from Rhode Island and New York Metropolitan Area](https://doi.org/10.1021/acs.estlett.6b00255){target="_blank"}<br><br>
+
+- **Objective:** Identify sources of surface water PFAS contamination in a specified geography
+- **Methods(summary):**
+  - sampled water at 28 sites in Rhode Island and 9 sites in NY/NJ
+  - samples were spiked with known amount of PFAS
+  - PFAS were then extracted and then analyzed using LC/MS-MS
+  - Statistical and spatial analysis
+
+## White collar crimes - Illegal Timber trade
+
+::: {.columns}
+
+::: {.column width=40%}
+Illegal logging is one of the [most profitable natural resource crimes](https://gfintegrity.org/report/transnational-crime-and-the-developing-world/){target="_blank"}
+
+- Species Identification / Origin Identification
 :::
 
+::: {.column widht=60%}
+:::{style="font-size:0.6em"}
+| Transnational Crime | Estimated Annual Value (USD) |
+|:--------------------|:---------------------------|
+| Counterfeiting | 923 billion to 1.13 trillion |
+| Drug Trafficking | 426 billion to 652 billion |
+| **Illegal Logging** | **52 billion to 157 billion** |
+| Human Trafficking | 150.2 billion |
+| Illegal Mining | 12 billion to 48 billion |
+| Illegal Fishing | 15.5 billion to 36.4 billion |
+| Illegal Wildlife Trade | 5 billion to 23 billion |
+| Crude Oil Theft | 5.2 billion to 11.9 billion |
+| Small Arms and Light Weapons Trafficking | 1.7 billion to 3.5 billion |
+| Organ Trafficking | 840 million to 1.7 billion |
+| Tracking in Cultural Property | 1.2 billion to 1.6 billion
+| Total | 1.6 trillion to 2.2 trillion
+:::
+:::
 
-## How to get the most out of this course
-
-
-## On Epistemology
-
-## History of scientific development
-
-## The scientific  method
-
-## What's so unique about forensic science
+:::
 
 ##
-::: {.center}
-Good luck with content quiz 1!<br>(Due September 17 at 11:59 PM)
-:::
+
+![Illustration of Chemotype from [Deklerk (2023).](https://doi.org/10.1016/j.fsiae.2022.100057){target="_blank"}](../figures/WoodIDFigure.png){fig-align=center}
+
+## Coming up
+- Seminars are running in-person on Thursday October 8th<br> 
+  - F01 (SC 204) and F02 (SC W1))<br><br>
+- **Lecture next week:** An introduction to (or refresher on) programming in R
