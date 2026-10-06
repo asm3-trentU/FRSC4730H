@@ -819,151 +819,172 @@
     "text": "Lectures\n\n1: Course admin + Review of forensic chemistry\n2: What is a measurement\n3: Emerging analytical technicques in forensic chemistry\n4: Emerging Applications of chemistry in forensic science\n5: An introduction to (or refresher on) programming in R\n6: Similarities and differences\n7: Projections and dimensionality reduction\n8: Representing chemical structure\n9: A numerical exploration of molecular space"
   },
   {
-    "objectID": "Lectures/Lecture4_Applications.html#course-background",
-    "href": "Lectures/Lecture4_Applications.html#course-background",
-    "title": "Emerging applications of chemistry in Forensic Science",
-    "section": "Course Background",
-    "text": "Course Background"
+    "objectID": "Lectures/Lecture4_Applications.html#drug-identification",
+    "href": "Lectures/Lecture4_Applications.html#drug-identification",
+    "title": "Application areas in forensic chemistry",
+    "section": "Drug Identification",
+    "text": "Drug Identification\n\nDiscussion of drug prohibition in Canada started in the early 1900s as a response to opium\n\nHIST-3790: Opium and the making of the modern world\n\nOpium and Narcotics Drug Act passed in 1920; Controlled Drugs and Substances Act (last ammended July 2026)\nResources to learn more about the history of drug policy and other social considerations with drugs in Canada"
   },
   {
-    "objectID": "Lectures/Lecture4_Applications.html#course-facilitators",
-    "href": "Lectures/Lecture4_Applications.html#course-facilitators",
-    "title": "Emerging applications of chemistry in Forensic Science",
-    "section": "Course Facilitators",
-    "text": "Course Facilitators"
+    "objectID": "Lectures/Lecture4_Applications.html#drug-identification-1",
+    "href": "Lectures/Lecture4_Applications.html#drug-identification-1",
+    "title": "Application areas in forensic chemistry",
+    "section": "Drug Identification",
+    "text": "Drug Identification\n\nSeveral major challenges (that can be addressed with new developments in science and technology)\n\nBacklogs\n\nPersonnel turn around / training / lack of funding, emerging drugs\n\nNovel Psychoactive Substances (Designer Drugs)\n\nMaking $3 million dollars of fentanyl using $3,600 and a web browser\nLack of reference data, isomers, may need new SOPs, reporting criteria, for each new drug\n\nSample complexity\n\nHighly toxic drugs means that street samples actually have minor amounts of controlled material"
   },
   {
-    "objectID": "Lectures/Lecture4_Applications.html#peer-notetaking-support",
-    "href": "Lectures/Lecture4_Applications.html#peer-notetaking-support",
-    "title": "Emerging applications of chemistry in Forensic Science",
-    "section": "Peer Notetaking Support",
-    "text": "Peer Notetaking Support"
+    "objectID": "Lectures/Lecture4_Applications.html#drug-identification-2",
+    "href": "Lectures/Lecture4_Applications.html#drug-identification-2",
+    "title": "Application areas in forensic chemistry",
+    "section": "Drug Identification",
+    "text": "Drug Identification\n\nSome analytical solutions currently being researched include\n\nFast GC-MS; GC coupled with Cold EI-MS\nAmbient Ionization Mass Spectrometry\nGC-VUV / GC-IR\nBenchtop NMR\n\nBetter data sharing and collaboration between forensic labs and cognate research areas (e.g., public health, intelligence)\nArticle: Forensic seized drug analysis: Current challenges and emerging analytical techniques\n\n\nVUV - vacuum ultra violet spectroscopy"
   },
   {
-    "objectID": "Lectures/Lecture4_Applications.html#course-structure",
-    "href": "Lectures/Lecture4_Applications.html#course-structure",
-    "title": "Emerging applications of chemistry in Forensic Science",
-    "section": "Course Structure",
-    "text": "Course Structure"
+    "objectID": "Lectures/Lecture4_Applications.html#chemical-weapons",
+    "href": "Lectures/Lecture4_Applications.html#chemical-weapons",
+    "title": "Application areas in forensic chemistry",
+    "section": "Chemical Weapons",
+    "text": "Chemical Weapons\n\nThe convention on the prohibition of the development, production, stockpiling, and use of chemical weapons and of their destruction (the CWC) was signed in 1993 and put into force in 1997\nChemical weapons includes:\n\nMunitions, devices, equipment specifically designed for employing munitions\nToxic chemicals and their precursors\n\n57 line items: 42 individual compounds and 15 families of compounds (e.g., VX)"
   },
   {
-    "objectID": "Lectures/Lecture4_Applications.html#delverables",
-    "href": "Lectures/Lecture4_Applications.html#delverables",
-    "title": "Emerging applications of chemistry in Forensic Science",
-    "section": "Delverables",
-    "text": "Delverables"
+    "objectID": "Lectures/Lecture4_Applications.html#chemical-weapons-1",
+    "href": "Lectures/Lecture4_Applications.html#chemical-weapons-1",
+    "title": "Application areas in forensic chemistry",
+    "section": "Chemical Weapons",
+    "text": "Chemical Weapons\n\n\nOrganization for the prohibition of chemical weapons (OPCW) was established by countries to enforce the CWC\n\nverification studies\nretrospective and incidence response type investigations"
   },
   {
-    "objectID": "Lectures/Lecture4_Applications.html#introduction-quiz",
-    "href": "Lectures/Lecture4_Applications.html#introduction-quiz",
-    "title": "Emerging applications of chemistry in Forensic Science",
-    "section": "Introduction Quiz",
-    "text": "Introduction Quiz"
+    "objectID": "Lectures/Lecture4_Applications.html#fire-investigations",
+    "href": "Lectures/Lecture4_Applications.html#fire-investigations",
+    "title": "Application areas in forensic chemistry",
+    "section": "Fire Investigations",
+    "text": "Fire Investigations\n\nFires can be accidental or deliberate (arson). Potential motivations for deliberate fires include:\n\nintent to cover up other crimes (theft, murder)\ninsurance fraud\ncivil disorder (e.g., vandalism)\nmalicious intent / terrorism\n\nFire investigations begin without certainty as to whether a crime has been committed\n\nStep 1 is to determine the merit of the assertion that the event is suspicious"
   },
   {
-    "objectID": "Lectures/Lecture4_Applications.html#content-quizzes-x-10",
-    "href": "Lectures/Lecture4_Applications.html#content-quizzes-x-10",
-    "title": "Emerging applications of chemistry in Forensic Science",
-    "section": "Content Quizzes (x 10)",
-    "text": "Content Quizzes (x 10)"
+    "objectID": "Lectures/Lecture4_Applications.html#fire-investigations-1",
+    "href": "Lectures/Lecture4_Applications.html#fire-investigations-1",
+    "title": "Application areas in forensic chemistry",
+    "section": "Fire Investigations",
+    "text": "Fire Investigations\n\nTraditionally broken into two different stages:\n\nscene investigation to determine cause, origin and development/spread of fire\nlab analysis of samples (when arson is suspected)\n\nScene investigators need to know necessary conditions for fire to be initiated and maintained, how fires develop and spread (dynamics), different types of fuel, among other investigation skills\nLab Analysts need to have skills with analytical instrumentation and an understanding of the nature of flammable materials and their pyrolysis and combustion products to analyze fire residue/debris"
   },
   {
-    "objectID": "Lectures/Lecture4_Applications.html#lab-tests",
-    "href": "Lectures/Lecture4_Applications.html#lab-tests",
-    "title": "Emerging applications of chemistry in Forensic Science",
-    "section": "Lab Tests",
-    "text": "Lab Tests"
+    "objectID": "Lectures/Lecture4_Applications.html#fire-investigations-2",
+    "href": "Lectures/Lecture4_Applications.html#fire-investigations-2",
+    "title": "Application areas in forensic chemistry",
+    "section": "Fire Investigations",
+    "text": "Fire Investigations\n\nSome relevant material properties include:\n\n\n\n\n\n\n\nFlammability (explosive) limits/ranges: outside of these limits, the fuel-vapor to air concentration will be too lean or too rich to ignite (e.g., the lower FL for 100 octane petrol is 1.4%, the upper FL is 7.6%)\nVapor density: density of the fuel vapor relative to the density of air (density less than 1 will spread out at the ceiling, density greater than 1 will spread out at the floor)\nFlash point: lowest temperature at which a liquid fuel produces a flammable vapor\nFlame point: the lowest temperature at which a liquid fuel produces enough flammable vapor that it can be ignited\nAuto-ignition temperature (AIT): temperature at which a fuel will ignite without any additional source of ignition\n\n\n\n\nKnowing a material’s properties only helpful if you know what the material is"
   },
   {
-    "objectID": "Lectures/Lecture4_Applications.html#annotated-bibliography",
-    "href": "Lectures/Lecture4_Applications.html#annotated-bibliography",
-    "title": "Emerging applications of chemistry in Forensic Science",
-    "section": "Annotated Bibliography",
-    "text": "Annotated Bibliography"
+    "objectID": "Lectures/Lecture4_Applications.html#fire-investigations-3",
+    "href": "Lectures/Lecture4_Applications.html#fire-investigations-3",
+    "title": "Application areas in forensic chemistry",
+    "section": "Fire Investigations",
+    "text": "Fire Investigations\n\nSignificant research in fire investigation: (Interpol Review)\nFire scenes are hard: sample quality is poor (post fire extinguishing, a lot of components in a fuel, and weathering)\n\nOn-site chemical analysis\nModels\n\nLaboratory reconstructions (e.g., weathering studies)\nComputer models"
   },
   {
-    "objectID": "Lectures/Lecture4_Applications.html#research-proposal",
-    "href": "Lectures/Lecture4_Applications.html#research-proposal",
-    "title": "Emerging applications of chemistry in Forensic Science",
-    "section": "Research Proposal",
-    "text": "Research Proposal"
+    "objectID": "Lectures/Lecture4_Applications.html#fire-investigations-4",
+    "href": "Lectures/Lecture4_Applications.html#fire-investigations-4",
+    "title": "Application areas in forensic chemistry",
+    "section": "Fire Investigations",
+    "text": "Fire Investigations\n\nThe Fire Behaviour of Fabrics Containing Dried Emollient Residues\n\nProof-of-concept study\nObjective: Investigate the flammability of fabrics containing dried emollient on fabrics\nResults: Fabrics that have dried emollients are very flammable"
   },
   {
-    "objectID": "Lectures/Lecture4_Applications.html#data-presentation",
-    "href": "Lectures/Lecture4_Applications.html#data-presentation",
-    "title": "Emerging applications of chemistry in Forensic Science",
-    "section": "Data Presentation",
-    "text": "Data Presentation"
+    "objectID": "Lectures/Lecture4_Applications.html#fire-investigations-5",
+    "href": "Lectures/Lecture4_Applications.html#fire-investigations-5",
+    "title": "Application areas in forensic chemistry",
+    "section": "Fire Investigations",
+    "text": "Fire Investigations\n\nArtificial intelligence and thermodynamics help solving arson cases\n\nProof-of-concept study\nObjective: demonstrate how combining machine learning, thermodynamic modeling and quantum mechanics can predict the composition of unweathererd gasoline samples starting from weathered ones\nResults: Built and an NN model assuming an ideal case, where all composition change in gasoline is due exclusively to evaporation (and not adsorption, pyrolysis, degradation, extinguishing material)"
   },
   {
-    "objectID": "Lectures/Lecture4_Applications.html#article-critique",
-    "href": "Lectures/Lecture4_Applications.html#article-critique",
-    "title": "Emerging applications of chemistry in Forensic Science",
-    "section": "Article Critique",
-    "text": "Article Critique"
+    "objectID": "Lectures/Lecture4_Applications.html#death-investigation",
+    "href": "Lectures/Lecture4_Applications.html#death-investigation",
+    "title": "Application areas in forensic chemistry",
+    "section": "Death Investigation",
+    "text": "Death Investigation\n\nPost-mortem examinations are carried out by pathologists to try and determine cause of death\nPost-mortem examinations begin without certainty as to whether a crime has been committed \nTime since death is an important factor when trying to determine the cause of death\n\npost-mortem interval (PMI) estimatition techniques are methods for approximating time since death"
   },
   {
-    "objectID": "Lectures/Lecture4_Applications.html#final-exam",
-    "href": "Lectures/Lecture4_Applications.html#final-exam",
-    "title": "Emerging applications of chemistry in Forensic Science",
-    "section": "Final Exam",
-    "text": "Final Exam"
+    "objectID": "Lectures/Lecture4_Applications.html#death-investigation-1",
+    "href": "Lectures/Lecture4_Applications.html#death-investigation-1",
+    "title": "Application areas in forensic chemistry",
+    "section": "Death Investigation",
+    "text": "Death Investigation\n\nSeveral established techniques for PMI estimation:\n\nPathology (looking at post-mortom changes to the body)\nEntomology (insect activity)\n\nNewer techniques being researched:\n\nDNA quantification (e.g., methylation)\nBiomarker discovery\n\n“OMICS” (metabolomics, lipidomics, and proteomics)\nLooking at body (skin, hair, bones), environment (soil, water, air), microbes"
   },
   {
-    "objectID": "Lectures/Lecture4_Applications.html#grades",
-    "href": "Lectures/Lecture4_Applications.html#grades",
-    "title": "Emerging applications of chemistry in Forensic Science",
-    "section": "Grades",
-    "text": "Grades"
+    "objectID": "Lectures/Lecture4_Applications.html#death-investigation-2",
+    "href": "Lectures/Lecture4_Applications.html#death-investigation-2",
+    "title": "Application areas in forensic chemistry",
+    "section": "Death Investigation",
+    "text": "Death Investigation\n\nThe ‘ForensOMICS’ approach for postmortem interval estimation from human bone by integrating metabolomics, lipidomics, and proteomics\n\nProof-of-Concept study\nObjective: To evaluate the utility of combining metabolomic, lipidomic, and proteomic analysis of human bone samples to estiamte PMI–“ForensOMICS”\nResults: Showed that fingerprints of samples collected at different time points were best separated using metabolite information; infer that “ForensOMICS” can be used to estimate PMI"
   },
   {
-    "objectID": "Lectures/Lecture4_Applications.html#course-policy",
-    "href": "Lectures/Lecture4_Applications.html#course-policy",
-    "title": "Emerging applications of chemistry in Forensic Science",
-    "section": "Course Policy",
-    "text": "Course Policy\n\n\n\n\n\nA quick tour of blackboard"
+    "objectID": "Lectures/Lecture4_Applications.html#environmental-forensic-chemistry",
+    "href": "Lectures/Lecture4_Applications.html#environmental-forensic-chemistry",
+    "title": "Application areas in forensic chemistry",
+    "section": "Environmental Forensic Chemistry",
+    "text": "Environmental Forensic Chemistry\n\nA field that has developed over the past 70 years\n\nA successor to drinking water quality studies\n\nInvolves scientific investigation to:\n\nDecipher the source(s) and fate(s) of environmental contaminants\nIdentify culprit\n\nEnforcement and protections of acts and regulations: Environment and Climate Change Canada Acts & Regulations"
   },
   {
-    "objectID": "Lectures/Lecture4_Applications.html#how-to-get-the-most-out-of-this-course",
-    "href": "Lectures/Lecture4_Applications.html#how-to-get-the-most-out-of-this-course",
-    "title": "Emerging applications of chemistry in Forensic Science",
-    "section": "How to get the most out of this course",
-    "text": "How to get the most out of this course"
+    "objectID": "Lectures/Lecture4_Applications.html#environmental-forensic-chemistry-1",
+    "href": "Lectures/Lecture4_Applications.html#environmental-forensic-chemistry-1",
+    "title": "Application areas in forensic chemistry",
+    "section": "Environmental Forensic Chemistry",
+    "text": "Environmental Forensic Chemistry\n\nEnvironmental Protection Acts\n\nThe Department of the Environment Act\nThe Canada Water Act\nInternational Rivers Improvement Act (IRIA)\nLake of the Woods Control Board Act\nWeather Modification Act\n\nPollution Prevention Acts\n\nCanadian Environmental Protections Act\nFisheries Act\nAntarctic Environmental Protections Act\nArtic Waters Pollution Prevention Act"
   },
   {
-    "objectID": "Lectures/Lecture4_Applications.html#on-epistemology",
-    "href": "Lectures/Lecture4_Applications.html#on-epistemology",
-    "title": "Emerging applications of chemistry in Forensic Science",
-    "section": "On Epistemology",
-    "text": "On Epistemology"
+    "objectID": "Lectures/Lecture4_Applications.html#environmental-forensic-chemistry-2",
+    "href": "Lectures/Lecture4_Applications.html#environmental-forensic-chemistry-2",
+    "title": "Application areas in forensic chemistry",
+    "section": "Environmental Forensic Chemistry",
+    "text": "Environmental Forensic Chemistry\n\nBiodiversity and Conservation\n\nSpecies at Risk Act\nMigratory Birds Convention Act\nWild Animals and Plant Protection and Regulation of International and Interprovincial Trade Act\nCanada Wildlife Act\n\nSustainable Development\n\nFederal Sustainable Development Act\nCanada Foundation of Sustainable Development Technology Act"
   },
   {
-    "objectID": "Lectures/Lecture4_Applications.html#history-of-scientific-development",
-    "href": "Lectures/Lecture4_Applications.html#history-of-scientific-development",
-    "title": "Emerging applications of chemistry in Forensic Science",
-    "section": "History of scientific development",
-    "text": "History of scientific development"
+    "objectID": "Lectures/Lecture4_Applications.html#environmental-forensic-chemistry-3",
+    "href": "Lectures/Lecture4_Applications.html#environmental-forensic-chemistry-3",
+    "title": "Application areas in forensic chemistry",
+    "section": "Environmental Forensic Chemistry",
+    "text": "Environmental Forensic Chemistry\n\nThe credibility of environmental forensic chemistry results is directly related to the quality of measurements and interpretations\nSome well-known challenges in measurement quality include:\n\nSensitivity / Specificity\nChanging targets (laws and regulations)\nSampling (environmental systems are complex)"
   },
   {
-    "objectID": "Lectures/Lecture4_Applications.html#the-scientific-method",
-    "href": "Lectures/Lecture4_Applications.html#the-scientific-method",
-    "title": "Emerging applications of chemistry in Forensic Science",
-    "section": "The scientific method",
-    "text": "The scientific method"
+    "objectID": "Lectures/Lecture4_Applications.html#environmental-forensic-chemistry-4",
+    "href": "Lectures/Lecture4_Applications.html#environmental-forensic-chemistry-4",
+    "title": "Application areas in forensic chemistry",
+    "section": "Environmental Forensic Chemistry",
+    "text": "Environmental Forensic Chemistry\n\nCase Study: Characterizing Per- and Polyfluoroalkyl substances (PFAS)\nPFAS: group of thousands of synthetic chemicals that are used in consumer products and industrial processes\n\nNon-stick cookware, cosmetics, cleaning products, food packaging\nfire-fightig foam, lab equipment\n\nDiscovered in the 1930s; commonly used since the 1950s; started noticing environmental persistence and health effects in humans in the 1970s; subject of some environmental protection since 2000s"
   },
   {
-    "objectID": "Lectures/Lecture4_Applications.html#whats-so-unique-about-forensic-science",
-    "href": "Lectures/Lecture4_Applications.html#whats-so-unique-about-forensic-science",
-    "title": "Emerging applications of chemistry in Forensic Science",
-    "section": "What’s so unique about forensic science",
-    "text": "What’s so unique about forensic science"
+    "objectID": "Lectures/Lecture4_Applications.html#environmental-forensic-chemistry-5",
+    "href": "Lectures/Lecture4_Applications.html#environmental-forensic-chemistry-5",
+    "title": "Application areas in forensic chemistry",
+    "section": "Environmental Forensic Chemistry",
+    "text": "Environmental Forensic Chemistry\n\nKnown health effects in animals:\n\nliver damage, immune system malfunction, reproductive and developmental issues, tumors\n\nSuspected health effects (correlations) in humans:\n\nliver damage, increased serum cholesterol, decreased vaccination response, decreased birth weight, increased chance of thyroid disease, cardiovascular issues, cancer\n\nSeveral governing bodies have created standards for allowable levels of specific PFAS in consumer products and the environment"
   },
   {
-    "objectID": "Lectures/Lecture4_Applications.html#section-1",
-    "href": "Lectures/Lecture4_Applications.html#section-1",
+    "objectID": "Lectures/Lecture4_Applications.html#environmental-forensic-chemistry-6",
+    "href": "Lectures/Lecture4_Applications.html#environmental-forensic-chemistry-6",
+    "title": "Application areas in forensic chemistry",
+    "section": "Environmental Forensic Chemistry",
+    "text": "Environmental Forensic Chemistry\n\nSource attribution of Poly- and Perfluoralkyl Substances (PFASs) in surface waters from Rhode Island and New York Metropolitan Area\nObjective: Identify sources of surface water PFAS contamination in a specified geography\nMethods(summary):\n\nsampled water at 28 sites in Rhode Island and 9 sites in NY/NJ\nsamples were spiked with known amount of PFAS\nPFAS were then extracted and then analyzed using LC/MS-MS\nStatistical and spatial analysis"
+  },
+  {
+    "objectID": "Lectures/Lecture4_Applications.html#white-collar-crimes---illegal-timber-trade",
+    "href": "Lectures/Lecture4_Applications.html#white-collar-crimes---illegal-timber-trade",
+    "title": "Application areas in forensic chemistry",
+    "section": "White collar crimes - Illegal Timber trade",
+    "text": "White collar crimes - Illegal Timber trade\n\n\nIllegal logging is one of the most profitable natural resource crimes\n\nSpecies Identification / Origin Identification\n\n\n\n\n\n\n\n\n\n\nTransnational Crime\nEstimated Annual Value (USD)\n\n\n\n\nCounterfeiting\n923 billion to 1.13 trillion\n\n\nDrug Trafficking\n426 billion to 652 billion\n\n\nIllegal Logging\n52 billion to 157 billion\n\n\nHuman Trafficking\n150.2 billion\n\n\nIllegal Mining\n12 billion to 48 billion\n\n\nIllegal Fishing\n15.5 billion to 36.4 billion\n\n\nIllegal Wildlife Trade\n5 billion to 23 billion\n\n\nCrude Oil Theft\n5.2 billion to 11.9 billion\n\n\nSmall Arms and Light Weapons Trafficking\n1.7 billion to 3.5 billion\n\n\nOrgan Trafficking\n840 million to 1.7 billion\n\n\nTracking in Cultural Property\n1.2 billion to 1.6 billion\n\n\nTotal\n1.6 trillion to 2.2 trillion"
+  },
+  {
+    "objectID": "Lectures/Lecture4_Applications.html#section",
+    "href": "Lectures/Lecture4_Applications.html#section",
     "title": "Application areas in forensic chemistry",
     "section": "",
-    "text": "Source attribution of Poly- and Perfluoralkyl Substances (PFASs) in surface waters from Rhode Island and New York Metropolitan Area\nObjective: Identify sources of surface water PFAS contamination in a specified geography -Methods(summary):\n\nsampled water at 28 sites in Rhode Island and 9 sites in NY/NJ\nsamples were spiked with known amount of PFAS\nPFAS were then extracted and then analyzed using LC/MS-MS\nStatistical and spatial analysis"
+    "text": "Illustration of Chemotype from Deklerk (2023)."
+  },
+  {
+    "objectID": "Lectures/Lecture4_Applications.html#coming-up",
+    "href": "Lectures/Lecture4_Applications.html#coming-up",
+    "title": "Application areas in forensic chemistry",
+    "section": "Coming up",
+    "text": "Coming up\n\nSeminars are running in-person on Thursday October 8th\n\nF01 (SC 204) and F02 (SC W1))\n\nLecture next week: An introduction to (or refresher on) programming in R"
   },
   {
     "objectID": "Lectures/Lecture5_R.html#course-background",
@@ -1468,180 +1489,5 @@
     "title": "Emerging analytical techniques in forensic chemistry",
     "section": "Coming up",
     "text": "Coming up\n\nSeminars are running in-person on Thursday October 1st (F01 and F02) \nLecture next week: Emerging applications of chemistry in forensic science"
-  },
-  {
-    "objectID": "Lectures/Lecture4_Applications.html#drug-identification",
-    "href": "Lectures/Lecture4_Applications.html#drug-identification",
-    "title": "Application areas in forensic chemistry",
-    "section": "Drug Identification",
-    "text": "Drug Identification\n\nDiscussion of drug prohibition in Canada started in the early 1900s as a response to opium\n\nHIST-3790: Opium and the making of the modern world\n\nOpium and Narcotics Drug Act passed in 1920; Controlled Drugs and Substances Act (last ammended July 2026)\nResources to learn more about the history of drug policy and other social considerations with drugs in Canada"
-  },
-  {
-    "objectID": "Lectures/Lecture4_Applications.html#drug-identification-1",
-    "href": "Lectures/Lecture4_Applications.html#drug-identification-1",
-    "title": "Application areas in forensic chemistry",
-    "section": "Drug Identification",
-    "text": "Drug Identification\n\nSeveral major challenges (that can be addressed with new developments in science and technology)\n\nBacklogs\n\nPersonnel turn around / training / lack of funding, emerging drugs\n\nNovel Psychoactive Substances (Designer Drugs)\n\nMaking $3 million dollars of fentanyl using $3,600 and a web browser\nLack of reference data, isomers, may need new SOPs, reporting criteria, for each new drug\n\nSample complexity\n\nHighly toxic drugs means that street samples actually have minor amounts of controlled material"
-  },
-  {
-    "objectID": "Lectures/Lecture4_Applications.html#drug-identification-2",
-    "href": "Lectures/Lecture4_Applications.html#drug-identification-2",
-    "title": "Application areas in forensic chemistry",
-    "section": "Drug Identification",
-    "text": "Drug Identification\n\nSome analytical solutions currently being researched include\n\nFast GC-MS; GC coupled with Cold EI-MS\nAmbient Ionization Mass Spectrometry\nGC-VUV / GC-IR\nBenchtop NMR\n\nBetter data sharing and collaboration between forensic labs and cognate research areas (e.g., public health, intelligence)\nArticle: Forensic seized drug analysis: Current challenges and emerging analytical techniques\n\n\nVUV - vacuum ultra violet spectroscopy"
-  },
-  {
-    "objectID": "Lectures/Lecture4_Applications.html#chemical-weapons",
-    "href": "Lectures/Lecture4_Applications.html#chemical-weapons",
-    "title": "Application areas in forensic chemistry",
-    "section": "Chemical Weapons",
-    "text": "Chemical Weapons\n\nThe convention on the prohibition of the development, production, stockpiling, and use of chemical weapons and of their destruction (the CWC) was signed in 1993 and put into force in 1997\nChemical weapons includes:\n\nMunitions, devices, equipment specifically designed for employing munitions\nToxic chemicals and their precursors\n\n57 line items: 42 individual compounds and 15 families of compounds (e.g., VX)"
-  },
-  {
-    "objectID": "Lectures/Lecture4_Applications.html#chemical-weapons-1",
-    "href": "Lectures/Lecture4_Applications.html#chemical-weapons-1",
-    "title": "Application areas in forensic chemistry",
-    "section": "Chemical Weapons",
-    "text": "Chemical Weapons\n\n\nOrganization for the prohibition of chemical weapons (OPCW) was established by countries to enforce the CWC\n\nverification studies\nretrospective and incidence response type investigations"
-  },
-  {
-    "objectID": "Lectures/Lecture4_Applications.html#fire-investigations",
-    "href": "Lectures/Lecture4_Applications.html#fire-investigations",
-    "title": "Application areas in forensic chemistry",
-    "section": "Fire Investigations",
-    "text": "Fire Investigations\n\nFires can be accidental or deliberate (arson). Potential motivations for deliberate fires include:\n\nintent to cover up other crimes (theft, murder)\ninsurance fraud\ncivil disorder (e.g., vandalism)\nmalicious intent / terrorism\n\nFire investigations begin without certainty as to whether a crime has been committed\n\nStep 1 is to determine the merit of the assertion that the event is suspicious"
-  },
-  {
-    "objectID": "Lectures/Lecture4_Applications.html#fire-investigations-1",
-    "href": "Lectures/Lecture4_Applications.html#fire-investigations-1",
-    "title": "Application areas in forensic chemistry",
-    "section": "Fire Investigations",
-    "text": "Fire Investigations\n\nTraditionally broken into two different stages:\n\nscene investigation to determine cause, origin and development/spread of fire\nlab analysis of samples (when arson is suspected)\n\nScene investigators need to know necessary conditions for fire to be initiated and maintained, how fires develop and spread (dynamics), different types of fuel, among other investigation skills\nLab Analysts need to have skills with analytical instrumentation and an understanding of the nature of flammable materials and their pyrolysis and combustion products to analyze fire residue/debris"
-  },
-  {
-    "objectID": "Lectures/Lecture4_Applications.html#fire-investigations-2",
-    "href": "Lectures/Lecture4_Applications.html#fire-investigations-2",
-    "title": "Application areas in forensic chemistry",
-    "section": "Fire Investigations",
-    "text": "Fire Investigations\n\nSome relevant material properties include:\n\n\n\n\n\n\n\nFlammability (explosive) limits/ranges: outside of these limits, the fuel-vapor to air concentration will be too lean or too rich to ignite (e.g., the lower FL for 100 octane petrol is 1.4%, the upper FL is 7.6%)\nVapor density: density of the fuel vapor relative to the density of air (density less than 1 will spread out at the ceiling, density greater than 1 will spread out at the floor)\nFlash point: lowest temperature at which a liquid fuel produces a flammable vapor\nFlame point: the lowest temperature at which a liquid fuel produces enough flammable vapor that it can be ignited\nAuto-ignition temperature (AIT): temperature at which a fuel will ignite without any additional source of ignition\n\n\n\n\nKnowing a material’s properties only helpful if you know what the material is"
-  },
-  {
-    "objectID": "Lectures/Lecture4_Applications.html#fire-investigations-3",
-    "href": "Lectures/Lecture4_Applications.html#fire-investigations-3",
-    "title": "Application areas in forensic chemistry",
-    "section": "Fire Investigations",
-    "text": "Fire Investigations\n\nSignificant research in fire investigation: (Interpol Review)\nFire scenes are hard: sample quality is poor (post fire extinguishing, a lot of components in a fuel, and weathering)\n\nOn-site chemical analysis\nModels\n\nLaboratory reconstructions (e.g., weathering studies)\nComputer models"
-  },
-  {
-    "objectID": "Lectures/Lecture4_Applications.html#fire-investigations-4",
-    "href": "Lectures/Lecture4_Applications.html#fire-investigations-4",
-    "title": "Application areas in forensic chemistry",
-    "section": "Fire Investigations",
-    "text": "Fire Investigations\n\nThe Fire Behaviour of Fabrics Containing Dried Emollient Residues\n\nProof-of-concept study\nObjective: Investigate the flammability of fabrics containing dried emollient on fabrics\nResults: Fabrics that have dried emollients are very flammable"
-  },
-  {
-    "objectID": "Lectures/Lecture4_Applications.html#fire-investigations-5",
-    "href": "Lectures/Lecture4_Applications.html#fire-investigations-5",
-    "title": "Application areas in forensic chemistry",
-    "section": "Fire Investigations",
-    "text": "Fire Investigations\n\nArtificial intelligence and thermodynamics help solving arson cases\n\nProof-of-concept study\nObjective: demonstrate how combining machine learning, thermodynamic modeling and quantum mechanics can predict the composition of unweathererd gasoline samples starting from weathered ones\nResults: Built and an NN model assuming an ideal case, where all composition change in gasoline is due exclusively to evaporation (and not adsorption, pyrolysis, degradation, extinguishing material)"
-  },
-  {
-    "objectID": "Lectures/Lecture4_Applications.html#death-investigation",
-    "href": "Lectures/Lecture4_Applications.html#death-investigation",
-    "title": "Application areas in forensic chemistry",
-    "section": "Death Investigation",
-    "text": "Death Investigation\n\nPost-mortem examinations are carried out by pathologists to try and determine cause of death\nPost-mortem examinations begin without certainty as to whether a crime has been committed \nTime since death is an important factor when trying to determine the cause of death\n\npost-mortem interval (PMI) estimatition techniques are methods for approximating time since death"
-  },
-  {
-    "objectID": "Lectures/Lecture4_Applications.html#death-investigation-1",
-    "href": "Lectures/Lecture4_Applications.html#death-investigation-1",
-    "title": "Application areas in forensic chemistry",
-    "section": "Death Investigation",
-    "text": "Death Investigation\n\nSeveral established techniques for PMI estimation:\n\nPathology (looking at post-mortom changes to the body)\nEntomology (insect activity)\n\nNewer techniques being researched:\n\nDNA quantification (e.g., methylation)\nBiomarker discovery\n\n“OMICS” (metabolomics, lipidomics, and proteomics)\nLooking at body (skin, hair, bones), environment (soil, water, air), microbes"
-  },
-  {
-    "objectID": "Lectures/Lecture4_Applications.html#death-investigation-2",
-    "href": "Lectures/Lecture4_Applications.html#death-investigation-2",
-    "title": "Application areas in forensic chemistry",
-    "section": "Death Investigation",
-    "text": "Death Investigation\n\nThe ‘ForensOMICS’ approach for postmortem interval estimation from human bone by integrating metabolomics, lipidomics, and proteomics\n\nProof-of-Concept study\nObjective: To evaluate the utility of combining metabolomic, lipidomic, and proteomic analysis of human bone samples to estiamte PMI–“ForensOMICS”\nResults: Showed that fingerprints of samples collected at different time points were best separated using metabolite information; infer that “ForensOMICS” can be used to estimate PMI"
-  },
-  {
-    "objectID": "Lectures/Lecture4_Applications.html#environmental-forensic-chemistry",
-    "href": "Lectures/Lecture4_Applications.html#environmental-forensic-chemistry",
-    "title": "Application areas in forensic chemistry",
-    "section": "Environmental Forensic Chemistry",
-    "text": "Environmental Forensic Chemistry\n\nA field that has developed over the past 70 years\n\nA successor to drinking water quality studies\n\nInvolves scientific investigation to:\n\nDecipher the source(s) and fate(s) of environmental contaminants\nIdentify culprit\n\nEnforcement and protections of acts and regulations: Environment and Climate Change Canada Acts & Regulations"
-  },
-  {
-    "objectID": "Lectures/Lecture4_Applications.html#environmental-forensic-chemistry-1",
-    "href": "Lectures/Lecture4_Applications.html#environmental-forensic-chemistry-1",
-    "title": "Application areas in forensic chemistry",
-    "section": "Environmental Forensic Chemistry",
-    "text": "Environmental Forensic Chemistry\n\nEnvironmental Protection Acts\n\nThe Department of the Environment Act\nThe Canada Water Act\nInternational Rivers Improvement Act (IRIA)\nLake of the Woods Control Board Act\nWeather Modification Act\n\nPollution Prevention Acts\n\nCanadian Environmental Protections Act\nFisheries Act\nAntarctic Environmental Protections Act\nArtic Waters Pollution Prevention Act"
-  },
-  {
-    "objectID": "Lectures/Lecture4_Applications.html#environmental-forensic-chemistry-2",
-    "href": "Lectures/Lecture4_Applications.html#environmental-forensic-chemistry-2",
-    "title": "Application areas in forensic chemistry",
-    "section": "Environmental Forensic Chemistry",
-    "text": "Environmental Forensic Chemistry\n\nBiodiversity and Conservation\n\nSpecies at Risk Act\nMigratory Birds Convention Act\nWild Animals and Plant Protection and Regulation of International and Interprovincial Trade Act\nCanada Wildlife Act\n\nSustainable Development\n\nFederal Sustainable Development Act\nCanada Foundation of Sustainable Development Technology Act"
-  },
-  {
-    "objectID": "Lectures/Lecture4_Applications.html#environmental-forensic-chemistry-3",
-    "href": "Lectures/Lecture4_Applications.html#environmental-forensic-chemistry-3",
-    "title": "Application areas in forensic chemistry",
-    "section": "Environmental Forensic Chemistry",
-    "text": "Environmental Forensic Chemistry\n\nThe credibility of environmental forensic chemistry results is directly related to the quality of measurements and interpretations\nSome well-known challenges in measurement quality include:\n\nSensitivity / Specificity\nChanging targets (laws and regulations)\nSampling (environmental systems are complex)"
-  },
-  {
-    "objectID": "Lectures/Lecture4_Applications.html#environmental-forensic-chemistry-4",
-    "href": "Lectures/Lecture4_Applications.html#environmental-forensic-chemistry-4",
-    "title": "Application areas in forensic chemistry",
-    "section": "Environmental Forensic Chemistry",
-    "text": "Environmental Forensic Chemistry\n\nCase Study: Characterizing Per- and Polyfluoroalkyl substances (PFAS)\nPFAS: group of thousands of synthetic chemicals that are used in consumer products and industrial processes\n\nNon-stick cookware, cosmetics, cleaning products, food packaging\nfire-fightig foam, lab equipment\n\nDiscovered in the 1930s; commonly used since the 1950s; started noticing environmental persistence and health effects in humans in the 1970s; subject of some environmental protection since 2000s"
-  },
-  {
-    "objectID": "Lectures/Lecture4_Applications.html#section",
-    "href": "Lectures/Lecture4_Applications.html#section",
-    "title": "Application areas in forensic chemistry",
-    "section": "",
-    "text": "Illustration of Chemotype from Deklerk (2023)."
-  },
-  {
-    "objectID": "Lectures/Lecture4_Applications.html#white-collar-crimes---illegal-timber-trade",
-    "href": "Lectures/Lecture4_Applications.html#white-collar-crimes---illegal-timber-trade",
-    "title": "Application areas in forensic chemistry",
-    "section": "White collar crimes - Illegal Timber trade",
-    "text": "White collar crimes - Illegal Timber trade\n\n\nIllegal logging is one of the most profitable natural resource crimes\n\nSpecies Identification / Origin Identification\n\n\n\n\n\n\n\n\n\n\nTransnational Crime\nEstimated Annual Value (USD)\n\n\n\n\nCounterfeiting\n923 billion to 1.13 trillion\n\n\nDrug Trafficking\n426 billion to 652 billion\n\n\nIllegal Logging\n52 billion to 157 billion\n\n\nHuman Trafficking\n150.2 billion\n\n\nIllegal Mining\n12 billion to 48 billion\n\n\nIllegal Fishing\n15.5 billion to 36.4 billion\n\n\nIllegal Wildlife Trade\n5 billion to 23 billion\n\n\nCrude Oil Theft\n5.2 billion to 11.9 billion\n\n\nSmall Arms and Light Weapons Trafficking\n1.7 billion to 3.5 billion\n\n\nOrgan Trafficking\n840 million to 1.7 billion\n\n\nTracking in Cultural Property\n1.2 billion to 1.6 billion\n\n\nTotal\n1.6 trillion to 2.2 trillion"
-  },
-  {
-    "objectID": "Lectures/Lecture4_Applications.html#section-2",
-    "href": "Lectures/Lecture4_Applications.html#section-2",
-    "title": "Application areas in forensic chemistry",
-    "section": "",
-    "text": "Illustration of Chemotype from Deklerk (2023)."
-  },
-  {
-    "objectID": "Lectures/Lecture4_Applications.html#coming-up",
-    "href": "Lectures/Lecture4_Applications.html#coming-up",
-    "title": "Application areas in forensic chemistry",
-    "section": "Coming up",
-    "text": "Coming up\n\nSeminars are running in-person on Thursday October 8th (F01 and F02)\nLecture next week: An introduction to (or refresher on) programming in R"
-  },
-  {
-    "objectID": "Lectures/Lecture4_Applications.html#environmental-forensic-chemistry-5",
-    "href": "Lectures/Lecture4_Applications.html#environmental-forensic-chemistry-5",
-    "title": "Application areas in forensic chemistry",
-    "section": "Environmental Forensic Chemistry",
-    "text": "Environmental Forensic Chemistry\n\nKnown health effects in animals:\n\nliver damage, immune system malfunction, reproductive and developmental issues, tumors\n\nSuspected health effects (correlations) in humans:\n\nliver damage, increased serum cholesterol, decreased vaccination response, decreased birth weight, increased chance of thyroid disease, cardiovascular issues, cancer\n\nSeveral governing bodies have created standards for allowable levels of specific PFAS in consumer products and the environment"
-  },
-  {
-    "objectID": "Lectures/Lecture4_Applications.html#environmental-forensic-chemistry-6",
-    "href": "Lectures/Lecture4_Applications.html#environmental-forensic-chemistry-6",
-    "title": "Application areas in forensic chemistry",
-    "section": "Environmental Forensic Chemistry",
-    "text": "Environmental Forensic Chemistry\n\nSource attribution of Poly- and Perfluoralkyl Substances (PFASs) in surface waters from Rhode Island and New York Metropolitan Area\nObjective: Identify sources of surface water PFAS contamination in a specified geography\nMethods(summary):\n\nsampled water at 28 sites in Rhode Island and 9 sites in NY/NJ\nsamples were spiked with known amount of PFAS\nPFAS were then extracted and then analyzed using LC/MS-MS\nStatistical and spatial analysis"
   }
 ]

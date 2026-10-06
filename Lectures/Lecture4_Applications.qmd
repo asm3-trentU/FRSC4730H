@@ -185,7 +185,7 @@ Organization for the prohibition of chemical weapons (OPCW) was established by c
 ## Death Investigation
 
 - Several established techniques for PMI estimation:
-    - Pathology (looking at post-mortom changes to the body)
+    - Pathology (looking at post-mortem changes to the body)
     - Entomology (insect activity)<br><br>
     
 - Newer techniques being researched:
