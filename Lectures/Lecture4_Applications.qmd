@@ -275,7 +275,7 @@ Organization for the prohibition of chemical weapons (OPCW) was established by c
 - [Source attribution of Poly- and Perfluoralkyl Substances (PFASs) in surface waters from Rhode Island and New York Metropolitan Area](https://doi.org/10.1021/acs.estlett.6b00255){target="_blank"}<br><br>
 
 - **Objective:** Identify sources of surface water PFAS contamination in a specified geography
-- **Methods(summary):**
+- **Methods (summary):**
   - sampled water at 28 sites in Rhode Island and 9 sites in NY/NJ
   - samples were spiked with known amount of PFAS
   - PFAS were then extracted and then analyzed using LC/MS-MS
