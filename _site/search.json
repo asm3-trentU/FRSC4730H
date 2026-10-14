@@ -963,7 +963,7 @@
     "href": "Lectures/Lecture4_Applications.html#environmental-forensic-chemistry-6",
     "title": "Application areas in forensic chemistry",
     "section": "Environmental Forensic Chemistry",
-    "text": "Environmental Forensic Chemistry\n\nSource attribution of Poly- and Perfluoralkyl Substances (PFASs) in surface waters from Rhode Island and New York Metropolitan Area\nObjective: Identify sources of surface water PFAS contamination in a specified geography\nMethods(summary):\n\nsampled water at 28 sites in Rhode Island and 9 sites in NY/NJ\nsamples were spiked with known amount of PFAS\nPFAS were then extracted and then analyzed using LC/MS-MS\nStatistical and spatial analysis"
+    "text": "Environmental Forensic Chemistry\n\nSource attribution of Poly- and Perfluoralkyl Substances (PFASs) in surface waters from Rhode Island and New York Metropolitan Area\nObjective: Identify sources of surface water PFAS contamination in a specified geography\nMethods (summary):\n\nsampled water at 28 sites in Rhode Island and 9 sites in NY/NJ\nsamples were spiked with known amount of PFAS\nPFAS were then extracted and then analyzed using LC/MS-MS\nStatistical and spatial analysis"
   },
   {
     "objectID": "Lectures/Lecture4_Applications.html#white-collar-crimes---illegal-timber-trade",
@@ -1489,5 +1489,124 @@
     "title": "Emerging analytical techniques in forensic chemistry",
     "section": "Coming up",
     "text": "Coming up\n\nSeminars are running in-person on Thursday October 1st (F01 and F02) \nLecture next week: Emerging applications of chemistry in forensic science"
+  },
+  {
+    "objectID": "Lectures/Lecture5_R.html#basics-of-programming",
+    "href": "Lectures/Lecture5_R.html#basics-of-programming",
+    "title": "An introduction to programming with R",
+    "section": "Basics of programming",
+    "text": "Basics of programming\n\nMany modern scientific problems/tasks are too larger or too complex (or both) to solve without the aid of computers\n\nsome problems are hard to even visualize/imagine without computers\n\nProgramming is the act of providing computers with specific operational instructions; usually to assist (us) with performing a specific task or solving a specific problem\nCan provide instructions via mouse and keyboard (i.e., use a software tool); but the majority of programming (coding) is done through written instructions called source code"
+  },
+  {
+    "objectID": "Lectures/Lecture5_R.html#coming-up",
+    "href": "Lectures/Lecture5_R.html#coming-up",
+    "title": "An introduction to programming with R",
+    "section": "Coming up",
+    "text": "Coming up\n\nSeminars are running in-person on Thursday October 15th\n\nF01 (SC 204) and F02 (SC W1)\n\nSPECIAL Lecture next week: Graduate school in Canada\n\nGuests will be joining us via Zoom"
+  },
+  {
+    "objectID": "Lectures/Lecture5_R.html#basics-of-programming-1",
+    "href": "Lectures/Lecture5_R.html#basics-of-programming-1",
+    "title": "An introduction to programming with R",
+    "section": "Basics of programming",
+    "text": "Basics of programming\n\nthe programming language used to write source code depends on:\n\nthe hardware/software of the computer (or instrument)\n\ni.e., what can the computer process/understand\n\nthe task/problem being worked on\nthe skills/experience of the programmer"
+  },
+  {
+    "objectID": "Lectures/Lecture5_R.html#basics-of-programming-2",
+    "href": "Lectures/Lecture5_R.html#basics-of-programming-2",
+    "title": "An introduction to programming with R",
+    "section": "Basics of programming",
+    "text": "Basics of programming\n\none major dichotomy to know:\n\nCompiled Languages: source code gets compiled by an operating system specific compiler into an executable file (application) that can then be run directly by the operating system\n\nlanguage has a steeper learning curve, but the resulting applications run very efficiently \n\nInterpreted Languages: source code is executed by an interpreter (application) which being run on the operating system\n\nlanguage is more human-readable, but usually inefficient \n\n\nIn this class we’ll be working with the R programming language"
+  },
+  {
+    "objectID": "Lectures/Lecture5_R.html#programming-in-r",
+    "href": "Lectures/Lecture5_R.html#programming-in-r",
+    "title": "An introduction to programming with R",
+    "section": "Programming in R",
+    "text": "Programming in R\n\nTo write R code, all you need is to know the language!\nTo run R code, all you need to have is:\n\nA computer with any modern operating system (Windows, Max, Linux)\nA text editor installed on the computer\nThe appropriate version of “R” (the interpreter) installed on the computer www.cran.r-project.org \n\nRStudio is an integrated development environment (IDE) application\n\nallows you to view/edit code, run the code, visualize outputs in a console, and view all the variables currently loaded in the interpreting environment"
+  },
+  {
+    "objectID": "Lectures/Lecture5_R.html#syntax",
+    "href": "Lectures/Lecture5_R.html#syntax",
+    "title": "An introduction to programming with R",
+    "section": "Syntax",
+    "text": "Syntax\n\nsyntax are the set of rules/procedures for working with a language (grammarPlus)\ncompilers/interpreters are very sensitive to syntax–you need to follow the rules for your code to run (syntax errors) \ncompilers/interpreters are very literal–you need to make sure your logic is precise for your code to output the correct answer (logic errors)\nif your computer is not following the instructions you’ve provided, there is either a syntax error, a logic error, or memory error\n\nmemory error (get a new computer, or come up with some more clever logic)\nsyntax error (RTFM)\nlogic error (improve your programming skills)"
+  },
+  {
+    "objectID": "Lectures/Lecture5_R.html#errors",
+    "href": "Lectures/Lecture5_R.html#errors",
+    "title": "An introduction to programming with R",
+    "section": "Errors",
+    "text": "Errors\n\nsyntax are the set of rules/procedures for working with a language (grammarPlus)\n\ncompilers/interpreters are very sensitive to syntax–you need to follow the rules of your language for your code to run (syntax errors) \n\ncompilers/interpreters are more literal than humans\n\nyou need to make sure your logic is precise for your code to output the correct answer (logic errors)\n\nif your computer is not following the instructions you’ve provided, there is either a syntax error, a logic error, or a memory leak"
+  },
+  {
+    "objectID": "Lectures/Lecture5_R.html#some-key-r-syntax",
+    "href": "Lectures/Lecture5_R.html#some-key-r-syntax",
+    "title": "An introduction to programming with R",
+    "section": "Some key R syntax",
+    "text": "Some key R syntax\n\n\n#                   # ignores text that follows until the next line (comment)\nx &lt;- 7              # create a variable x and assign it the value 7\ny = 8               # create a variable y and assign it the value 8\nz = x + y           # create a variable z and assign it the value of x + y\nzebra = x^2         # create a variable zebra and assigned the value of x to the power 2\n\n\n\n\n\nprint(zebra)            # the function \"print\" displays the value of zebra maintaining its \"shape\"\n\n\n\n\n\nebra = zebra - z      # creates a variable ebra and assign it the value of zebra - z\ncat(ebra)             # the function \"cat\" displays the value of variable ebra\n\n\n\n\n\ncat(zebra - z)      # the function \"cat\" displays the value of variable zebra - z"
+  },
+  {
+    "objectID": "Lectures/Lecture5_R.html#some-key-r-sytax",
+    "href": "Lectures/Lecture5_R.html#some-key-r-sytax",
+    "title": "An introduction to programming with R",
+    "section": "Some key R sytax",
+    "text": "Some key R sytax\n\n\ncat(\"This is a test\")   # display the string \"This is a test\"\n# cat(test)             # this code will fail because there is no variable named test in our environment\n\n\n\n\n\nzebra_sentence = paste0(\"The value of zebra is \",zebra) # The paste0 function will glue things together without including any spaces\ncat(zebra_sentence)\n\n\n\n\n\ncat(paste0(\"The value of ebra is \",ebra) )"
+  },
+  {
+    "objectID": "Lectures/Lecture5_R.html#objects-in-r",
+    "href": "Lectures/Lecture5_R.html#objects-in-r",
+    "title": "An introduction to programming with R",
+    "section": "Objects in R",
+    "text": "Objects in R\n\nSome key types of objects to be aware of:\n\nvariable: stores a single value, can be a number or character\narray: stores multiple values, can contain numbers XOR characters (vectors + matrices)\ndata frames: multiple arrays, can be any data type but will force a “shape” on the data\nlists: multiple variables, arrays, etc.. can be any data type AND any shape\n\n\n\n\n rm(list=ls())        # the ls() function finds all objects in the environment, the rm() function removes and lists that are provided to it\n \n x = c(1, 2, 3, 4, 5) # creates an array x and assigns it the values 1 through 5 using the the \"collect\" function\n y = seq(1,5,1)       # creates an array y and assigns it the values 1 through 5 increments of 1 using the \"sequence\" function\n z = seq(1,5,0.1)     # creates an array z and assigns it the values 1 through 5 by increments of 0.1 using the \"sequence\""
+  },
+  {
+    "objectID": "Lectures/Lecture5_R.html#objects-in-r-1",
+    "href": "Lectures/Lecture5_R.html#objects-in-r-1",
+    "title": "An introduction to programming with R",
+    "section": "Objects in R",
+    "text": "Objects in R\n\n\n xy = cbind(x,y)      # use the \"cbind\" function create a matrix xy with columns equal to x and y\n print(xy)\n\n     x y\n[1,] 1 1\n[2,] 2 2\n[3,] 3 3\n[4,] 4 4\n[5,] 5 5\n\n\n\n\n\n\n  cat(xy)\n\n1 2 3 4 5 1 2 3 4 5"
+  },
+  {
+    "objectID": "Lectures/Lecture5_R.html#some-key-r-syntax-1",
+    "href": "Lectures/Lecture5_R.html#some-key-r-syntax-1",
+    "title": "An introduction to programming with R",
+    "section": "Some key R syntax",
+    "text": "Some key R syntax\n\n\ncat(\"This is a test\")   # display the string \"This is a test\"\n# cat(test)             # this code will fail because there is no variable named test in our environment\n\n\n\n\n\nzebra_sentence = paste0(\"The value of zebra is \",zebra) # The paste0 function will glue things together without including any spaces\ncat(zebra_sentence)\n\n\n\n\n\ncat(paste0(\"The value of ebra is \",ebra) )"
+  },
+  {
+    "objectID": "Lectures/Lecture5_R.html#importing-data-in-r",
+    "href": "Lectures/Lecture5_R.html#importing-data-in-r",
+    "title": "An introduction to programming with R",
+    "section": "Importing data in R",
+    "text": "Importing data in R\n\nR is a general purpose programming language, but it is popular because of its rich repository of powerful statistics and data analysis functions\n\nReading and writing data\nRegression modeling\nHypothesis testing\nMachine learning\n\n\n\n\n  rm(list=ls())                 # clear work space\n  Spec1 = read.table(\"U1.txt\")  # create an array Spec1 and assign it the values from the text file U1.txt using the read.table function\n  # the first column is m/z values and second column are intensity values\n  nPeaks = nrow(Spec1)          # create a variable nPeaks and assign it the value of the number of rows in the array Spec1 using the nrow function\n  nPeaks                        # instead of using the print or cat function, in the console we can just type the variable name and its value will get printed on the screen\n\n[1] 80"
+  },
+  {
+    "objectID": "Lectures/Lecture5_R.html#work-with-mass-spectral-data",
+    "href": "Lectures/Lecture5_R.html#work-with-mass-spectral-data",
+    "title": "An introduction to programming with R",
+    "section": "Work with mass spectral data",
+    "text": "Work with mass spectral data\n\n\nplot(Spec1) # use the plot function to create a scatter plot of the x,y value in Spec1\n\n\n\n\n\n\n\n\n\nIssues: atypical for plotting mass spectra (raw abundance scores, and scatter plot)"
+  },
+  {
+    "objectID": "Lectures/Lecture5_R.html#work-with-mass-spectral-data-1",
+    "href": "Lectures/Lecture5_R.html#work-with-mass-spectral-data-1",
+    "title": "An introduction to programming with R",
+    "section": "Work with mass spectral data",
+    "text": "Work with mass spectral data\n\n\nmz = Spec1[,1]      # with an array, we can extract specific columns, rows and cell values\nint = Spec1[,2]     \nint = int/max(int)  # normalizes the intensity values to 1\n\nplot(mz,\n     int,\n     type=\"h\",\n     xlab=\"mass-to-charge ratio\",\n     ylab=\"relative intensity\") # use the plot function to create a scatter plot of the x,y value in Spec1\n\n\n Issues: a lot of low intensity peaks that could be artifacts"
+  },
+  {
+    "objectID": "Lectures/Lecture5_R.html#work-with-mass-spectral-data-2",
+    "href": "Lectures/Lecture5_R.html#work-with-mass-spectral-data-2",
+    "title": "An introduction to programming with R",
+    "section": "Work with mass spectral data",
+    "text": "Work with mass spectral data\n\n\nnoisePeaks = which(int&lt;=0.01) # identify the values in the intensity array that have relative intensity less than 1%\n\nif(length(noisePeaks)&gt;0){   # checks to see if any noise peaks were identified, if yes runs code in the \"chunck\"\n  mz = mz[-noisePeaks]\n  int = int[-noisePeaks]\n}\n\nplot(mz,\n     int,\n     type=\"h\",\n     xlab=\"mass-to-charge ratio\",\n     ylab=\"relative intensity\") # use the plot function to create a scatter plot of the x,y value in Spec1\n\n\n\nHomework challenge: write some code to determine the mass-to-charge ratio of the base peak of this spectrum"
+  },
+  {
+    "objectID": "Lectures/Lecture5_R.html#working-in-the-console-versus-writing-a-script",
+    "href": "Lectures/Lecture5_R.html#working-in-the-console-versus-writing-a-script",
+    "title": "An introduction to programming with R",
+    "section": "Working in the console versus writing a script",
+    "text": "Working in the console versus writing a script\n\nWhy write and save scripts?\n\nallows you to easily update and re-run your source code\nallows you to share your source code with other people\n\nWhy work in the console?\n\nto test some ideas out or compute something quickly\n\n&gt;90% of the time, you’ll want to write a script"
   }
 ]

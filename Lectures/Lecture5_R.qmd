@@ -1,5 +1,5 @@
 ---
-title: "Course Preliminaries"
+title: "An introduction to programming with R"
 date: ""
 format:
   revealjs:
@@ -11,151 +11,283 @@ format:
     width: 1280
     height: 720
     margin: 0.08
+    css: ../styles.css
     embed-resources: true
-  # beamer:
-  #   theme: metropolis
-  #   aspectratio: 169
-  #   incremental: true
-  #   embed-resources: true
-  # pptx:
-  #   slide-level: 2
 execute:
   echo: true
   warning: false
   message: false
 ---
 
-## Course Background
+## Basics of programming
+
+- Many modern scientific problems/tasks are too larger or too complex (or both) to *solve* without the aid of computers
+    - some problems are hard to even visualize/imagine without computers<br><br>
+    
+- Programming is the act of providing computers with specific operational instructions; usually to assist (us) with performing a specific task or solving a specific problem<br><br>
+
+- Can provide instructions via mouse and keyboard (i.e., use a software tool); but the majority of programming (coding) is done through written instructions called **source code**
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const button = document.createElement("button");
+
+  button.innerHTML = "☾";
+  button.title = "Toggle night mode";
+
+  button.style.position = "fixed";
+  button.style.top = "15px";
+  button.style.right = "15px";
+  button.style.zIndex = "1000";
+  button.style.fontSize = "1.2em";
+  button.style.padding = "5px 10px";
+
+  button.onclick = function() {
+    document.querySelector(".reveal").classList.toggle("night-mode");
+  };
+
+  document.body.appendChild(button);
+});
+</script>
+
+## Basics of programming
+
+- the programming *language* used to write source code depends on:
+    - the hardware/software of the computer (or instrument)
+        - i.e., what can the computer process/understand
+    - the task/problem being worked on 
+    - the skills/experience of the programmer<br><br>
+    
+## Basics of programming
+
+- one major dichotomy to know:
+    - **Compiled Languages:** source code gets compiled by an *operating system specific compiler* into an **executable file** (application) that can then be run directly by the operating system
+      - language has a steeper learning curve, but the resulting applications run very efficiently <br><br>
+      
+    - **Interpreted Languages:** source code is executed by an interpreter (application) which being run on the operating system
+      - language is more human-readable, but usually inefficient <br><br>
+    
+
+- In this class we'll be working with the R programming language
 
 
-::: {.notes}
+## Programming in R
 
+- To write R code, all you need is to know the language!<br><br>
+
+- To *run* R code, all you need to have is:
+    - A computer with any modern operating system (Windows, Max, Linux)
+    - A text editor installed on the computer
+    - The appropriate version of "R" (the interpreter) installed on the computer [www.cran.r-project.org](www.cran.r-project.org){target="_blank"} <br><br>
+    
+- [RStudio](www.https://posit.co/products/open-source/rstudio){target="_blank"} is an integrated development environment (IDE) application
+    - allows you to view/edit code, run the code, visualize outputs in a console, and view all the variables currently loaded in the interpreting environment
+
+## Errors
+
+- syntax are the set of rules/procedures for working with a language (grammarPlus)
+    - compilers/interpreters are very sensitive to syntax--you need to follow the rules of your language for your code to run (syntax errors) <br><br>
+- compilers/interpreters are more literal than humans
+    - you need to make sure your logic is precise for your code to output the correct answer (logic errors)<br><br>
+- if your computer is not following the instructions you've provided, there is either a syntax error, a logic error, or a memory leak
+
+## Some key R syntax
+
+::: {.fragment}
+```{r}
+#                   # ignores text that follows until the next line (comment)
+x <- 7              # create a variable x and assign it the value 7
+y = 8               # create a variable y and assign it the value 8
+z = x + y           # create a variable z and assign it the value of x + y
+zebra = x^2         # create a variable zebra and assigned the value of x to the power 2
+```
 :::
 
-## Course Facilitators
+<br>
 
-::: {.notes}
-
+:::{.fragment}
+```{r}
+#| output: false
+print(zebra)            # the function "print" displays the value of zebra maintaining its "shape"
+```
 :::
 
+<br>
 
-
-## Peer Notetaking Support
-
-::: {.notes}
-
-
+:::{.fragment}
+```{r}
+#| output: false
+ebra = zebra - z      # creates a variable ebra and assign it the value of zebra - z
+cat(ebra)             # the function "cat" displays the value of variable ebra
+```
 :::
 
-## Course Structure
+<br>
 
-::: {.notes}
-
-
-:::
-
-
-## Delverables
-
-::: {.notes}
-
-
-:::
-
-
-## Introduction Quiz
-
-
-::: {.notes}
-
-
-:::
-
-## Content Quizzes (x 10)
-
-::: {.notes}
-
-
-:::
-
-## Lab Tests
-
-::: {.notes}
-
-:::
-
-## Annotated Bibliography 
-
-
-::: {.notes}
-
-:::
-
-## Research Proposal
-
-::: {.notes}
-
-:::
-
-## Data Presentation
-
-
-::: {.notes}
-
-:::
-
-
-## Article Critique
-
-::: {.notes}
-
-:::
-
-## Final Exam
-
-::: {.notes}
-
-:::
-
-
-## Grades
-
-::: {.notes}
-
-:::
-
-
-
-## Course Policy
-
-::: {.notes}
-
-:::
-
-
-
-###
-::: {.center}
-A quick tour of blackboard
-:::
-
-::: {.notes}
-
+:::{.fragment}
+```{r}
+#| output: false
+cat(zebra - z)      # the function "cat" displays the value of variable zebra - z
+```
 :::
 
 
-## How to get the most out of this course
+## Some key R syntax
 
-
-## On Epistemology
-
-## History of scientific development
-
-## The scientific  method
-
-## What's so unique about forensic science
-
-##
-::: {.center}
-Good luck with content quiz 1!<br>(Due September 17 at 11:59 PM)
+:::{.fragment}
+```{r}
+#| output: false
+cat("This is a test")   # display the string "This is a test"
+# cat(test)             # this code will fail because there is no variable named test in our environment
+```
 :::
+
+<br>
+
+:::{.fragment}
+```{r}
+#| output: false
+zebra_sentence = paste0("The value of zebra is ",zebra) # The paste0 function will glue things together without including any spaces
+cat(zebra_sentence)
+```
+:::
+
+<br>
+
+:::{.fragment}
+```{r}
+#| output: false
+cat(paste0("The value of ebra is ",ebra) )
+```
+:::
+
+
+## Objects in R
+
+- Some key types of objects to be aware of:
+  - variable: stores a single value, can be a number or character
+  - array: stores multiple values, can contain numbers XOR characters (vectors + matrices)
+  - data frames: multiple arrays, can be any data type but will force a "shape" on the data
+  - lists: multiple variables, arrays, etc.. can be any data type AND any shape
+
+::: {.fragment}
+```{r}
+ rm(list=ls())        # the ls() function finds all objects in the environment, the rm() function removes and lists that are provided to it
+ 
+ x = c(1, 2, 3, 4, 5) # creates an array x and assigns it the values 1 through 5 using the the "collect" function
+ y = seq(1,5,1)       # creates an array y and assigns it the values 1 through 5 increments of 1 using the "sequence" function
+ z = seq(1,5,0.1)     # creates an array z and assigns it the values 1 through 5 by increments of 0.1 using the "sequence"
+```
+:::
+
+
+
+## Objects in R
+
+::: {.fragment}
+```{r}
+
+ xy = cbind(x,y)      # use the "cbind" function create a matrix xy with columns equal to x and y
+ print(xy)
+```
+:::
+
+<br>
+
+::: {.fragment}
+```{r}
+
+  cat(xy)
+```
+:::
+
+
+## Importing data in R
+
+- R is a general purpose programming language, but it is popular because of its rich repository of powerful statistics and data analysis functions
+    - Reading and writing data
+    - Regression modeling
+    - Hypothesis testing
+    - Machine learning
+  
+
+::: {.fragment}
+```{r}
+  rm(list=ls())                 # clear work space
+  Spec1 = read.table("U1.txt")  # create an array Spec1 and assign it the values from the text file U1.txt using the read.table function
+  # the first column is m/z values and second column are intensity values
+  nPeaks = nrow(Spec1)          # create a variable nPeaks and assign it the value of the number of rows in the array Spec1 using the nrow function
+  nPeaks                        # instead of using the print or cat function, in the console we can just type the variable name and its value will get printed on the screen
+```
+:::
+
+## Work with mass spectral data
+::: {.fragment}
+```{r}
+plot(Spec1) # use the plot function to create a scatter plot of the x,y value in Spec1
+```
+:::
+
+[**Issues:** atypical for plotting mass spectra (raw abundance scores, and scatter plot)]{.fragment}
+
+## Work with mass spectral data
+::: {.fragment}
+```{r}
+#| output: false
+mz = Spec1[,1]      # with an array, we can extract specific columns, rows and cell values
+int = Spec1[,2]     
+int = int/max(int)  # normalizes the intensity values to 1
+
+plot(mz,
+     int,
+     type="h",
+     xlab="mass-to-charge ratio",
+     ylab="relative intensity") # use the plot function to create a scatter plot of the x,y value in Spec1
+```
+:::
+
+<br>
+[**Issues:** a lot of low intensity peaks that could be artifacts]{.fragment}
+
+
+## Work with mass spectral data
+::: {.fragment}
+```{r}
+#| output: false
+noisePeaks = which(int<=0.01) # identify the values in the intensity array that have relative intensity less than 1%
+
+if(length(noisePeaks)>0){   # checks to see if any noise peaks were identified, if yes runs code in the "chunck"
+  mz = mz[-noisePeaks]
+  int = int[-noisePeaks]
+}
+
+plot(mz,
+     int,
+     type="h",
+     xlab="mass-to-charge ratio",
+     ylab="relative intensity") # use the plot function to create a scatter plot of the x,y value in Spec1
+```
+:::
+<br>
+
+[**Homework challenge:** write some code to determine the mass-to-charge ratio of the base peak of this spectrum]{.fragment}
+
+
+
+## Working in the console versus writing a script
+
+- Why write and save scripts?
+  - allows you to easily update and re-run your source code
+  - allows you to share your source code with other people<br><br>
+
+- Why work in the console? 
+  - to test some ideas out or compute something quickly<br><br>
+  
+- \>90% of the time, you'll want to write a script
+
+
+## Coming up
+- Seminars are running in-person on Thursday October 15th<br> 
+  - F01 (SC 204) and F02 (SC W1)<br><br>
+- **SPECIAL Lecture next week:** Graduate school in Canada
+  - Guests will be joining us via Zoom
