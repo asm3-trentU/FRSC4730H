@@ -1268,18 +1268,9 @@ document.addEventListener("DOMContentLoaded", function() {
 <div class="fragment">
 <div class="cell">
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb6"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb6-1"><a></a><span class="fu">source</span>(<span class="st">&quot;CustomFunctions/LibrarySearchFunctions.R&quot;</span>)</span>
-<span id="cb6-2"><a></a><span class="fu">cat</span>(<span class="fu">paste0</span>(<span class="st">&quot;Similarity between heroin and fentanyl: &quot;</span>, <span class="fu">euclideanDistance</span>(heroin_x,fentanyl_x),<span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span>))</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
-<div class="cell-output cell-output-stdout">
-<pre><code>Similarity between heroin and fentanyl: 13</code></pre>
-</div>
-<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb8"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb8-1"><a></a><span class="fu">cat</span>(<span class="fu">paste0</span>(<span class="st">&quot;Similarity between heroin and d9-THC: &quot;</span>,<span class="fu">euclideanDistance</span>(heroin_x,d9THC_x),<span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span>))</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
-<div class="cell-output cell-output-stdout">
-<pre><code>Similarity between heroin and d9-THC: 11.091</code></pre>
-</div>
-<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb10"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb10-1"><a></a><span class="fu">cat</span>(<span class="fu">paste0</span>(<span class="st">&quot;Similarity between d9THC and fentanyl: &quot;</span>,<span class="fu">euclideanDistance</span>(d9THC_x,fentanyl_x),<span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span>))</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
-<div class="cell-output cell-output-stdout">
-<pre><code>Similarity between d9THC and fentanyl: 11.747</code></pre>
-</div>
+<span id="cb6-2"><a></a><span class="fu">cat</span>(<span class="fu">paste0</span>(<span class="st">&quot;Similarity between heroin and fentanyl: &quot;</span>, <span class="fu">euclideanDistance</span>(heroin_x,fentanyl_x),<span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span>))</span>
+<span id="cb6-3"><a></a><span class="fu">cat</span>(<span class="fu">paste0</span>(<span class="st">&quot;Similarity between heroin and d9-THC: &quot;</span>,<span class="fu">euclideanDistance</span>(heroin_x,d9THC_x),<span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span>))</span>
+<span id="cb6-4"><a></a><span class="fu">cat</span>(<span class="fu">paste0</span>(<span class="st">&quot;Similarity between d9THC and fentanyl: &quot;</span>,<span class="fu">euclideanDistance</span>(d9THC_x,fentanyl_x),<span class="st">&quot;</span><span class="sc">\n</span><span class="st">&quot;</span>))</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </div>
 </div>
 <ul>
@@ -1293,9 +1284,9 @@ document.addEventListener("DOMContentLoaded", function() {
 </ul>
 <div class="fragment">
 <div class="cell">
-<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb12"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb12-1"><a></a><span class="fu">HT_plot</span>(<span class="fu">seq</span>(heroin_fp<span class="sc">@</span>nbit),heroin_x,<span class="fu">seq</span>(fentanyl_fp<span class="sc">@</span>nbit),fentanyl_x)</span>
-<span id="cb12-2"><a></a><span class="fu">HT_plot</span>(<span class="fu">seq</span>(heroin_fp<span class="sc">@</span>nbit),heroin_x,<span class="fu">seq</span>(d9THC_fp<span class="sc">@</span>nbit),d9THC_x)</span>
-<span id="cb12-3"><a></a><span class="fu">HT_plot</span>(<span class="fu">seq</span>(d9THC_fp<span class="sc">@</span>nbit),d9THC_x,<span class="fu">seq</span>(fentanyl_fp<span class="sc">@</span>nbit),fentanyl_x)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb7"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb7-1"><a></a><span class="fu">HT_plot</span>(<span class="fu">seq</span>(heroin_fp<span class="sc">@</span>nbit),heroin_x,<span class="fu">seq</span>(fentanyl_fp<span class="sc">@</span>nbit),fentanyl_x)</span>
+<span id="cb7-2"><a></a><span class="fu">HT_plot</span>(<span class="fu">seq</span>(heroin_fp<span class="sc">@</span>nbit),heroin_x,<span class="fu">seq</span>(d9THC_fp<span class="sc">@</span>nbit),d9THC_x)</span>
+<span id="cb7-3"><a></a><span class="fu">HT_plot</span>(<span class="fu">seq</span>(d9THC_fp<span class="sc">@</span>nbit),d9THC_x,<span class="fu">seq</span>(fentanyl_fp<span class="sc">@</span>nbit),fentanyl_x)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </div>
 </div>
 </section>
@@ -1322,61 +1313,61 @@ document.addEventListener("DOMContentLoaded", function() {
 </ul>
 <div class="fragment">
 <div class="cell">
-<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb13"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb13-1"><a></a><span class="fu">rm</span>(<span class="at">list=</span><span class="fu">ls</span>())</span>
-<span id="cb13-2"><a></a><span class="fu">source</span>(<span class="st">&quot;CustomFunctions/LibrarySearchFunctions.R&quot;</span>)</span>
-<span id="cb13-3"><a></a>Library <span class="ot">=</span> <span class="fu">readRDS</span>(<span class="st">&quot;asm_ReferenceMSLibrary_SWDRUG314.RDS&quot;</span>)</span>
-<span id="cb13-4"><a></a><span class="cf">if</span>(<span class="st">&quot;rcdk&quot;</span> <span class="sc">%in%</span> <span class="fu">installed.packages</span>()<span class="sc">==</span><span class="cn">FALSE</span>) <span class="fu">install.packages</span>(<span class="st">&quot;rcdk&quot;</span>)</span>
-<span id="cb13-5"><a></a><span class="fu">library</span>(rcdk)</span>
-<span id="cb13-6"><a></a></span>
-<span id="cb13-7"><a></a>nCompounds <span class="ot">=</span> <span class="dv">50</span></span>
-<span id="cb13-8"><a></a>COI <span class="ot">=</span> <span class="fu">sample</span>(<span class="fu">seq</span>(<span class="dv">1</span>,<span class="fu">dim</span>(Library<span class="sc">$</span>IndexData)[<span class="dv">1</span>]),nCompounds) <span class="co"># selecting a random set of compounds of interest (COI)</span></span>
-<span id="cb13-9"><a></a></span>
-<span id="cb13-10"><a></a>nComputes <span class="ot">=</span> (nCompounds<span class="sc">^</span><span class="dv">2</span><span class="sc">-</span>nCompounds)<span class="sc">/</span><span class="dv">2</span></span>
-<span id="cb13-11"><a></a>SpecSimScores <span class="ot">=</span> <span class="fu">numeric</span>(nComputes)</span>
-<span id="cb13-12"><a></a>StrucSimScores <span class="ot">=</span> <span class="fu">numeric</span>(nComputes)</span>
-<span id="cb13-13"><a></a>labels <span class="ot">=</span> <span class="fu">character</span>(nComputes)</span>
-<span id="cb13-14"><a></a></span>
-<span id="cb13-15"><a></a>counter <span class="ot">=</span> <span class="dv">0</span></span>
-<span id="cb13-16"><a></a>stime <span class="ot">&lt;-</span> <span class="fu">system.time</span>({</span>
-<span id="cb13-17"><a></a><span class="cf">for</span>(i <span class="cf">in</span> <span class="dv">1</span><span class="sc">:</span>nCompounds){</span>
-<span id="cb13-18"><a></a>    </span>
-<span id="cb13-19"><a></a>    SMILES_i <span class="ot">=</span> <span class="fu">strsplit</span>(Library<span class="sc">$</span>IndexData<span class="sc">$</span>SMILES[COI[i]],<span class="st">&quot;</span><span class="sc">\t</span><span class="st">&quot;</span>)[[<span class="dv">1</span>]][<span class="dv">1</span>]</span>
-<span id="cb13-20"><a></a>    mol_i <span class="ot">=</span> <span class="fu">parse.smiles</span>(SMILES_i)[[<span class="dv">1</span>]]</span>
-<span id="cb13-21"><a></a>    fp_i <span class="ot">=</span> <span class="fu">get.fingerprint</span>(mol_i,<span class="at">type=</span><span class="st">&quot;standard&quot;</span>)<span class="sc">@</span>bits <span class="co"># pulling the bits directly</span></span>
-<span id="cb13-22"><a></a>    </span>
-<span id="cb13-23"><a></a>    indices_i <span class="ot">=</span> <span class="fu">which</span>(Library<span class="sc">$</span>SpectralData<span class="sc">$</span>SpecID<span class="sc">==</span>COI[i])</span>
-<span id="cb13-24"><a></a>    spec_mz_i <span class="ot">=</span> Library<span class="sc">$</span>SpectralData<span class="sc">$</span>mz[indices_i]</span>
-<span id="cb13-25"><a></a>    spec_int <span class="ot">=</span> Library<span class="sc">$</span>SpectralData<span class="sc">$</span>int[indices_i]</span>
-<span id="cb13-26"><a></a>    spec_int_i <span class="ot">=</span> spec_int<span class="sc">/</span><span class="fu">max</span>(spec_int)</span>
-<span id="cb13-27"><a></a>    </span>
-<span id="cb13-28"><a></a>  <span class="cf">for</span>(j <span class="cf">in</span> <span class="dv">1</span><span class="sc">:</span>nCompounds){</span>
-<span id="cb13-29"><a></a>    <span class="cf">if</span>(i <span class="sc">&gt;=</span> j) <span class="cf">next</span></span>
-<span id="cb13-30"><a></a>  </span>
-<span id="cb13-31"><a></a>      SMILES_j <span class="ot">=</span> <span class="fu">strsplit</span>(Library<span class="sc">$</span>IndexData<span class="sc">$</span>SMILES[COI[j]],<span class="st">&quot;</span><span class="sc">\t</span><span class="st">&quot;</span>)[[<span class="dv">1</span>]][<span class="dv">1</span>]</span>
-<span id="cb13-32"><a></a>      mol_j <span class="ot">=</span> <span class="fu">parse.smiles</span>(SMILES_j)[[<span class="dv">1</span>]]</span>
-<span id="cb13-33"><a></a>      fp_j <span class="ot">=</span> <span class="fu">get.fingerprint</span>(mol_j,<span class="at">type=</span><span class="st">&quot;standard&quot;</span>)<span class="sc">@</span>bits</span>
-<span id="cb13-34"><a></a>      </span>
-<span id="cb13-35"><a></a>      indices_j <span class="ot">=</span> <span class="fu">which</span>(Library<span class="sc">$</span>SpectralData<span class="sc">$</span>SpecID<span class="sc">==</span>COI[j])</span>
-<span id="cb13-36"><a></a>      spec_mz_j <span class="ot">=</span> Library<span class="sc">$</span>SpectralData<span class="sc">$</span>mz[indices_j]</span>
-<span id="cb13-37"><a></a>      spec_int <span class="ot">=</span> Library<span class="sc">$</span>SpectralData<span class="sc">$</span>int[indices_j]</span>
-<span id="cb13-38"><a></a>      spec_int_j <span class="ot">=</span> spec_int<span class="sc">/</span><span class="fu">max</span>(spec_int)</span>
-<span id="cb13-39"><a></a>    </span>
-<span id="cb13-40"><a></a>      maxmz <span class="ot">=</span> <span class="fu">max</span>(spec_mz_i,spec_mz_j)</span>
-<span id="cb13-41"><a></a>      A <span class="ot">=</span> <span class="fu">spec2vec</span>(spec_mz_i,spec_int_i,maxmz)</span>
-<span id="cb13-42"><a></a>      B <span class="ot">=</span> <span class="fu">spec2vec</span>(spec_mz_j,spec_int_j,maxmz)</span>
-<span id="cb13-43"><a></a>    </span>
-<span id="cb13-44"><a></a>      counter <span class="ot">=</span> counter <span class="sc">+</span> <span class="dv">1</span></span>
-<span id="cb13-45"><a></a>      SpecSimScores[counter] <span class="ot">=</span> <span class="fu">cosineSim</span>(A,B)</span>
-<span id="cb13-46"><a></a>      StrucSimScores[counter] <span class="ot">=</span> <span class="fu">length</span>(<span class="fu">intersect</span>(fp_i,fp_j))<span class="sc">/</span><span class="fu">length</span>(<span class="fu">union</span>(fp_i,fp_j)) <span class="co"># this is a Tanimoto similarity coefficient</span></span>
-<span id="cb13-47"><a></a>      labels[counter] <span class="ot">=</span> <span class="fu">paste0</span>(Library<span class="sc">$</span>IndexData<span class="sc">$</span>Name[COI[i]],<span class="st">&quot;</span><span class="sc">\n</span><span class="st"> vs. </span><span class="sc">\n</span><span class="st">&quot;</span>, Library<span class="sc">$</span>IndexData<span class="sc">$</span>Name[COI[j]])</span>
-<span id="cb13-48"><a></a>    </span>
-<span id="cb13-49"><a></a>  }</span>
-<span id="cb13-50"><a></a>}</span>
-<span id="cb13-51"><a></a>})[<span class="dv">3</span>]</span>
-<span id="cb13-52"><a></a></span>
-<span id="cb13-53"><a></a><span class="fu">cat</span>(<span class="fu">paste0</span>(<span class="st">&quot;This computation took &quot;</span>,<span class="fu">round</span>(stime,<span class="dv">3</span>),<span class="st">&quot; seconds.</span><span class="sc">\n</span><span class="st">&quot;</span>))</span>
-<span id="cb13-54"><a></a><span class="fu">plot</span>(SpecSimScores,StrucSimScores)</span>
-<span id="cb13-55"><a></a><span class="fu">text</span>(SpecSimScores,StrucSimScores,labels,<span class="at">cex=</span><span class="fl">0.5</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb8"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb8-1"><a></a><span class="fu">rm</span>(<span class="at">list=</span><span class="fu">ls</span>())</span>
+<span id="cb8-2"><a></a><span class="fu">source</span>(<span class="st">&quot;CustomFunctions/LibrarySearchFunctions.R&quot;</span>)</span>
+<span id="cb8-3"><a></a>Library <span class="ot">=</span> <span class="fu">readRDS</span>(<span class="st">&quot;asm_ReferenceMSLibrary_SWDRUG314.RDS&quot;</span>)</span>
+<span id="cb8-4"><a></a><span class="cf">if</span>(<span class="st">&quot;rcdk&quot;</span> <span class="sc">%in%</span> <span class="fu">installed.packages</span>()<span class="sc">==</span><span class="cn">FALSE</span>) <span class="fu">install.packages</span>(<span class="st">&quot;rcdk&quot;</span>)</span>
+<span id="cb8-5"><a></a><span class="fu">library</span>(rcdk)</span>
+<span id="cb8-6"><a></a></span>
+<span id="cb8-7"><a></a>nCompounds <span class="ot">=</span> <span class="dv">50</span></span>
+<span id="cb8-8"><a></a>COI <span class="ot">=</span> <span class="fu">sample</span>(<span class="fu">seq</span>(<span class="dv">1</span>,<span class="fu">dim</span>(Library<span class="sc">$</span>IndexData)[<span class="dv">1</span>]),nCompounds) <span class="co"># selecting a random set of compounds of interest (COI)</span></span>
+<span id="cb8-9"><a></a></span>
+<span id="cb8-10"><a></a>nComputes <span class="ot">=</span> (nCompounds<span class="sc">^</span><span class="dv">2</span><span class="sc">-</span>nCompounds)<span class="sc">/</span><span class="dv">2</span></span>
+<span id="cb8-11"><a></a>SpecSimScores <span class="ot">=</span> <span class="fu">numeric</span>(nComputes)</span>
+<span id="cb8-12"><a></a>StrucSimScores <span class="ot">=</span> <span class="fu">numeric</span>(nComputes)</span>
+<span id="cb8-13"><a></a>labels <span class="ot">=</span> <span class="fu">character</span>(nComputes)</span>
+<span id="cb8-14"><a></a></span>
+<span id="cb8-15"><a></a>counter <span class="ot">=</span> <span class="dv">0</span></span>
+<span id="cb8-16"><a></a>stime <span class="ot">&lt;-</span> <span class="fu">system.time</span>({</span>
+<span id="cb8-17"><a></a><span class="cf">for</span>(i <span class="cf">in</span> <span class="dv">1</span><span class="sc">:</span>nCompounds){</span>
+<span id="cb8-18"><a></a>    </span>
+<span id="cb8-19"><a></a>    SMILES_i <span class="ot">=</span> <span class="fu">strsplit</span>(Library<span class="sc">$</span>IndexData<span class="sc">$</span>SMILES[COI[i]],<span class="st">&quot;</span><span class="sc">\t</span><span class="st">&quot;</span>)[[<span class="dv">1</span>]][<span class="dv">1</span>]</span>
+<span id="cb8-20"><a></a>    mol_i <span class="ot">=</span> <span class="fu">parse.smiles</span>(SMILES_i)[[<span class="dv">1</span>]]</span>
+<span id="cb8-21"><a></a>    fp_i <span class="ot">=</span> <span class="fu">get.fingerprint</span>(mol_i,<span class="at">type=</span><span class="st">&quot;standard&quot;</span>)<span class="sc">@</span>bits <span class="co"># pulling the bits directly</span></span>
+<span id="cb8-22"><a></a>    </span>
+<span id="cb8-23"><a></a>    indices_i <span class="ot">=</span> <span class="fu">which</span>(Library<span class="sc">$</span>SpectralData<span class="sc">$</span>SpecID<span class="sc">==</span>COI[i])</span>
+<span id="cb8-24"><a></a>    spec_mz_i <span class="ot">=</span> Library<span class="sc">$</span>SpectralData<span class="sc">$</span>mz[indices_i]</span>
+<span id="cb8-25"><a></a>    spec_int <span class="ot">=</span> Library<span class="sc">$</span>SpectralData<span class="sc">$</span>int[indices_i]</span>
+<span id="cb8-26"><a></a>    spec_int_i <span class="ot">=</span> spec_int<span class="sc">/</span><span class="fu">max</span>(spec_int)</span>
+<span id="cb8-27"><a></a>    </span>
+<span id="cb8-28"><a></a>  <span class="cf">for</span>(j <span class="cf">in</span> <span class="dv">1</span><span class="sc">:</span>nCompounds){</span>
+<span id="cb8-29"><a></a>    <span class="cf">if</span>(i <span class="sc">&gt;=</span> j) <span class="cf">next</span></span>
+<span id="cb8-30"><a></a>  </span>
+<span id="cb8-31"><a></a>      SMILES_j <span class="ot">=</span> <span class="fu">strsplit</span>(Library<span class="sc">$</span>IndexData<span class="sc">$</span>SMILES[COI[j]],<span class="st">&quot;</span><span class="sc">\t</span><span class="st">&quot;</span>)[[<span class="dv">1</span>]][<span class="dv">1</span>]</span>
+<span id="cb8-32"><a></a>      mol_j <span class="ot">=</span> <span class="fu">parse.smiles</span>(SMILES_j)[[<span class="dv">1</span>]]</span>
+<span id="cb8-33"><a></a>      fp_j <span class="ot">=</span> <span class="fu">get.fingerprint</span>(mol_j,<span class="at">type=</span><span class="st">&quot;standard&quot;</span>)<span class="sc">@</span>bits</span>
+<span id="cb8-34"><a></a>      </span>
+<span id="cb8-35"><a></a>      indices_j <span class="ot">=</span> <span class="fu">which</span>(Library<span class="sc">$</span>SpectralData<span class="sc">$</span>SpecID<span class="sc">==</span>COI[j])</span>
+<span id="cb8-36"><a></a>      spec_mz_j <span class="ot">=</span> Library<span class="sc">$</span>SpectralData<span class="sc">$</span>mz[indices_j]</span>
+<span id="cb8-37"><a></a>      spec_int <span class="ot">=</span> Library<span class="sc">$</span>SpectralData<span class="sc">$</span>int[indices_j]</span>
+<span id="cb8-38"><a></a>      spec_int_j <span class="ot">=</span> spec_int<span class="sc">/</span><span class="fu">max</span>(spec_int)</span>
+<span id="cb8-39"><a></a>    </span>
+<span id="cb8-40"><a></a>      maxmz <span class="ot">=</span> <span class="fu">max</span>(spec_mz_i,spec_mz_j)</span>
+<span id="cb8-41"><a></a>      A <span class="ot">=</span> <span class="fu">spec2vec</span>(spec_mz_i,spec_int_i,maxmz)</span>
+<span id="cb8-42"><a></a>      B <span class="ot">=</span> <span class="fu">spec2vec</span>(spec_mz_j,spec_int_j,maxmz)</span>
+<span id="cb8-43"><a></a>    </span>
+<span id="cb8-44"><a></a>      counter <span class="ot">=</span> counter <span class="sc">+</span> <span class="dv">1</span></span>
+<span id="cb8-45"><a></a>      SpecSimScores[counter] <span class="ot">=</span> <span class="fu">cosineSim</span>(A,B)</span>
+<span id="cb8-46"><a></a>      StrucSimScores[counter] <span class="ot">=</span> <span class="fu">length</span>(<span class="fu">intersect</span>(fp_i,fp_j))<span class="sc">/</span><span class="fu">length</span>(<span class="fu">union</span>(fp_i,fp_j)) <span class="co"># this is a Tanimoto similarity coefficient</span></span>
+<span id="cb8-47"><a></a>      labels[counter] <span class="ot">=</span> <span class="fu">paste0</span>(Library<span class="sc">$</span>IndexData<span class="sc">$</span>Name[COI[i]],<span class="st">&quot;</span><span class="sc">\n</span><span class="st"> vs. </span><span class="sc">\n</span><span class="st">&quot;</span>, Library<span class="sc">$</span>IndexData<span class="sc">$</span>Name[COI[j]])</span>
+<span id="cb8-48"><a></a>    </span>
+<span id="cb8-49"><a></a>  }</span>
+<span id="cb8-50"><a></a>}</span>
+<span id="cb8-51"><a></a>})[<span class="dv">3</span>]</span>
+<span id="cb8-52"><a></a></span>
+<span id="cb8-53"><a></a><span class="fu">cat</span>(<span class="fu">paste0</span>(<span class="st">&quot;This computation took &quot;</span>,<span class="fu">round</span>(stime,<span class="dv">3</span>),<span class="st">&quot; seconds.</span><span class="sc">\n</span><span class="st">&quot;</span>))</span>
+<span id="cb8-54"><a></a><span class="fu">plot</span>(SpecSimScores,StrucSimScores)</span>
+<span id="cb8-55"><a></a><span class="fu">text</span>(SpecSimScores,StrucSimScores,labels,<span class="at">cex=</span><span class="fl">0.5</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </div>
 </div>
 </section>
@@ -1391,7 +1382,7 @@ document.addEventListener("DOMContentLoaded", function() {
 <ul>
 <li class="fragment">5-7 PM (SC 204) and 8-10 PM (SC W1)<br><br></li>
 </ul></li>
-<li class="fragment"><strong>Next week:</strong> Special Lecture with Kristen</li>
+<li class="fragment"><strong>Next week:</strong> Special Lecture with Kristen!</li>
 </ul>
 
 
@@ -2680,7 +2671,7 @@ window.QuartoSupport = function () {
         }
           var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
           var mailtoRegex = new RegExp(/^mailto:/);
-            var filterRegex = new RegExp('/' + window.location.host + '/');
+            var filterRegex = new RegExp("https:\/\/asm3-trentU\.github\.io\/FRSC4730H\/");
           var isInternal = (href) => {
               return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
           }

@@ -97,46 +97,6 @@ A **structure** is a human-defined representation of the relationship between th
 
 ::::
 
-``` {r setup}
-#| include: false
-library(rcdk)
-
-asm_Mol2SVG <- function(mol,
-                       width = 500,
-                       height = 500,
-                       margin = 5,
-                       zoom=2) {
-  
-  # Generate 2D coordinates
-  generate.2d.coordinates(mol)
-  
-  # Create CDK depiction generator
-  dg_class <- J("org.openscience.cdk.depict.DepictionGenerator")
-  dg <- new(dg_class)
-  
-  # Set size
-  dg <- dg$withSize(width, height)$withMargin(margin)$withZoom(zoom)
-  
-  # Generate depiction
-  depiction <- dg$depict(mol)
-  
-  # Return SVG XML
-  depiction$toSvgStr()
-}
-
-
-smiles1 <- "CC(=O)O[C@H]1C=C[C@H]2[C@H]3CC4=C5[C@]2([C@H]1OC5=C(C=C4)OC(=O)C)CCN3C"
-smiles2 <- "CCC(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=CC=C3"
-smiles3 <- "CCCCCC1=CC(=C2[C@@H]3C=C(CC[C@H]3C(OC2=C1)(C)C)C)O"
-mol1 <- parse.smiles(smiles1)[[1]]
-mol2 <- parse.smiles(smiles2)[[1]]
-mol3 <- parse.smiles(smiles3)[[1]]
-
-writeLines(asm_Mol2SVG(mol1,width=50,height=50,zoom=10),"../figures/heroin.svg")
-writeLines(asm_Mol2SVG(mol2,width=50,height=50,zoom=10),"../figures/fentanyl.svg")
-writeLines(asm_Mol2SVG(mol3,width=50,height=50,zoom=10),"../figures/d9-thc.svg")
-
-```
 
 ## Are these three structures similar?
 
@@ -176,6 +136,7 @@ writeLines(asm_Mol2SVG(mol3,width=50,height=50,zoom=10),"../figures/d9-thc.svg")
 
 ::: {.fragment}
 ```{r}
+#| eval: FALSE
 if("rcdk" %in% installed.packages()==FALSE) install.packages("rcdk")
 library(rcdk)
 
@@ -194,6 +155,7 @@ d9THC = 3284 # these are the index values in our RDS library
 
 ::: {.fragment}
 ```{r}
+#| eval: FALSE
 
 heroin_SMILES_messedUp = Library$IndexData$SMILES[heroin]
 heroin_SMILES = strsplit(heroin_SMILES_messedUp,"\t")[[1]][1]
@@ -207,6 +169,7 @@ heroin_mol = parse.smiles(heroin_SMILES)[[1]] # function from rcdk package
 
 ::: {.fragment}
 ```{r}
+#| eval: FALSE
 fentanyl_SMILES = strsplit(Library$IndexData$SMILES[fentanyl],"\t")[[1]][1]
 fentanyl_mol = parse.smiles(fentanyl_SMILES)[[1]]
 
@@ -221,6 +184,7 @@ d9THC_mol = parse.smiles(d9THC_SMILES)[[1]]
 
 ::: {.fragment}
 ```{r}
+#| eval: FALSE
 heroin_fp = get.fingerprint(heroin_mol,type="standard") # function from the rcdk package
 fentanyl_fp = get.fingerprint(fentanyl_mol,type="standard")
 d9THC_fp = get.fingerprint(d9THC_mol,type="standard")
@@ -231,6 +195,7 @@ d9THC_fp = get.fingerprint(d9THC_mol,type="standard")
 
 ::: {.fragment}
 ```{r}
+#| eval: FALSE
 heroin_x = numeric(heroin_fp@nbit)
 heroin_x[heroin_fp@bits] = 1
 
@@ -248,6 +213,7 @@ d9THC_x[d9THC_fp@bits] = 1
 
 ::: {.fragment}
 ```{r}
+#| eval: FALSE
 source("CustomFunctions/LibrarySearchFunctions.R")
 cat(paste0("Similarity between heroin and fentanyl: ", euclideanDistance(heroin_x,fentanyl_x),"\n"))
 cat(paste0("Similarity between heroin and d9-THC: ",euclideanDistance(heroin_x,d9THC_x),"\n"))
@@ -359,4 +325,4 @@ text(SpecSimScores,StrucSimScores,labels,cex=0.5)
 ## Coming up
 - Seminars are running in-person on Thursday November 26th<br> 
   - 5-7 PM (SC 204) and 8-10 PM (SC W1)<br><br>
-- **Next week:** Special Lecture with Kristen
+- **Next week:** Special Lecture with Kristen! 

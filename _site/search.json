@@ -91,298 +91,123 @@
     "text": "Coming up\n\nSeminars are NOT running tomorrow (November 12th)\n\nI’ll be at Market Hall for the Poole Lecture: A Hard Days’ Math: The Connections Between Mathematics and Music \n\nNext week: A little bit of classification; Working with chemical structures\n\nFor some of the examples I’ll present, I may use a package that requires JDK installed on my computer"
   },
   {
-    "objectID": "Lectures/Lecture8_ChemStructure.html#course-background",
-    "href": "Lectures/Lecture8_ChemStructure.html#course-background",
-    "title": "Course Preliminaries",
-    "section": "Course Background",
-    "text": "Course Background"
+    "objectID": "Lectures/Lecture8_ChemStructure.html#working-with-structures",
+    "href": "Lectures/Lecture8_ChemStructure.html#working-with-structures",
+    "title": "Representing chemical structures",
+    "section": "Working with structures",
+    "text": "Working with structures\n\nChemometrics is the application of mathematics and statistics to chemical measurements\nCheminformatics is the application of mathematics and statistics to chemical information"
   },
   {
-    "objectID": "Lectures/Lecture8_ChemStructure.html#course-facilitators",
-    "href": "Lectures/Lecture8_ChemStructure.html#course-facilitators",
-    "title": "Course Preliminaries",
-    "section": "Course Facilitators",
-    "text": "Course Facilitators"
+    "objectID": "Lectures/Lecture8_ChemStructure.html#structures-as-human-defined-information",
+    "href": "Lectures/Lecture8_ChemStructure.html#structures-as-human-defined-information",
+    "title": "Representing chemical structures",
+    "section": "Structures as human-defined information",
+    "text": "Structures as human-defined information\n\nALL structural representations of chemicals are human-defined, for example\n\nwe’ve defined atoms with 1 neutron as hydrogen, 16 neutrons as oxygen, etc.\nwe’ve decided that we can represent atoms with latin alphabet\nwe’ve decided that we can represent chemical structures …\n\nnames (and synonyms)\nIUPAC names\ndrawings (2D, 3D)\nmolecular formulas"
   },
   {
-    "objectID": "Lectures/Lecture8_ChemStructure.html#peer-notetaking-support",
-    "href": "Lectures/Lecture8_ChemStructure.html#peer-notetaking-support",
-    "title": "Course Preliminaries",
-    "section": "Peer Notetaking Support",
-    "text": "Peer Notetaking Support"
+    "objectID": "Lectures/Lecture8_ChemStructure.html#from-sample-to-structure",
+    "href": "Lectures/Lecture8_ChemStructure.html#from-sample-to-structure",
+    "title": "Representing chemical structures",
+    "section": "From sample to structure",
+    "text": "From sample to structure"
   },
   {
-    "objectID": "Lectures/Lecture8_ChemStructure.html#course-structure",
-    "href": "Lectures/Lecture8_ChemStructure.html#course-structure",
-    "title": "Course Preliminaries",
-    "section": "Course Structure",
-    "text": "Course Structure"
+    "objectID": "Lectures/Lecture8_ChemStructure.html#coming-up",
+    "href": "Lectures/Lecture8_ChemStructure.html#coming-up",
+    "title": "Representing chemical structures",
+    "section": "Coming up",
+    "text": "Coming up\n\nSeminars are running in-person on Thursday November 19th\n\n5-7 PM (SC 204) and 8-10 PM (SC W1)\n\nNext week: A numerical exploration of chemical space (combining all the chemometrics and cheminformatics we’ve discussed)"
   },
   {
-    "objectID": "Lectures/Lecture8_ChemStructure.html#delverables",
-    "href": "Lectures/Lecture8_ChemStructure.html#delverables",
-    "title": "Course Preliminaries",
-    "section": "Delverables",
-    "text": "Delverables"
+    "objectID": "Lectures/Lecture9_NumExploration.html#recap",
+    "href": "Lectures/Lecture9_NumExploration.html#recap",
+    "title": "A numerical exploration of chemical space!",
+    "section": "Recap",
+    "text": "Recap\n\nYou’ve looked at measurements.\nYou’ve implemented some code to process a measurement (create a vector representation)\nYou’ve looked at pairs of measurements.\nYou’ve implemented code to compare measurements (compute vector similarity and distance)\nYou’ve looked at collections of measurements.\nYou’ve conducted a library search, and we’ve discussed clustering and dimensionality reduction techniques that can be used with collections of vectors"
   },
   {
-    "objectID": "Lectures/Lecture8_ChemStructure.html#introduction-quiz",
-    "href": "Lectures/Lecture8_ChemStructure.html#introduction-quiz",
-    "title": "Course Preliminaries",
-    "section": "Introduction Quiz",
-    "text": "Introduction Quiz"
+    "objectID": "Lectures/Lecture9_NumExploration.html#what-is-a-sample",
+    "href": "Lectures/Lecture9_NumExploration.html#what-is-a-sample",
+    "title": "A numerical exploration of chemical space!",
+    "section": "What is a sample?",
+    "text": "What is a sample?\n\n\n A sample is a physical material we are trying to identify (or classify or safely dispose of or otherwise deal with)\n\nUsually a subset of a larger population\nInsights from the sample may allow us to infer something about the population"
   },
   {
-    "objectID": "Lectures/Lecture8_ChemStructure.html#content-quizzes-x-10",
-    "href": "Lectures/Lecture8_ChemStructure.html#content-quizzes-x-10",
-    "title": "Course Preliminaries",
-    "section": "Content Quizzes (x 10)",
-    "text": "Content Quizzes (x 10)"
+    "objectID": "Lectures/Lecture9_NumExploration.html#what-is-a-structure",
+    "href": "Lectures/Lecture9_NumExploration.html#what-is-a-structure",
+    "title": "A numerical exploration of chemical space!",
+    "section": "What is a structure?",
+    "text": "What is a structure?\n\n\n A structure is a human-defined representation of the relationship between the atoms that constitute a compound\n\nNames [common vs IUPAC]\nEncodings [SMILES vs InChI vs InChIKey]\n\nDiagrams [Line drawings]\n\nHow materials are described; How materials are scheduled"
   },
   {
-    "objectID": "Lectures/Lecture8_ChemStructure.html#lab-tests",
-    "href": "Lectures/Lecture8_ChemStructure.html#lab-tests",
-    "title": "Course Preliminaries",
-    "section": "Lab Tests",
-    "text": "Lab Tests"
+    "objectID": "Lectures/Lecture9_NumExploration.html#are-these-three-structures-similar",
+    "href": "Lectures/Lecture9_NumExploration.html#are-these-three-structures-similar",
+    "title": "A numerical exploration of chemical space!",
+    "section": "Are these three structures similar?",
+    "text": "Are these three structures similar?"
   },
   {
-    "objectID": "Lectures/Lecture8_ChemStructure.html#annotated-bibliography",
-    "href": "Lectures/Lecture8_ChemStructure.html#annotated-bibliography",
-    "title": "Course Preliminaries",
-    "section": "Annotated Bibliography",
-    "text": "Annotated Bibliography"
+    "objectID": "Lectures/Lecture9_NumExploration.html#how-can-we-objectively-compare-structures",
+    "href": "Lectures/Lecture9_NumExploration.html#how-can-we-objectively-compare-structures",
+    "title": "A numerical exploration of chemical space!",
+    "section": "How can we objectively compare structures?",
+    "text": "How can we objectively compare structures?\n\nIf we create vector representations of information contained in the structure, we can use the same math tools we used with vectors of measurements!\n\n\\(\\mathrm{Heroin}\\rightarrow\\mathrm{C}_{21}\\mathrm{H}_{23}\\mathrm{N}\\mathrm{O}_{5} \\rightarrow [21,23,1,5]\\)\n\\(\\mathrm{Fentanyl}\\rightarrow \\mathrm{C}_{22}\\mathrm{H}_{26}\\mathrm{N}_{2}\\mathrm{O} \\rightarrow [n_C,n_H,n_N,n_O]\\)\n\\(\\Delta 9 \\mathrm{THC}\\rightarrow\\mathrm{C}_{21}\\mathrm{H}_{30}\\mathrm{O}_{2} \\rightarrow [n_C,n_H,n_N,n_O]\\)\n\nMolecular fingerprints are vector encodings that account for various structural (and other) information that can be pulled form a compound"
   },
   {
-    "objectID": "Lectures/Lecture8_ChemStructure.html#research-proposal",
-    "href": "Lectures/Lecture8_ChemStructure.html#research-proposal",
-    "title": "Course Preliminaries",
-    "section": "Research Proposal",
-    "text": "Research Proposal"
+    "objectID": "Lectures/Lecture9_NumExploration.html#working-with-chemical-structures",
+    "href": "Lectures/Lecture9_NumExploration.html#working-with-chemical-structures",
+    "title": "A numerical exploration of chemical space!",
+    "section": "Working with chemical structures",
+    "text": "Working with chemical structures\n\nthe rcdk package is an R interface to a very popular cheminformatics library (Chemistry Development Kit)\n\nrdkit is a python interface to the same library\n\n\n\n\nif(\"rcdk\" %in% installed.packages()==FALSE) install.packages(\"rcdk\")\nlibrary(rcdk)\n\nLibrary = readRDS(\"asm_ReferenceMSLibrary_SWDRUG314.RDS\") # loads the reference library\n\nheroin = 1836 # these are the index values in our RDS library\nfentanyl = 1906 # these are the index values in our RDS library\nd9THC = 3284 # these are the index values in our RDS library"
   },
   {
-    "objectID": "Lectures/Lecture8_ChemStructure.html#data-presentation",
-    "href": "Lectures/Lecture8_ChemStructure.html#data-presentation",
-    "title": "Course Preliminaries",
-    "section": "Data Presentation",
-    "text": "Data Presentation"
+    "objectID": "Lectures/Lecture9_NumExploration.html#extracting-the-smiles-from-the-library",
+    "href": "Lectures/Lecture9_NumExploration.html#extracting-the-smiles-from-the-library",
+    "title": "A numerical exploration of chemical space!",
+    "section": "Extracting the SMILES from the library",
+    "text": "Extracting the SMILES from the library\n\nStep 1: We want to pull the SMILES for the compounds\n\n\n\nheroin_SMILES_messedUp = Library$IndexData$SMILES[heroin]\nheroin_SMILES = strsplit(heroin_SMILES_messedUp,\"\\t\")[[1]][1]\n\nheroin_mol = parse.smiles(heroin_SMILES)[[1]] # function from rcdk package\n# view.molecule.2d(heroin_mol) # function from the rcdk package\n\n\n\nWe’ll streamline the process for the other two compounds\n\n\n\nfentanyl_SMILES = strsplit(Library$IndexData$SMILES[fentanyl],\"\\t\")[[1]][1]\nfentanyl_mol = parse.smiles(fentanyl_SMILES)[[1]]\n\nd9THC_SMILES = strsplit(Library$IndexData$SMILES[d9THC],\"\\t\")[[1]][1]\nd9THC_mol = parse.smiles(d9THC_SMILES)[[1]]"
   },
   {
-    "objectID": "Lectures/Lecture8_ChemStructure.html#article-critique",
-    "href": "Lectures/Lecture8_ChemStructure.html#article-critique",
-    "title": "Course Preliminaries",
-    "section": "Article Critique",
-    "text": "Article Critique"
+    "objectID": "Lectures/Lecture9_NumExploration.html#converting-smiles-to-fingerprint",
+    "href": "Lectures/Lecture9_NumExploration.html#converting-smiles-to-fingerprint",
+    "title": "A numerical exploration of chemical space!",
+    "section": "Converting SMILES to fingerprint",
+    "text": "Converting SMILES to fingerprint\n\nStep 2. We want to convert the SMILES to a molecular fingerprint\n\n\n\nheroin_fp = get.fingerprint(heroin_mol,type=\"standard\") # function from the rcdk package\nfentanyl_fp = get.fingerprint(fentanyl_mol,type=\"standard\")\nd9THC_fp = get.fingerprint(d9THC_mol,type=\"standard\")\n\n\n\nStep 3. “Extract” the vector from the molecular fingerprint information\n\n\n\nheroin_x = numeric(heroin_fp@nbit)\nheroin_x[heroin_fp@bits] = 1\n\nfentanyl_x = numeric(fentanyl_fp@nbit)\nfentanyl_x[fentanyl_fp@bits] = 1\n\nd9THC_x = numeric(d9THC_fp@nbit)\nd9THC_x[d9THC_fp@bits] = 1"
   },
   {
-    "objectID": "Lectures/Lecture8_ChemStructure.html#final-exam",
-    "href": "Lectures/Lecture8_ChemStructure.html#final-exam",
-    "title": "Course Preliminaries",
-    "section": "Final Exam",
-    "text": "Final Exam"
+    "objectID": "Lectures/Lecture9_NumExploration.html#numerical-comparison-of-molecular-fingerprints",
+    "href": "Lectures/Lecture9_NumExploration.html#numerical-comparison-of-molecular-fingerprints",
+    "title": "A numerical exploration of chemical space!",
+    "section": "Numerical comparison of molecular fingerprints",
+    "text": "Numerical comparison of molecular fingerprints\n\nWe can use the same machinery that we developed for comparing mass spectra to compare fingerprints\n\n\n\nsource(\"CustomFunctions/LibrarySearchFunctions.R\")\ncat(paste0(\"Similarity between heroin and fentanyl: \", euclideanDistance(heroin_x,fentanyl_x),\"\\n\"))\ncat(paste0(\"Similarity between heroin and d9-THC: \",euclideanDistance(heroin_x,d9THC_x),\"\\n\"))\ncat(paste0(\"Similarity between d9THC and fentanyl: \",euclideanDistance(d9THC_x,fentanyl_x),\"\\n\"))\n\n\n\nNOTE: most people wouldn’t use a euclidean distance to compare “barcode” data like fingerprints, they would use a Tanimoto index or other measure of overlap"
   },
   {
-    "objectID": "Lectures/Lecture8_ChemStructure.html#grades",
-    "href": "Lectures/Lecture8_ChemStructure.html#grades",
-    "title": "Course Preliminaries",
-    "section": "Grades",
-    "text": "Grades"
+    "objectID": "Lectures/Lecture9_NumExploration.html#visual-comparison-of-molecular-fingerprints",
+    "href": "Lectures/Lecture9_NumExploration.html#visual-comparison-of-molecular-fingerprints",
+    "title": "A numerical exploration of chemical space!",
+    "section": "Visual comparison of molecular fingerprints",
+    "text": "Visual comparison of molecular fingerprints\n\nWe can use the same machinery that we developed for comparing mass spectra to compare fingerprints with some minor modifications\n\n\n\nHT_plot(seq(heroin_fp@nbit),heroin_x,seq(fentanyl_fp@nbit),fentanyl_x)\nHT_plot(seq(heroin_fp@nbit),heroin_x,seq(d9THC_fp@nbit),d9THC_x)\nHT_plot(seq(d9THC_fp@nbit),d9THC_x,seq(fentanyl_fp@nbit),fentanyl_x)"
   },
   {
-    "objectID": "Lectures/Lecture8_ChemStructure.html#course-policy",
-    "href": "Lectures/Lecture8_ChemStructure.html#course-policy",
-    "title": "Course Preliminaries",
-    "section": "Course Policy",
-    "text": "Course Policy\n\n\n\n\n\nA quick tour of blackboard"
+    "objectID": "Lectures/Lecture9_NumExploration.html#key-points",
+    "href": "Lectures/Lecture9_NumExploration.html#key-points",
+    "title": "A numerical exploration of chemical space!",
+    "section": "Key Points",
+    "text": "Key Points\n\nChemometrics/informatics are very similar\nThe first step is the hardest: coming up with a reasonable way to represent the information as a vector\n\nsome articles call this encoding, embedding, feature selection\nmost articles do not explain how they do this\n\nThe second step is implementing numerical algorithms to work with vectors\n\nnot as hard anymore with open source packages\n\nDecisions at each step will affect results and interpretations, important to be explicit about design choices"
   },
   {
-    "objectID": "Lectures/Lecture8_ChemStructure.html#how-to-get-the-most-out-of-this-course",
-    "href": "Lectures/Lecture8_ChemStructure.html#how-to-get-the-most-out-of-this-course",
-    "title": "Course Preliminaries",
-    "section": "How to get the most out of this course",
-    "text": "How to get the most out of this course"
+    "objectID": "Lectures/Lecture9_NumExploration.html#chemical-space",
+    "href": "Lectures/Lecture9_NumExploration.html#chemical-space",
+    "title": "A numerical exploration of chemical space!",
+    "section": "Chemical Space!",
+    "text": "Chemical Space!\n\nLet’s create plots representing “chemical space” by looking at the structural and spectral similarity of all unique combinations of a set of compounds\n\n\n\nrm(list=ls())\nsource(\"CustomFunctions/LibrarySearchFunctions.R\")\nLibrary = readRDS(\"asm_ReferenceMSLibrary_SWDRUG314.RDS\")\nif(\"rcdk\" %in% installed.packages()==FALSE) install.packages(\"rcdk\")\nlibrary(rcdk)\n\nnCompounds = 50\nCOI = sample(seq(1,dim(Library$IndexData)[1]),nCompounds) # selecting a random set of compounds of interest (COI)\n\nnComputes = (nCompounds^2-nCompounds)/2\nSpecSimScores = numeric(nComputes)\nStrucSimScores = numeric(nComputes)\nlabels = character(nComputes)\n\ncounter = 0\nstime &lt;- system.time({\nfor(i in 1:nCompounds){\n    \n    SMILES_i = strsplit(Library$IndexData$SMILES[COI[i]],\"\\t\")[[1]][1]\n    mol_i = parse.smiles(SMILES_i)[[1]]\n    fp_i = get.fingerprint(mol_i,type=\"standard\")@bits # pulling the bits directly\n    \n    indices_i = which(Library$SpectralData$SpecID==COI[i])\n    spec_mz_i = Library$SpectralData$mz[indices_i]\n    spec_int = Library$SpectralData$int[indices_i]\n    spec_int_i = spec_int/max(spec_int)\n    \n  for(j in 1:nCompounds){\n    if(i &gt;= j) next\n  \n      SMILES_j = strsplit(Library$IndexData$SMILES[COI[j]],\"\\t\")[[1]][1]\n      mol_j = parse.smiles(SMILES_j)[[1]]\n      fp_j = get.fingerprint(mol_j,type=\"standard\")@bits\n      \n      indices_j = which(Library$SpectralData$SpecID==COI[j])\n      spec_mz_j = Library$SpectralData$mz[indices_j]\n      spec_int = Library$SpectralData$int[indices_j]\n      spec_int_j = spec_int/max(spec_int)\n    \n      maxmz = max(spec_mz_i,spec_mz_j)\n      A = spec2vec(spec_mz_i,spec_int_i,maxmz)\n      B = spec2vec(spec_mz_j,spec_int_j,maxmz)\n    \n      counter = counter + 1\n      SpecSimScores[counter] = cosineSim(A,B)\n      StrucSimScores[counter] = length(intersect(fp_i,fp_j))/length(union(fp_i,fp_j)) # this is a Tanimoto similarity coefficient\n      labels[counter] = paste0(Library$IndexData$Name[COI[i]],\"\\n vs. \\n\", Library$IndexData$Name[COI[j]])\n    \n  }\n}\n})[3]\n\ncat(paste0(\"This computation took \",round(stime,3),\" seconds.\\n\"))\nplot(SpecSimScores,StrucSimScores)\ntext(SpecSimScores,StrucSimScores,labels,cex=0.5)"
   },
   {
-    "objectID": "Lectures/Lecture8_ChemStructure.html#on-epistemology",
-    "href": "Lectures/Lecture8_ChemStructure.html#on-epistemology",
-    "title": "Course Preliminaries",
-    "section": "On Epistemology",
-    "text": "On Epistemology"
-  },
-  {
-    "objectID": "Lectures/Lecture8_ChemStructure.html#history-of-scientific-development",
-    "href": "Lectures/Lecture8_ChemStructure.html#history-of-scientific-development",
-    "title": "Course Preliminaries",
-    "section": "History of scientific development",
-    "text": "History of scientific development"
-  },
-  {
-    "objectID": "Lectures/Lecture8_ChemStructure.html#the-scientific-method",
-    "href": "Lectures/Lecture8_ChemStructure.html#the-scientific-method",
-    "title": "Course Preliminaries",
-    "section": "The scientific method",
-    "text": "The scientific method"
-  },
-  {
-    "objectID": "Lectures/Lecture8_ChemStructure.html#whats-so-unique-about-forensic-science",
-    "href": "Lectures/Lecture8_ChemStructure.html#whats-so-unique-about-forensic-science",
-    "title": "Course Preliminaries",
-    "section": "What’s so unique about forensic science",
-    "text": "What’s so unique about forensic science"
-  },
-  {
-    "objectID": "Lectures/Lecture8_ChemStructure.html#section-1",
-    "href": "Lectures/Lecture8_ChemStructure.html#section-1",
-    "title": "Course Preliminaries",
-    "section": "",
-    "text": "Good luck with content quiz 1!(Due September 17 at 11:59 PM)"
-  },
-  {
-    "objectID": "Lectures/Lecture9_NumExploration.html#course-background",
-    "href": "Lectures/Lecture9_NumExploration.html#course-background",
-    "title": "Course Preliminaries",
-    "section": "Course Background",
-    "text": "Course Background"
-  },
-  {
-    "objectID": "Lectures/Lecture9_NumExploration.html#course-facilitators",
-    "href": "Lectures/Lecture9_NumExploration.html#course-facilitators",
-    "title": "Course Preliminaries",
-    "section": "Course Facilitators",
-    "text": "Course Facilitators"
-  },
-  {
-    "objectID": "Lectures/Lecture9_NumExploration.html#peer-notetaking-support",
-    "href": "Lectures/Lecture9_NumExploration.html#peer-notetaking-support",
-    "title": "Course Preliminaries",
-    "section": "Peer Notetaking Support",
-    "text": "Peer Notetaking Support"
-  },
-  {
-    "objectID": "Lectures/Lecture9_NumExploration.html#course-structure",
-    "href": "Lectures/Lecture9_NumExploration.html#course-structure",
-    "title": "Course Preliminaries",
-    "section": "Course Structure",
-    "text": "Course Structure"
-  },
-  {
-    "objectID": "Lectures/Lecture9_NumExploration.html#delverables",
-    "href": "Lectures/Lecture9_NumExploration.html#delverables",
-    "title": "Course Preliminaries",
-    "section": "Delverables",
-    "text": "Delverables"
-  },
-  {
-    "objectID": "Lectures/Lecture9_NumExploration.html#introduction-quiz",
-    "href": "Lectures/Lecture9_NumExploration.html#introduction-quiz",
-    "title": "Course Preliminaries",
-    "section": "Introduction Quiz",
-    "text": "Introduction Quiz"
-  },
-  {
-    "objectID": "Lectures/Lecture9_NumExploration.html#content-quizzes-x-10",
-    "href": "Lectures/Lecture9_NumExploration.html#content-quizzes-x-10",
-    "title": "Course Preliminaries",
-    "section": "Content Quizzes (x 10)",
-    "text": "Content Quizzes (x 10)"
-  },
-  {
-    "objectID": "Lectures/Lecture9_NumExploration.html#lab-tests",
-    "href": "Lectures/Lecture9_NumExploration.html#lab-tests",
-    "title": "Course Preliminaries",
-    "section": "Lab Tests",
-    "text": "Lab Tests"
-  },
-  {
-    "objectID": "Lectures/Lecture9_NumExploration.html#annotated-bibliography",
-    "href": "Lectures/Lecture9_NumExploration.html#annotated-bibliography",
-    "title": "Course Preliminaries",
-    "section": "Annotated Bibliography",
-    "text": "Annotated Bibliography"
-  },
-  {
-    "objectID": "Lectures/Lecture9_NumExploration.html#research-proposal",
-    "href": "Lectures/Lecture9_NumExploration.html#research-proposal",
-    "title": "Course Preliminaries",
-    "section": "Research Proposal",
-    "text": "Research Proposal"
-  },
-  {
-    "objectID": "Lectures/Lecture9_NumExploration.html#data-presentation",
-    "href": "Lectures/Lecture9_NumExploration.html#data-presentation",
-    "title": "Course Preliminaries",
-    "section": "Data Presentation",
-    "text": "Data Presentation"
-  },
-  {
-    "objectID": "Lectures/Lecture9_NumExploration.html#article-critique",
-    "href": "Lectures/Lecture9_NumExploration.html#article-critique",
-    "title": "Course Preliminaries",
-    "section": "Article Critique",
-    "text": "Article Critique"
-  },
-  {
-    "objectID": "Lectures/Lecture9_NumExploration.html#final-exam",
-    "href": "Lectures/Lecture9_NumExploration.html#final-exam",
-    "title": "Course Preliminaries",
-    "section": "Final Exam",
-    "text": "Final Exam"
-  },
-  {
-    "objectID": "Lectures/Lecture9_NumExploration.html#grades",
-    "href": "Lectures/Lecture9_NumExploration.html#grades",
-    "title": "Course Preliminaries",
-    "section": "Grades",
-    "text": "Grades"
-  },
-  {
-    "objectID": "Lectures/Lecture9_NumExploration.html#course-policy",
-    "href": "Lectures/Lecture9_NumExploration.html#course-policy",
-    "title": "Course Preliminaries",
-    "section": "Course Policy",
-    "text": "Course Policy\n\n\n\n\n\nA quick tour of blackboard"
-  },
-  {
-    "objectID": "Lectures/Lecture9_NumExploration.html#how-to-get-the-most-out-of-this-course",
-    "href": "Lectures/Lecture9_NumExploration.html#how-to-get-the-most-out-of-this-course",
-    "title": "Course Preliminaries",
-    "section": "How to get the most out of this course",
-    "text": "How to get the most out of this course"
-  },
-  {
-    "objectID": "Lectures/Lecture9_NumExploration.html#on-epistemology",
-    "href": "Lectures/Lecture9_NumExploration.html#on-epistemology",
-    "title": "Course Preliminaries",
-    "section": "On Epistemology",
-    "text": "On Epistemology"
-  },
-  {
-    "objectID": "Lectures/Lecture9_NumExploration.html#history-of-scientific-development",
-    "href": "Lectures/Lecture9_NumExploration.html#history-of-scientific-development",
-    "title": "Course Preliminaries",
-    "section": "History of scientific development",
-    "text": "History of scientific development"
-  },
-  {
-    "objectID": "Lectures/Lecture9_NumExploration.html#the-scientific-method",
-    "href": "Lectures/Lecture9_NumExploration.html#the-scientific-method",
-    "title": "Course Preliminaries",
-    "section": "The scientific method",
-    "text": "The scientific method"
-  },
-  {
-    "objectID": "Lectures/Lecture9_NumExploration.html#whats-so-unique-about-forensic-science",
-    "href": "Lectures/Lecture9_NumExploration.html#whats-so-unique-about-forensic-science",
-    "title": "Course Preliminaries",
-    "section": "What’s so unique about forensic science",
-    "text": "What’s so unique about forensic science"
-  },
-  {
-    "objectID": "Lectures/Lecture9_NumExploration.html#section-1",
-    "href": "Lectures/Lecture9_NumExploration.html#section-1",
-    "title": "Course Preliminaries",
-    "section": "",
-    "text": "Good luck with content quiz 1!(Due September 17 at 11:59 PM)"
+    "objectID": "Lectures/Lecture9_NumExploration.html#coming-up",
+    "href": "Lectures/Lecture9_NumExploration.html#coming-up",
+    "title": "A numerical exploration of chemical space!",
+    "section": "Coming up",
+    "text": "Coming up\n\nSeminars are running in-person on Thursday November 26th\n\n5-7 PM (SC 204) and 8-10 PM (SC W1)\n\nNext week: Special Lecture with Kristen!"
   },
   {
     "objectID": "Lectures/Lecture6_SimDiffs.html#from-interpreting-to-comparing",
@@ -1342,152 +1167,5 @@
     "title": "Emerging analytical techniques in forensic chemistry",
     "section": "Coming up",
     "text": "Coming up\n\nSeminars are running in-person on Thursday October 1st (F01 and F02) \nLecture next week: Emerging applications of chemistry in forensic science"
-  },
-  {
-    "objectID": "Lectures/Lecture8_ChemStructure.html#working-with-structures",
-    "href": "Lectures/Lecture8_ChemStructure.html#working-with-structures",
-    "title": "Representing chemical structures",
-    "section": "Working with structures",
-    "text": "Working with structures\n\nChemometrics is the application of mathematics and statistics to chemical measurements\nCheminformatics is the application of mathematics and statistics to chemical information"
-  },
-  {
-    "objectID": "Lectures/Lecture8_ChemStructure.html#structures-as-human-defined-information",
-    "href": "Lectures/Lecture8_ChemStructure.html#structures-as-human-defined-information",
-    "title": "Representing chemical structures",
-    "section": "Structures as human-defined information",
-    "text": "Structures as human-defined information\n\nALL structural representations of chemicals are human-defined, for example\n\nwe’ve defined atoms with 1 neutron as hydrogen, 16 neutrons as oxygen, etc.\nwe’ve decided that we can represent atoms with latin alphabet\nwe’ve decided that we can represent chemical structures …\n\nnames (and synonyms)\nIUPAC names\ndrawings (2D, 3D)\nmolecular formulas"
-  },
-  {
-    "objectID": "Lectures/Lecture8_ChemStructure.html#from-sample-to-structure",
-    "href": "Lectures/Lecture8_ChemStructure.html#from-sample-to-structure",
-    "title": "Representing chemical structures",
-    "section": "From sample to structure",
-    "text": "From sample to structure"
-  },
-  {
-    "objectID": "Lectures/Lecture8_ChemStructure.html#coming-up",
-    "href": "Lectures/Lecture8_ChemStructure.html#coming-up",
-    "title": "Representing chemical structures",
-    "section": "Coming up",
-    "text": "Coming up\n\nSeminars are running in-person on Thursday November 19th\n\n5-7 PM (SC 204) and 8-10 PM (SC W1)\n\nNext week: A numerical exploration of chemical space (combining all the chemometrics and cheminformatics we’ve discussed)"
-  },
-  {
-    "objectID": "Lectures/Lecture9_NumExploration.html#recap",
-    "href": "Lectures/Lecture9_NumExploration.html#recap",
-    "title": "A numerical exploration of chemical space!",
-    "section": "Recap",
-    "text": "Recap\n\nYou’ve looked at measurements.\nYou’ve implemented some code to process a measurement (create a vector representation)\nYou’ve looked at pairs of measurements.\nYou’ve implemented code to compare measurements (compute vector similarity and distance)\nYou’ve looked at collections of measurements.\nYou’ve conducted a library search, and we’ve discussed clustering and dimensionality reduction techniques that can be used with collections of vectors"
-  },
-  {
-    "objectID": "Lectures/Lecture9_NumExploration.html#coming-up",
-    "href": "Lectures/Lecture9_NumExploration.html#coming-up",
-    "title": "A numerical exploration of chemical space!",
-    "section": "Coming up",
-    "text": "Coming up\n\nSeminars are running in-person on Thursday November 26th\n\n5-7 PM (SC 204) and 8-10 PM (SC W1)\n\nNext week: Special Lecture with Kristen"
-  },
-  {
-    "objectID": "Lectures/Lecture9_NumExploration.html#what-is-a-sample",
-    "href": "Lectures/Lecture9_NumExploration.html#what-is-a-sample",
-    "title": "A numerical exploration of chemical space!",
-    "section": "What is a sample?",
-    "text": "What is a sample?\n\n\n A sample is a physical material we are trying to identify (or classify or safely dispose of or otherwise deal with)\n\nUsually a subset of a larger population\nInsights from the sample may allow us to infer something about the population"
-  },
-  {
-    "objectID": "Lectures/Lecture9_NumExploration.html#what-is-a-structure",
-    "href": "Lectures/Lecture9_NumExploration.html#what-is-a-structure",
-    "title": "A numerical exploration of chemical space!",
-    "section": "What is a structure?",
-    "text": "What is a structure?\n\n\n A structure is a human-defined representation of the relationship between the atoms that constitute a compound\n\nNames [common vs IUPAC]\nEncodings [SMILES vs InChI vs InChIKey]\n\nDiagrams [Line drawings]\n\nHow materials are described; How materials are scheduled"
-  },
-  {
-    "objectID": "Lectures/Lecture9_NumExploration.html#are-these-two-structures-similar",
-    "href": "Lectures/Lecture9_NumExploration.html#are-these-two-structures-similar",
-    "title": "A numerical exploration of chemical space!",
-    "section": "Are these two structures similar",
-    "text": "Are these two structures similar"
-  },
-  {
-    "objectID": "Lectures/Lecture9_NumExploration.html#are-these-structures-similar",
-    "href": "Lectures/Lecture9_NumExploration.html#are-these-structures-similar",
-    "title": "A numerical exploration of chemical space!",
-    "section": "Are these structures similar",
-    "text": "Are these structures similar"
-  },
-  {
-    "objectID": "Lectures/Lecture9_NumExploration.html#are-these-three-structures-similar",
-    "href": "Lectures/Lecture9_NumExploration.html#are-these-three-structures-similar",
-    "title": "A numerical exploration of chemical space!",
-    "section": "Are these three structures similar?",
-    "text": "Are these three structures similar?"
-  },
-  {
-    "objectID": "Lectures/Lecture9_NumExploration.html#how-can-we-objectively-compare-structures",
-    "href": "Lectures/Lecture9_NumExploration.html#how-can-we-objectively-compare-structures",
-    "title": "A numerical exploration of chemical space!",
-    "section": "How can we objectively compare structures?",
-    "text": "How can we objectively compare structures?\n\nIf we create vector representations of information contained in the structure, we can use the same math tools we used with vectors of measurements!\n\n\\(\\mathrm{Heroin}\\rightarrow\\mathrm{C}_{21}\\mathrm{H}_{23}\\mathrm{N}\\mathrm{O}_{5} \\rightarrow [21,23,1,5]\\)\n\\(\\mathrm{Fentanyl}\\rightarrow \\mathrm{C}_{22}\\mathrm{H}_{26}\\mathrm{N}_{2}\\mathrm{O} \\rightarrow [n_C,n_H,n_N,n_O]\\)\n\\(\\Delta 9 \\mathrm{THC}\\rightarrow\\mathrm{C}_{21}\\mathrm{H}_{30}\\mathrm{O}_{2} \\rightarrow [n_C,n_H,n_N,n_O]\\)\n\nMolecular fingerprints are vector encodings that account for various structural (and other) information that can be pulled form a compound"
-  },
-  {
-    "objectID": "Lectures/Lecture9_NumExploration.html#the-rcdk-package-for-chemical-structure-analysis",
-    "href": "Lectures/Lecture9_NumExploration.html#the-rcdk-package-for-chemical-structure-analysis",
-    "title": "A numerical exploration of chemical space!",
-    "section": "the rCDK package for chemical structure analysis",
-    "text": "the rCDK package for chemical structure analysis\n\nthe rcdk package is an R interface to a very popular cheminformatics library (Chemistry Development Kit)\n\nrdkit is a python interface to the same library"
-  },
-  {
-    "objectID": "Lectures/Lecture9_NumExploration.html#working-with-chemical-structures",
-    "href": "Lectures/Lecture9_NumExploration.html#working-with-chemical-structures",
-    "title": "A numerical exploration of chemical space!",
-    "section": "Working with chemical structures",
-    "text": "Working with chemical structures\n\nthe rcdk package is an R interface to a very popular cheminformatics library (Chemistry Development Kit)\n\nrdkit is a python interface to the same library\n\n\n\n\nif(\"rcdk\" %in% installed.packages()==FALSE) install.packages(\"rcdk\")\nlibrary(rcdk)\n\nLibrary = readRDS(\"asm_ReferenceMSLibrary_SWDRUG314.RDS\") # loads the reference library\n\nheroin = 1836 # these are the index values in our RDS library\nfentanyl = 1906 # these are the index values in our RDS library\nd9THC = 3284 # these are the index values in our RDS library"
-  },
-  {
-    "objectID": "Lectures/Lecture9_NumExploration.html#extracting-the-smiles-from-the-library",
-    "href": "Lectures/Lecture9_NumExploration.html#extracting-the-smiles-from-the-library",
-    "title": "A numerical exploration of chemical space!",
-    "section": "Extracting the SMILES from the library",
-    "text": "Extracting the SMILES from the library\n\nStep 1: We want to pull the SMILES for the compounds\n\n\n\nheroin_SMILES_messedUp = Library$IndexData$SMILES[heroin]\nheroin_SMILES = strsplit(heroin_SMILES_messedUp,\"\\t\")[[1]][1]\n\nheroin_mol = parse.smiles(heroin_SMILES)[[1]] # function from rcdk package\n# view.molecule.2d(heroin_mol) # function from the rcdk package\n\n\n\nWe’ll streamline the process for the other two compounds\n\n\n\nfentanyl_SMILES = strsplit(Library$IndexData$SMILES[fentanyl],\"\\t\")[[1]][1]\nfentanyl_mol = parse.smiles(fentanyl_SMILES)[[1]]\n\nd9THC_SMILES = strsplit(Library$IndexData$SMILES[d9THC],\"\\t\")[[1]][1]\nd9THC_mol = parse.smiles(d9THC_SMILES)[[1]]"
-  },
-  {
-    "objectID": "Lectures/Lecture9_NumExploration.html#converting-smiles-to-fingerprint",
-    "href": "Lectures/Lecture9_NumExploration.html#converting-smiles-to-fingerprint",
-    "title": "A numerical exploration of chemical space!",
-    "section": "Converting SMILES to fingerprint",
-    "text": "Converting SMILES to fingerprint\n\nStep 2. We want to convert the SMILES to a molecular fingerprint\n\n\n\nheroin_fp = get.fingerprint(heroin_mol,type=\"standard\") # function from the rcdk package\nfentanyl_fp = get.fingerprint(fentanyl_mol,type=\"standard\")\nd9THC_fp = get.fingerprint(d9THC_mol,type=\"standard\")\n\n\n\nStep 3. “Extract” the vector from the molecular fingerprint information\n\n\n\nheroin_x = numeric(heroin_fp@nbit)\nheroin_x[heroin_fp@bits] = 1\n\nfentanyl_x = numeric(fentanyl_fp@nbit)\nfentanyl_x[fentanyl_fp@bits] = 1\n\nd9THC_x = numeric(d9THC_fp@nbit)\nd9THC_x[d9THC_fp@bits] = 1"
-  },
-  {
-    "objectID": "Lectures/Lecture9_NumExploration.html#compare-molecular-fingerprints",
-    "href": "Lectures/Lecture9_NumExploration.html#compare-molecular-fingerprints",
-    "title": "A numerical exploration of chemical space!",
-    "section": "Compare molecular fingerprints",
-    "text": "Compare molecular fingerprints\n\nWe can use the same machinary that we developed for comparing mass spectra to compare fingerprints with some minor modifications\n\n\n\nsource(\"CustomFunctions/LibrarySearchFunctions.R\")\ncat(euclideanDistance(heroin_x,fentanyl_x))\n\n13\n\nHT_plot(seq(1,heroin_fp@nbit),heroin_x,seq(1,fentanyl_fp@nbit),fentanyl_x)"
-  },
-  {
-    "objectID": "Lectures/Lecture9_NumExploration.html#numerical-comparison-of-molecular-fingerprints",
-    "href": "Lectures/Lecture9_NumExploration.html#numerical-comparison-of-molecular-fingerprints",
-    "title": "A numerical exploration of chemical space!",
-    "section": "Numerical comparison of molecular fingerprints",
-    "text": "Numerical comparison of molecular fingerprints\n\nWe can use the same machinery that we developed for comparing mass spectra to compare fingerprints\n\n\n\nsource(\"CustomFunctions/LibrarySearchFunctions.R\")\ncat(paste0(\"Similarity between heroin and fentanyl: \", euclideanDistance(heroin_x,fentanyl_x),\"\\n\"))\n\nSimilarity between heroin and fentanyl: 13\n\ncat(paste0(\"Similarity between heroin and d9-THC: \",euclideanDistance(heroin_x,d9THC_x),\"\\n\"))\n\nSimilarity between heroin and d9-THC: 11.091\n\ncat(paste0(\"Similarity between d9THC and fentanyl: \",euclideanDistance(d9THC_x,fentanyl_x),\"\\n\"))\n\nSimilarity between d9THC and fentanyl: 11.747\n\n\n\n\nNOTE: most people wouldn’t use a euclidean distance to compare “barcode” data like fingerprints, they would use a Tanimoto index or other measure of overlap"
-  },
-  {
-    "objectID": "Lectures/Lecture9_NumExploration.html#visual-comparison-of-molecular-fingerprints",
-    "href": "Lectures/Lecture9_NumExploration.html#visual-comparison-of-molecular-fingerprints",
-    "title": "A numerical exploration of chemical space!",
-    "section": "Visual comparison of molecular fingerprints",
-    "text": "Visual comparison of molecular fingerprints\n\nWe can use the same machinery that we developed for comparing mass spectra to compare fingerprints with some minor modifications\n\n\n\nHT_plot(seq(heroin_fp@nbit),heroin_x,seq(fentanyl_fp@nbit),fentanyl_x)\nHT_plot(seq(heroin_fp@nbit),heroin_x,seq(d9THC_fp@nbit),d9THC_x)\nHT_plot(seq(d9THC_fp@nbit),d9THC_x,seq(fentanyl_fp@nbit),fentanyl_x)"
-  },
-  {
-    "objectID": "Lectures/Lecture9_NumExploration.html#key-points",
-    "href": "Lectures/Lecture9_NumExploration.html#key-points",
-    "title": "A numerical exploration of chemical space!",
-    "section": "Key Points",
-    "text": "Key Points\n\nChemometrics/informatics are very similar\nThe first step is the hardest: coming up with a reasonable way to represent the information as a vector\n\nsome articles call this encoding, embedding, feature selection\nmost articles do not explain how they do this\n\nThe second step is implementing numerical algorithms to work with vectors\n\nnot as hard anymore with open source packages\n\nDecisions at each step will affect results and interpretations, important to be explicit about design choices"
-  },
-  {
-    "objectID": "Lectures/Lecture9_NumExploration.html#chemical-space",
-    "href": "Lectures/Lecture9_NumExploration.html#chemical-space",
-    "title": "A numerical exploration of chemical space!",
-    "section": "Chemical Space!",
-    "text": "Chemical Space!\n\nLet’s create plots representing “chemical space” by looking at the structural and spectral similarity of all unique combinations of a set of compounds\n\n\n\nrm(list=ls())\nsource(\"CustomFunctions/LibrarySearchFunctions.R\")\nLibrary = readRDS(\"asm_ReferenceMSLibrary_SWDRUG314.RDS\")\nif(\"rcdk\" %in% installed.packages()==FALSE) install.packages(\"rcdk\")\nlibrary(rcdk)\n\nnCompounds = 50\nCOI = sample(seq(1,dim(Library$IndexData)[1]),nCompounds) # selecting a random set of compounds of interest (COI)\n\nnComputes = (nCompounds^2-nCompounds)/2\nSpecSimScores = numeric(nComputes)\nStrucSimScores = numeric(nComputes)\nlabels = character(nComputes)\n\ncounter = 0\nstime &lt;- system.time({\nfor(i in 1:nCompounds){\n    \n    SMILES_i = strsplit(Library$IndexData$SMILES[COI[i]],\"\\t\")[[1]][1]\n    mol_i = parse.smiles(SMILES_i)[[1]]\n    fp_i = get.fingerprint(mol_i,type=\"standard\")@bits # pulling the bits directly\n    \n    indices_i = which(Library$SpectralData$SpecID==COI[i])\n    spec_mz_i = Library$SpectralData$mz[indices_i]\n    spec_int = Library$SpectralData$int[indices_i]\n    spec_int_i = spec_int/max(spec_int)\n    \n  for(j in 1:nCompounds){\n    if(i &gt;= j) next\n  \n      SMILES_j = strsplit(Library$IndexData$SMILES[COI[j]],\"\\t\")[[1]][1]\n      mol_j = parse.smiles(SMILES_j)[[1]]\n      fp_j = get.fingerprint(mol_j,type=\"standard\")@bits\n      \n      indices_j = which(Library$SpectralData$SpecID==COI[j])\n      spec_mz_j = Library$SpectralData$mz[indices_j]\n      spec_int = Library$SpectralData$int[indices_j]\n      spec_int_j = spec_int/max(spec_int)\n    \n      maxmz = max(spec_mz_i,spec_mz_j)\n      A = spec2vec(spec_mz_i,spec_int_i,maxmz)\n      B = spec2vec(spec_mz_j,spec_int_j,maxmz)\n    \n      counter = counter + 1\n      SpecSimScores[counter] = cosineSim(A,B)\n      StrucSimScores[counter] = length(intersect(fp_i,fp_j))/length(union(fp_i,fp_j)) # this is a Tanimoto similarity coefficient\n      labels[counter] = paste0(Library$IndexData$Name[COI[i]],\"\\n vs. \\n\", Library$IndexData$Name[COI[j]])\n    \n  }\n}\n})[3]\n\ncat(paste0(\"This computation took \",round(stime,3),\" seconds.\\n\"))\nplot(SpecSimScores,StrucSimScores)\ntext(SpecSimScores,StrucSimScores,labels,cex=0.5)"
   }
 ]
